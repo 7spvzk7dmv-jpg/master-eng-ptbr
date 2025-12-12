@@ -1,418 +1,369 @@
-/* ============================================================
-   APP.JS — SISTEMA COMPLETO SRS + FILA INTELIGENTE + HISTÓRICO
-   VERSÃO: FINAL
-   ============================================================ */
+/*
+  app_eng.js
+  Inglês → PTBR
+  - dataset: data/frases.json
+  - TTS: en-US
+  - CEFR adaptativo (AUTO)
+  - SRS (SM-2 simplificado)
+  - Anti-falso-positivo: overlap >=55% ou Levenshtein <=18%
+  - Código limpo (sem logs)
+*/
 
-const DATA_PATH = "data/frases.json";
-const STORAGE_KEY = "srs_progress_v1";
-const HISTORY_KEY = "srs_history_v1";
+const DATA_PATH_ENG = "data/frases.json";
+const STORAGE_KEY_ENG = "srs_eng_progress_v1";
+const HISTORY_KEY_ENG = "srs_eng_history_v1";
 
-let frases = [];
-let srs = {};
-let current = null;
+let frasesEng = [];
+let srsEng = {};
+let currentEng = null;
 
-const today = new Date().toISOString().slice(0,10);
+let nivelAtualEng = "A1";     // adaptativo
+let janelaContagemEng = 0;
+let acertosJanelaEng = 0;
 
-const el = {
-    linha: document.getElementById("linha"),
-    fraseEng: document.getElementById("fraseEng"),
-    resposta: document.getElementById("resposta"),
-    feedback: document.getElementById("feedback"),
-    listenBtn: document.getElementById("listenBtn"),
-    checkBtn: document.getElementById("checkBtn"),
-    skipBtn: document.getElementById("skipBtn"),
-    due: document.getElementById("due"),
-    totalCount: document.getElementById("totalCount"),
-    dueCount: document.getElementById("dueCount"),
-    todayCorrect: document.getElementById("todayCorrect"),
-    todayWrong: document.getElementById("todayWrong"),
-    dashboard: document.getElementById("dashboard"),
-    historyPanel: document.getElementById("historyPanel"),
-    historyList: document.getElementById("historyList"),
-    closeHistory: document.getElementById("closeHistory"),
-    openDashboard: document.getElementById("openDashboard"),
-    toggleTheme: document.getElementById("toggleTheme")
+const todayStr = new Date().toISOString().slice(0,10);
+
+/* DOM elements (must exist in your ENG index.html) */
+const elEng = {
+  linha: document.getElementById("linha"),
+  frase: document.getElementById("fraseEng"),
+  resposta: document.getElementById("resposta"),
+  resultado: document.getElementById("resultado"),
+  listenBtn: document.getElementById("listenBtn"),
+  checkBtn: document.getElementById("checkBtn"),
+  skipBtn: document.getElementById("skipBtn"),
+  due: document.getElementById("due"),
+  totalCount: document.getElementById("totalCount"),
+  dueCount: document.getElementById("dueCount"),
+  todayCorrect: document.getElementById("todayCorrect"),
+  todayWrong: document.getElementById("todayWrong"),
+  dashboard: document.getElementById("dashboard"),
+  historyPanel: document.getElementById("historyPanel"),
+  historyList: document.getElementById("historyList"),
+  closeHistory: document.getElementById("closeHistory"),
+  openDashboard: document.getElementById("openDashboard"),
+  toggleTheme: document.getElementById("toggleTheme"),
+  exportBtn: document.getElementById("exportBtn"),
+  resetBtn: document.getElementById("resetBtn"),
+  downloadData: document.getElementById("downloadData")
 };
 
-/* ============================================================
-   FUNÇÕES DE NORMALIZAÇÃO E CORREÇÃO TOLERANTE
-   ============================================================ */
-
-function norm(s) {
-    return s
-        .toLowerCase()
-        .normalize("NFD").replace(/\p{Diacritic}/gu, "")
-        .replace(/[\"'`.,;:!?()\-]/g, "")
-        .replace(/\s+/g, " ")
-        .trim();
+/* ---------- Normalization & tolerant matching ---------- */
+function normText(s){
+  if(!s) return "";
+  return s.toString()
+    .toLowerCase()
+    .normalize("NFD").replace(/[\u0300-\u036f]/g,"")
+    .replace(/[\"'`.,;:!?()\-]/g,"")
+    .replace(/\s+/g," ")
+    .trim();
 }
 
-function levenshtein(a, b) {
-    const m = [];
-    for (let i = 0; i <= a.length; i++) m[i] = [i];
-    for (let j = 0; j <= b.length; j++) m[0][j] = j;
-
-    for (let i = 1; i <= a.length; i++) {
-        for (let j = 1; j <= b.length; j++) {
-            const cost = a[i - 1] === b[j - 1] ? 0 : 1;
-            m[i][j] = Math.min(
-                m[i - 1][j] + 1,
-                m[i][j - 1] + 1,
-                m[i - 1][j - 1] + cost
-            );
-        }
+function levenshtein(a,b){
+  const m = [];
+  for(let i=0;i<=a.length;i++) m[i]=[i];
+  for(let j=0;j<=b.length;j++) m[0][j]=j;
+  for(let i=1;i<=a.length;i++){
+    for(let j=1;j<=b.length;j++){
+      const cost = a[i-1]===b[j-1]?0:1;
+      m[i][j] = Math.min(m[i-1][j]+1, m[i][j-1]+1, m[i-1][j-1]+cost);
     }
-    return m[a.length][b.length];
+  }
+  return m[a.length][b.length];
 }
 
-function isCorrect(user, target) {
-    const a = norm(user);
-    const b = norm(target);
+function isCorrectEng(user, target){
+  const a = normText(user);
+  const b = normText(target);
+  if(a.length===0) return false;
+  if(a === b) return true;
 
-    if (a.length === 0) return false;
-    if (a === b) return true;
+  const at = a.split(" ");
+  const bt = b.split(" ");
+  const common = at.filter(t => bt.includes(t)).length;
+  const ratio = common / Math.max(bt.length,1);
+  if(ratio >= 0.55) return true;
 
-    // TOKEN OVERLAP ≥ 40%
-    const at = a.split(" ");
-    const bt = b.split(" ");
-    const common = at.filter(t => bt.includes(t)).length;
-    const ratio = common / Math.max(bt.length, 1);
-
-    if (ratio >= 0.40) return true;
-
-    // LEVENSHTEIN ≤ 30% de diferença
-    const dist = levenshtein(a, b);
-    const maxDist = Math.ceil(b.length * 0.30);
-    return dist <= maxDist;
-}
-/* ============================================================
-   CARREGAMENTO, HISTÓRICO E PROGRESSO
-   ============================================================ */
-
-function loadJSON(path){
-    return fetch(path).then(r => r.json());
+  const dist = levenshtein(a,b);
+  const maxDist = Math.ceil(b.length * 0.18);
+  return dist <= maxDist;
 }
 
-function loadProgress(){
-    const raw = localStorage.getItem(STORAGE_KEY);
-    if (raw) srs = JSON.parse(raw);
+/* ---------- Storage & history ---------- */
+function loadProgressEng(){
+  const raw = localStorage.getItem(STORAGE_KEY_ENG);
+  if(raw) try { srsEng = JSON.parse(raw); } catch(e){ srsEng = {}; }
 }
 
-function saveProgress(){
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(srs));
+function saveProgressEng(){
+  localStorage.setItem(STORAGE_KEY_ENG, JSON.stringify(srsEng));
 }
 
-function loadHistory(){
-    const raw = localStorage.getItem(HISTORY_KEY);
-    if (!raw) return [];
-    try { 
-        return JSON.parse(raw); 
-    } catch (e){
-        return [];
+function loadHistoryEng(){
+  const raw = localStorage.getItem(HISTORY_KEY_ENG);
+  if(!raw) return [];
+  try { return JSON.parse(raw); } catch(e) { return []; }
+}
+
+function pushHistoryEng(entry){
+  const h = loadHistoryEng();
+  h.unshift(entry);
+  if(h.length > 500) h.length = 500;
+  localStorage.setItem(HISTORY_KEY_ENG, JSON.stringify(h));
+}
+
+/* ---------- SRS initialization ---------- */
+function initSrsEntryEng(linha){
+  if(!srsEng[linha]){
+    srsEng[linha] = {
+      linha,
+      reps: 0,
+      ease: 2.5,
+      interval: 0,
+      lapses: 0,
+      corrects: 0,
+      wrongs: 0,
+      due: todayStr
+    };
+  }
+}
+
+function initAllEng(){
+  frasesEng.forEach(f => initSrsEntryEng(f.linha));
+  saveProgressEng();
+}
+
+/* ---------- Selection & stats ---------- */
+function computeDueCountEng(){
+  const now = new Date().toISOString().slice(0,10);
+  const due = Object.values(srsEng).filter(x => x.due <= now).length;
+  if(elEng.dueCount) elEng.dueCount.textContent = due;
+  if(elEng.totalCount) elEng.totalCount.textContent = frasesEng.length;
+}
+
+function pickNextEng(){
+  // Prefer due items, but allow level filtering (AUTO: nivelAtualEng)
+  const now = new Date().toISOString().slice(0,10);
+  let candidates = frasesEng.filter(f => srsEng[f.linha] && srsEng[f.linha].due <= now);
+
+  if(candidates.length === 0) {
+    // fallback: choose items from current level that are soonest due or random
+    candidates = frasesEng.filter(f => f.nivel === nivelAtualEng);
+    if(candidates.length === 0) candidates = frasesEng.slice();
+  }
+
+  // weighted by lapses and newness
+  const weighted = candidates.map(f => {
+    const meta = srsEng[f.linha] || {lapses:0, interval:0};
+    const weight = 1 + (meta.lapses || 0) * 3 + ((meta.interval || 0) === 0 ? 2 : 0);
+    return {f, weight};
+  });
+
+  const total = weighted.reduce((s,w) => s + w.weight, 0);
+  let r = Math.random() * total;
+  for(const w of weighted){
+    r -= w.weight;
+    if(r <= 0) return w.f;
+  }
+  return weighted[weighted.length - 1].f;
+}
+
+/* ---------- Render & TTS ---------- */
+function renderCardEng(card){
+  currentEng = card;
+  if(elEng.linha) elEng.linha.textContent = card.linha;
+  if(elEng.frase) elEng.frase.textContent = card.ENG || card.ENG;
+  if(elEng.resposta) elEng.resposta.value = "";
+  if(elEng.resultado) elEng.resultado.innerHTML = "";
+  if(elEng.due && srsEng[card.linha]) elEng.due.textContent = srsEng[card.linha].due;
+}
+
+function speakEng(text){
+  if(!("speechSynthesis" in window)) return;
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = "en-US";
+  u.rate = 0.95;
+  window.speechSynthesis.cancel();
+  window.speechSynthesis.speak(u);
+}
+
+/* ---------- Apply SRS ---------- */
+function applySrsEng(meta, correct){
+  if(correct){
+    meta.reps = (meta.reps || 0) + 1;
+    meta.corrects = (meta.corrects || 0) + 1;
+    if(meta.reps === 1) meta.interval = 1;
+    else if(meta.reps === 2) meta.interval = 3;
+    else meta.interval = Math.round((meta.interval || 1) * meta.ease);
+    meta.ease = Math.max(1.3, (meta.ease || 2.5) + 0.03);
+  } else {
+    meta.lapses = (meta.lapses || 0) + 1;
+    meta.wrongs = (meta.wrongs || 0) + 1;
+    meta.reps = 0;
+    meta.interval = 0;
+    meta.ease = Math.max(1.3, (meta.ease || 2.5) - 0.15);
+  }
+  const next = new Date();
+  next.setDate(next.getDate() + (meta.interval || 0));
+  meta.due = next.toISOString().slice(0,10);
+  saveProgressEng();
+}
+
+/* ---------- Adaptive level controller ---------- */
+function updateAdaptiveEng(correct){
+  janelaContagemEng++;
+  if(correct) acertosJanelaEng++;
+  // after 12 attempts evaluate
+  if(janelaContagemEng >= 12){
+    const acc = acertosJanelaEng / janelaContagemEng;
+    if(acc >= 0.75){
+      if(nivelAtualEng === "A1") nivelAtualEng = "A2";
+      else if(nivelAtualEng === "A2") nivelAtualEng = "B1";
+      else if(nivelAtualEng === "B1") nivelAtualEng = "B2";
+      else if(nivelAtualEng === "B2") nivelAtualEng = "C1";
+    } else if(acc <= 0.35){
+      if(nivelAtualEng === "C1") nivelAtualEng = "B2";
+      else if(nivelAtualEng === "B2") nivelAtualEng = "B1";
+      else if(nivelAtualEng === "B1") nivelAtualEng = "A2";
+      else if(nivelAtualEng === "A2") nivelAtualEng = "A1";
     }
+    janelaContagemEng = 0;
+    acertosJanelaEng = 0;
+  }
 }
 
-function pushHistory(entry){
-    const h = loadHistory();
-    h.unshift(entry);
-    if (h.length > 300) h.length = 300;
-    localStorage.setItem(HISTORY_KEY, JSON.stringify(h));
+/* ---------- Handlers ---------- */
+function handleCheckEng(){
+  const user = elEng.resposta ? elEng.resposta.value.trim() : "";
+  const expected = currentEng ? currentEng.PTBR : "";
+  const correct = isCorrectEng(user, expected);
+
+  const meta = srsEng[currentEng.linha];
+  applySrsEng(meta, correct);
+
+  pushHistoryEng({
+    time: new Date().toISOString(),
+    linha: currentEng.linha,
+    ENG: currentEng.ENG,
+    PTBR: expected,
+    answer: user,
+    correct: correct,
+    nivel: currentEng.nivel
+  });
+
+  updateAdaptiveEng(correct);
+
+  if(elEng.resultado) {
+    elEng.resultado.innerHTML = correct ? `<div class="ok">✅ Correto<br><small>${expected}</small></div>` : `<div class="bad">❌ Incorreto<br><strong>${expected}</strong></div>`;
+  }
+
+  renderStatsEng();
 }
 
-/* ============================================================
-   INICIALIZAÇÃO DO SRS
-   ============================================================ */
-
-function initSRS(linha){
-    if (!srs[linha]) {
-        srs[linha] = {
-            linha,
-            interval: 0,
-            ease: 2.5,
-            reps: 0,
-            lapses: 0,
-            due: today,
-            corrects: 0,
-            wrongs: 0,
-            lastAnswer: null
-        };
-    }
+function handleSkipEng(){
+  const meta = srsEng[currentEng.linha];
+  applySrsEng(meta, false);
+  pushHistoryEng({
+    time: new Date().toISOString(),
+    linha: currentEng.linha,
+    ENG: currentEng.ENG,
+    PTBR: currentEng.PTBR,
+    skipped: true,
+    correct: false,
+    nivel: currentEng.nivel
+  });
+  renderStatsEng();
+  nextCardEng();
 }
 
-function initAll(){
-    frases.forEach(f => initSRS(f.linha));
-    saveProgress();
+function nextCardEng(){
+  const card = pickNextEng();
+  renderCardEng(card);
 }
 
-/* ============================================================
-   CONTAGEM E SELEÇÃO DE CARTÕES
-   ============================================================ */
-
-function computeDueCount(){
-    const now = new Date().toISOString().slice(0,10);
-    const due = Object.values(srs).filter(x => x.due <= now).length;
-    el.dueCount.textContent = due;
-    el.totalCount.textContent = frases.length;
+/* ---------- Stats / History UI ---------- */
+function renderStatsEng(){
+  computeDueCountEng();
+  const history = loadHistoryEng();
+  const t = new Date().toISOString().slice(0,10);
+  if(elEng.todayCorrect) elEng.todayCorrect.textContent = history.filter(h => h.time && h.time.slice(0,10) === t && h.correct).length;
+  if(elEng.todayWrong) elEng.todayWrong.textContent = history.filter(h => h.time && h.time.slice(0,10) === t && !h.correct).length;
 }
 
-function pickNext(){
-    const now = new Date().toISOString().slice(0,10);
-
-    // Seleciona todos os cartões vencidos
-    let due = frases.filter(f => srs[f.linha].due <= now);
-
-    // Se nenhum estiver vencido, retorna o mais próximo de vencer
-    if (due.length === 0){
-        return frases.slice().sort((a,b)=>
-            new Date(srs[a.linha].due) - new Date(srs[b.linha].due)
-        )[0];
-    }
-
-    // FILA INTELIGENTE — pesos dinâmicos
-    const weighted = due.map(f => {
-        const meta = srs[f.linha];
-        const weight = 1 
-            + meta.lapses * 3     // frases com mais erros aparecem mais
-            + (meta.interval === 0 ? 2 : 0);   // frases novas têm prioridade
-        return { f, weight };
-    });
-
-    const total = weighted.reduce((s,w) => s + w.weight, 0);
-    let r = Math.random() * total;
-
-    for (const w of weighted){
-        r -= w.weight;
-        if (r <= 0) return w.f;
-    }
-
-    return weighted[weighted.length - 1].f;
-}
-/* ============================================================
-   RENDERIZAÇÃO DO CARTÃO E FUNÇÕES DE FALA
-   ============================================================ */
-
-function renderCard(card){
-    current = card;
-    el.linha.textContent = card.linha;
-    el.fraseEng.textContent = card.ENG;
-    el.resposta.value = "";
-    el.feedback.innerHTML = "";
-    el.due.textContent = srs[card.linha].due;
+function renderHistoryEng(){
+  const h = loadHistoryEng();
+  if(!elEng.historyList) return;
+  elEng.historyList.innerHTML = "";
+  h.slice(0,200).forEach(item => {
+    const li = document.createElement("li");
+    li.innerHTML = `<small>${item.time}</small> — <strong>#${item.linha}</strong> — "${item.ENG}" — ${item.correct ? "<span style='color:green'>✔</span>" : "<span style='color:red'>✖</span>"}`;
+    elEng.historyList.appendChild(li);
+  });
 }
 
-function speak(text){
-    const u = new SpeechSynthesisUtterance(text);
-    u.lang = "en-US";
-    u.rate = 0.95;
-    speechSynthesis.cancel();
-    speechSynthesis.speak(u);
+/* ---------- Theme, export, reset ---------- */
+function tryLoadThemeEng(){
+  const t = localStorage.getItem("ui_theme");
+  if(t) document.documentElement.setAttribute("data-theme", t);
+  else {
+    const prefers = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    document.documentElement.setAttribute("data-theme", prefers ? "dark" : "light");
+  }
 }
 
-/* ============================================================
-   ALGORITMO SRS (VERSÃO MELHORADA)
-   ============================================================ */
-
-function applySRS(meta, correct){
-    if (correct){
-        meta.reps += 1;
-        meta.corrects++;
-
-        if (meta.reps === 1) meta.interval = 1;
-        else if (meta.reps === 2) meta.interval = 3;
-        else meta.interval = Math.round(meta.interval * meta.ease);
-
-        meta.ease = Math.max(1.3, meta.ease + 0.03);
-
-    } else {
-        meta.lapses++;
-        meta.wrongs++;
-        meta.reps = 0;
-        meta.interval = 0;
-        meta.ease = Math.max(1.3, meta.ease - 0.15);
-    }
-
-    const next = new Date();
-    next.setDate(next.getDate() + meta.interval);
-    meta.due = next.toISOString().slice(0,10);
-    meta.lastAnswer = new Date().toISOString();
+function exportSrsEng(){
+  const blob = new Blob([JSON.stringify(srsEng, null, 2)], {type: "application/json"});
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "srs_eng_export.json";
+  a.click();
+  URL.revokeObjectURL(a.href);
 }
 
-/* ============================================================
-   FEEDBACK AO USUÁRIO
-   ============================================================ */
-
-function showFeedback(correct, expected){
-    if (correct){
-        el.feedback.innerHTML = `
-            <div class='ok'>
-                ✅ Correto!<br>
-                <small>${expected}</small>
-            </div>`;
-    } else {
-        el.feedback.innerHTML = `
-            <div class='bad'>
-                ❌ Incorreto.<br>
-                <strong>${expected}</strong>
-            </div>`;
-    }
-}
-/* ============================================================
-   AÇÕES DO USUÁRIO: CHECK, SKIP, NEXT CARD
-   ============================================================ */
-
-function handleCheck(){
-    const ans = el.resposta.value.trim();
-    const expected = current.PTBR;
-    const correct = isCorrect(ans, expected);
-
-    const meta = srs[current.linha];
-
-    applySRS(meta, correct);
-
-    pushHistory({
-        linha: current.linha,
-        eng: current.ENG,
-        user: ans,
-        correct,
-        ptbr: expected,
-        time: new Date().toISOString()
-    });
-
-    saveProgress();
-    renderStats();
-    showFeedback(correct, expected);
+function resetProgressEng(){
+  if(!confirm("Resetar todo o progresso do treino de Inglês?")) return;
+  localStorage.removeItem(STORAGE_KEY_ENG);
+  localStorage.removeItem(HISTORY_KEY_ENG);
+  srsEng = {};
+  initAllEng();
+  renderStatsEng();
+  nextCardEng();
 }
 
-function handleSkip(){
-    const meta = srs[current.linha];
-
-    applySRS(meta, false);
-
-    pushHistory({
-        linha: current.linha,
-        eng: current.ENG,
-        skipped: true,
-        correct: false,
-        ptbr: current.PTBR,
-        time: new Date().toISOString()
-    });
-
-    saveProgress();
-    renderStats();
-    nextCard();
-}
-
-function nextCard(){
-    const card = pickNext();
-    renderCard(card);
-}
-
-/* ============================================================
-   ESTATÍSTICAS
-   ============================================================ */
-
-function renderStats(){
-    computeDueCount();
-
-    const history = loadHistory();
-    const day = new Date().toISOString().slice(0,10);
-
-    el.todayCorrect.textContent = history.filter(h =>
-        h.time.slice(0,10) === day && h.correct
-    ).length;
-
-    el.todayWrong.textContent = history.filter(h =>
-        h.time.slice(0,10) === day && !h.correct
-    ).length;
-}
-/* ============================================================
-   TEMA (DARK MODE) E HISTÓRICO
-   ============================================================ */
-
-function tryLoadTheme(){
-    const t = localStorage.getItem("ui_theme");
-
-    if (t) {
-        document.documentElement.setAttribute("data-theme", t);
-    } else {
-        // Respeita o tema do sistema
-        const prefersDark = window.matchMedia("(prefers-color-scheme:dark)").matches;
-        document.documentElement.setAttribute("data-theme", prefersDark ? "dark" : "light");
-    }
-}
-
-function renderHistoryPanel(){
-    const history = loadHistory();
-    el.historyList.innerHTML = "";
-
-    history.slice(0,50).forEach(h => {
-        const li = document.createElement("li");
-        li.innerHTML = `
-            <small>${h.time}</small>
-            — <strong>#${h.linha}</strong>
-            — "${h.eng}"
-            — ${h.correct ? "<span style='color:green'>✔</span>" : "<span style='color:red'>✘</span>"}
-        `;
-        el.historyList.appendChild(li);
-    });
-}
-
-/* ============================================================
-   EVENT LISTENERS (BOTÕES E INTERAÇÕES)
-   ============================================================ */
-
-el.listenBtn.addEventListener("click", () => {
-    if (current) speak(current.ENG);
+/* ---------- Events binding ---------- */
+if(elEng.listenBtn) elEng.listenBtn.addEventListener("click", ()=> speakEng(currentEng ? currentEng.ENG : ""));
+if(elEng.checkBtn) elEng.checkBtn.addEventListener("click", handleCheckEng);
+if(elEng.skipBtn) elEng.skipBtn.addEventListener("click", handleSkipEng);
+if(elEng.openDashboard) elEng.openDashboard.addEventListener("click", ()=> { if(elEng.dashboard) elEng.dashboard.classList.toggle("hidden"); renderStatsEng(); });
+if(elEng.closeHistory) elEng.closeHistory.addEventListener("click", ()=> { if(elEng.historyPanel) elEng.historyPanel.classList.add("hidden"); });
+if(elEng.toggleTheme) elEng.toggleTheme.addEventListener("click", ()=> {
+  const root = document.documentElement;
+  const cur = root.getAttribute("data-theme");
+  const next = cur === "dark" ? "light" : "dark";
+  root.setAttribute("data-theme", next);
+  localStorage.setItem("ui_theme", next);
+});
+if(elEng.exportBtn) elEng.exportBtn.addEventListener("click", exportSrsEng);
+if(elEng.resetBtn) elEng.resetBtn.addEventListener("click", resetProgressEng);
+if(elEng.downloadData) elEng.downloadData.addEventListener("click", ()=>{
+  const data = { srs: srsEng, history: loadHistoryEng() };
+  const blob = new Blob([JSON.stringify(data,null,2)], {type: "application/json"});
+  elEng.downloadData.href = URL.createObjectURL(blob);
 });
 
-el.checkBtn.addEventListener("click", handleCheck);
-
-el.skipBtn.addEventListener("click", handleSkip);
-
-el.toggleTheme.addEventListener("click", () => {
-    const root = document.documentElement;
-    const cur = root.getAttribute("data-theme");
-    const next = cur === "dark" ? "light" : "dark";
-    root.setAttribute("data-theme", next);
-    localStorage.setItem("ui_theme", next);
-});
-
-try {
-    document.getElementById("openHistory")?.addEventListener("click", () => {
-        renderHistoryPanel();
-        el.historyPanel.classList.remove("hidden");
-    });
-
-    el.closeHistory?.addEventListener("click", () => {
-        el.historyPanel.classList.add("hidden");
-    });
-} catch (e){
-    console.warn("Painel de histórico não encontrado.");
+/* ---------- Boot ---------- */
+async function bootEng(){
+  try {
+    frasesEng = await fetch(DATA_PATH_ENG).then(r => r.json());
+  } catch(e){
+    if(elEng.frase) elEng.frase.textContent = "Erro ao carregar dataset (data/frases.json)";
+    return;
+  }
+  loadProgressEng();
+  initAllEng();
+  renderStatsEng();
+  tryLoadThemeEng();
+  nextCardEng();
 }
 
-el.openDashboard?.addEventListener("click", () => {
-    el.dashboard.classList.toggle("hidden");
-    renderStats();
-});
-/* ============================================================
-   BOOT — INICIALIZAÇÃO FINAL DO SISTEMA
-   ============================================================ */
-
-async function boot() {
-    try {
-        frases = await loadJSON(DATA_PATH);
-    } catch (e) {
-        el.fraseEng.textContent = "Erro ao carregar data/frases.json — verifique o caminho.";
-        console.error("Erro ao carregar frases.json:", e);
-        return;
-    }
-
-    loadProgress();
-    initAll();      // inicializa SRS para todas as frases
-    renderStats();  // estatísticas iniciais
-    nextCard();     // mostra a primeira frase
-    tryLoadTheme(); // aplica tema dark/light
-}
-
-// Inicia o sistema
-boot();
+bootEng();
