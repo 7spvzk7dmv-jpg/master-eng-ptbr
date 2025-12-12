@@ -1,3002 +1,2492 @@
 [
-  {
-    "linha": 1,
-    "nivel": "A2",
-    "ENG": "I'm running out of time",
-    "PTBR": "Estou ficando sem tempo"
-  },
-  {
-    "linha": 2,
-    "nivel": "A2",
-    "ENG": "I'm feeling under the weather",
-    "PTBR": "Não estou me sentindo bem"
-  },
-  {
-    "linha": 3,
-    "nivel": "A2",
-    "ENG": "Let's call it a day",
-    "PTBR": "Vamos encerrar por hoje"
-  },
-  {
-    "linha": 4,
-    "nivel": "A1",
-    "ENG": "I'm not buying it",
-    "PTBR": "Não estou acreditando nisso"
-  },
-  {
-    "linha": 5,
-    "nivel": "A2",
-    "ENG": "It is what it is",
-    "PTBR": "É o que é"
-  },
-  {
-    "linha": 6,
-    "nivel": "A1",
-    "ENG": "Don't get me wrong",
-    "PTBR": "Não me entenda mal"
-  },
-  {
-    "linha": 7,
-    "nivel": "A1",
-    "ENG": "Long story short",
-    "PTBR": "Resumindo"
-  },
-  {
-    "linha": 8,
-    "nivel": "A2",
-    "ENG": "At the end of the day",
-    "PTBR": "No fim das contas"
-  },
-  {
-    "linha": 9,
-    "nivel": "A2",
-    "ENG": "I'm on the same page",
-    "PTBR": "Estou de acordo"
-  },
-  {
-    "linha": 10,
-    "nivel": "A2",
-    "ENG": "I'm in over my head",
-    "PTBR": "Estou sobrecarregado"
-  },
-  {
-    "linha": 11,
-    "nivel": "A2",
-    "ENG": "Let's play it by ear",
-    "PTBR": "Vamos ver como as coisas acontecem"
-  },
-  {
-    "linha": 12,
-    "nivel": "A2",
-    "ENG": "The company want pay the bill .",
-    "PTBR": "The company want pay the bill ."
-  },
-  {
-    "linha": 13,
-    "nivel": "B1",
-    "ENG": "I plan to find a solution without delay.",
-    "PTBR": "Eu plan to find a solution without delay."
-  },
-  {
-    "linha": 14,
-    "nivel": "A1",
-    "ENG": "How's it going?",
-    "PTBR": "Como vai?"
-  },
-  {
-    "linha": 15,
-    "nivel": "A2",
-    "ENG": "People keep move on when you can.",
-    "PTBR": "People keep move on when you can."
-  },
-  {
-    "linha": 16,
-    "nivel": "B1",
-    "ENG": "I've been learning a lot since I started this job.",
-    "PTBR": "I've been learning a lot since Eu started this job."
-  },
-  {
-    "linha": 17,
-    "nivel": "C1",
-    "ENG": "It would be great if we could talk about the budget tomorrow.",
-    "PTBR": "Seria ótimo se pudéssemos falar sobre o orçamento amanhã."
-  },
-  {
-    "linha": 18,
-    "nivel": "A2",
-    "ENG": "Where did you put the keys?",
-    "PTBR": "Where did you put the keys?"
-  },
-  {
-    "linha": 19,
-    "nivel": "B1",
-    "ENG": "He hope to meet the deadline after lunch.",
-    "PTBR": "Ele hope to meet the deadline after lunch."
-  },
-  {
-    "linha": 20,
-    "nivel": "A2",
-    "ENG": "What do you think about that?",
-    "PTBR": "O que você acha disso?"
-  },
-  {
-    "linha": 21,
-    "nivel": "A2",
-    "ENG": "The company prefer to meet the deadline .",
-    "PTBR": "The company prefer to meet the deadline ."
-  },
-  {
-    "linha": 22,
-    "nivel": "B1",
-    "ENG": "If we don't act now, we'll miss the opportunity.",
-    "PTBR": "Se não agirmos agora, perderemos a oportunidade."
-  },
-  {
-    "linha": 23,
-    "nivel": "A2",
-    "ENG": "You plan to find a solution .",
-    "PTBR": "Você plan to find a solution ."
-  },
-  {
-    "linha": 24,
-    "nivel": "B1",
-    "ENG": "You plan to finish the report as soon as possible.",
-    "PTBR": "Você plan to finish the report as soon as possible."
-  },
-  {
-    "linha": 25,
-    "nivel": "B1",
-    "ENG": "She explained the plan, and everyone agreed to follow it.",
-    "PTBR": "Ela explained the plan, and everyone agreed to follow it."
-  },
-  {
-    "linha": 26,
-    "nivel": "A1",
-    "ENG": "We am tired.",
-    "PTBR": "Nós am tired."
-  },
-  {
-    "linha": 27,
-    "nivel": "A2",
-    "ENG": "Are you coming to the meeting?",
-    "PTBR": "Você virá para a reunião?"
-  },
-  {
-    "linha": 28,
-    "nivel": "A2",
-    "ENG": "The team have on a trip.",
-    "PTBR": "The team have on a trip."
-  },
-  {
-    "linha": 29,
-    "nivel": "A2",
-    "ENG": "I need call her back by tomorrow.",
-    "PTBR": "Eu need call her back by tomorrow."
-  },
-  {
-    "linha": 30,
-    "nivel": "A1",
-    "ENG": "They was busy.",
-    "PTBR": "Eles was busy."
-  },
-  {
-    "linha": 31,
-    "nivel": "A1",
-    "ENG": "The company am late.",
-    "PTBR": "The company am late."
-  },
-  {
-    "linha": 32,
-    "nivel": "B1",
-    "ENG": "The company have been late.",
-    "PTBR": "The company have been late."
-  },
-  {
-    "linha": 33,
-    "nivel": "A2",
-    "ENG": "Do you have a minute?",
-    "PTBR": "Você tem um minuto?"
-  },
-  {
-    "linha": 34,
-    "nivel": "B2",
-    "ENG": "Even though I was tired, I finished the project on time.",
-    "PTBR": "Mesmo estando cansado, terminei o projeto a tempo."
-  },
-  {
-    "linha": 35,
-    "nivel": "A1",
-    "ENG": "She am busy.",
-    "PTBR": "Ela am busy."
-  },
-  {
-    "linha": 36,
-    "nivel": "A2",
-    "ENG": "Everyone prefer to move on .",
-    "PTBR": "Everyone prefer to move on ."
-  },
-  {
-    "linha": 37,
-    "nivel": "B1",
-    "ENG": "They prefer to book the flight as soon as possible.",
-    "PTBR": "Eles prefer to book the flight as soon as possible."
-  },
-  {
-    "linha": 38,
-    "nivel": "A2",
-    "ENG": "We need call her back by tomorrow.",
-    "PTBR": "Nós need call her back by tomorrow."
-  },
-  {
-    "linha": 39,
-    "nivel": "A2",
-    "ENG": "They have to stay focused without delay.",
-    "PTBR": "Eles have to stay focused without delay."
-  },
-  {
-    "linha": 40,
-    "nivel": "A2",
-    "ENG": "I have to slow down .",
-    "PTBR": "Eu have to slow down ."
-  },
-  {
-    "linha": 41,
-    "nivel": "B1",
-    "ENG": "Someone try to get things done by tomorrow.",
-    "PTBR": "Someone try to get things done by tomorrow."
-  },
-  {
-    "linha": 42,
-    "nivel": "A2",
-    "ENG": "I have in a rush.",
-    "PTBR": "Eu have in a rush."
-  },
-  {
-    "linha": 43,
-    "nivel": "B1",
-    "ENG": "Would you like some coffee?",
-    "PTBR": "Você gostaria de um café?"
-  },
-  {
-    "linha": 44,
-    "nivel": "B1",
-    "ENG": "We forgot to meet the deadline before the meeting.",
-    "PTBR": "Nós forgot to meet the deadline before the meeting."
-  },
-  {
-    "linha": 45,
-    "nivel": "A2",
-    "ENG": "Everyone forgot to book the flight .",
-    "PTBR": "Everyone forgot to book the flight ."
-  },
-  {
-    "linha": 46,
-    "nivel": "A2",
-    "ENG": "Everyone hope to stay focused .",
-    "PTBR": "Everyone hope to stay focused ."
-  },
-  {
-    "linha": 47,
-    "nivel": "A2",
-    "ENG": "You forgot to finish the report .",
-    "PTBR": "Você forgot to finish the report ."
-  },
-  {
-    "linha": 48,
-    "nivel": "B1",
-    "ENG": "He want slow down as soon as possible.",
-    "PTBR": "Ele want slow down as soon as possible."
-  },
-  {
-    "linha": 49,
-    "nivel": "A2",
-    "ENG": "Can you help me with this?",
-    "PTBR": "Você pode me ajudar com isso?"
-  },
-  {
-    "linha": 50,
-    "nivel": "A2",
-    "ENG": "You expect to move on .",
-    "PTBR": "Você expect to move on ."
-  },
-  {
-    "linha": 51,
-    "nivel": "B1",
-    "ENG": "The company need book the flight when you can.",
-    "PTBR": "The company need book the flight when you can."
-  },
-  {
-    "linha": 52,
-    "nivel": "A2",
-    "ENG": "She have on a trip.",
-    "PTBR": "Ela have on a trip."
-  },
-  {
-    "linha": 53,
-    "nivel": "A2",
-    "ENG": "I need finish the report .",
-    "PTBR": "Eu need finish the report ."
-  },
-  {
-    "linha": 54,
-    "nivel": "A2",
-    "ENG": "You try to make it work .",
-    "PTBR": "Você try to make it work ."
-  },
-  {
-    "linha": 55,
-    "nivel": "B1",
-    "ENG": "The company have been on a trip.",
-    "PTBR": "The company have been on a trip."
-  },
-  {
-    "linha": 56,
-    "nivel": "A2",
-    "ENG": "My friend plan to call her back .",
-    "PTBR": "My friend plan to call her back ."
-  },
-  {
-    "linha": 57,
-    "nivel": "A2",
-    "ENG": "We was in a rush.",
-    "PTBR": "Nós was in a rush."
-  },
-  {
-    "linha": 58,
-    "nivel": "A2",
-    "ENG": "Have you seen my phone?",
-    "PTBR": "Você viu meu telefone?"
-  },
-  {
-    "linha": 59,
-    "nivel": "A2",
-    "ENG": "Someone try to stay focused without delay.",
-    "PTBR": "Someone try to stay focused without delay."
-  },
-  {
-    "linha": 60,
-    "nivel": "B1",
-    "ENG": "He prefer to pay the bill by tomorrow.",
-    "PTBR": "Ele prefer to pay the bill by tomorrow."
-  },
-  {
-    "linha": 61,
-    "nivel": "A1",
-    "ENG": "You was late.",
-    "PTBR": "Você was late."
-  },
-  {
-    "linha": 62,
-    "nivel": "A2",
-    "ENG": "You was on a trip.",
-    "PTBR": "Você was on a trip."
-  },
-  {
-    "linha": 63,
-    "nivel": "B1",
-    "ENG": "She forgot to take a break when you can.",
-    "PTBR": "Ela forgot to take a break when you can."
-  },
-  {
-    "linha": 64,
-    "nivel": "B1",
-    "ENG": "Someone decided to take a break if possible.",
-    "PTBR": "Someone decided to take a break if possible."
-  },
-  {
-    "linha": 65,
-    "nivel": "A2",
-    "ENG": "I decided to make it work .",
-    "PTBR": "Eu decided to make it work ."
-  },
-  {
-    "linha": 66,
-    "nivel": "A1",
-    "ENG": "He am late.",
-    "PTBR": "Ele am late."
-  },
-  {
-    "linha": 67,
-    "nivel": "A1",
-    "ENG": "He have tired.",
-    "PTBR": "Ele have tired."
-  },
-  {
-    "linha": 68,
-    "nivel": "A2",
-    "ENG": "You was in a rush.",
-    "PTBR": "Você was in a rush."
-  },
-  {
-    "linha": 69,
-    "nivel": "A1",
-    "ENG": "They have tired.",
-    "PTBR": "Eles have tired."
-  },
-  {
-    "linha": 70,
-    "nivel": "A1",
-    "ENG": "He am busy.",
-    "PTBR": "Ele am busy."
-  },
-  {
-    "linha": 71,
-    "nivel": "B1",
-    "ENG": "You have been late.",
-    "PTBR": "Você have been late."
-  },
-  {
-    "linha": 72,
-    "nivel": "B1",
-    "ENG": "People managed to get things done with pleasure.",
-    "PTBR": "People managed to get things done with pleasure."
-  },
-  {
-    "linha": 73,
-    "nivel": "B1",
-    "ENG": "You plan to take a break as soon as possible.",
-    "PTBR": "Você plan to take a break as soon as possible."
-  },
-  {
-    "linha": 74,
-    "nivel": "A2",
-    "ENG": "You don't want to find a solution .",
-    "PTBR": "Você don't want to find a solution ."
-  },
-  {
-    "linha": 75,
-    "nivel": "A2",
-    "ENG": "He keep find a solution .",
-    "PTBR": "Ele keep find a solution ."
-  },
-  {
-    "linha": 76,
-    "nivel": "B1",
-    "ENG": "We don't want to stay focused if possible.",
-    "PTBR": "Nós don't want to stay focused if possible."
-  },
-  {
-    "linha": 77,
-    "nivel": "B1",
-    "ENG": "People don't want to make it work if possible.",
-    "PTBR": "People don't want to make it work if possible."
-  },
-  {
-    "linha": 78,
-    "nivel": "A2",
-    "ENG": "My friend have to take a break .",
-    "PTBR": "My friend have to take a break ."
-  },
-  {
-    "linha": 79,
-    "nivel": "B1",
-    "ENG": "He feel like take a break after lunch.",
-    "PTBR": "Ele feel like take a break after lunch."
-  },
-  {
-    "linha": 80,
-    "nivel": "A2",
-    "ENG": "We have to meet the deadline .",
-    "PTBR": "Nós have to meet the deadline ."
-  },
-  {
-    "linha": 81,
-    "nivel": "A2",
-    "ENG": "My friend decided to move on .",
-    "PTBR": "My friend decided to move on ."
-  },
-  {
-    "linha": 82,
-    "nivel": "A2",
-    "ENG": "You can't take a break .",
-    "PTBR": "Você can't take a break ."
-  },
-  {
-    "linha": 83,
-    "nivel": "A1",
-    "ENG": "They am busy.",
-    "PTBR": "Eles am busy."
-  },
-  {
-    "linha": 84,
-    "nivel": "B1",
-    "ENG": "They hope to book the flight with pleasure.",
-    "PTBR": "Eles hope to book the flight with pleasure."
-  },
-  {
-    "linha": 85,
-    "nivel": "A2",
-    "ENG": "My friend keep book the flight .",
-    "PTBR": "My friend keep book the flight ."
-  },
-  {
-    "linha": 86,
-    "nivel": "B1",
-    "ENG": "They plan to make it work when you can.",
-    "PTBR": "Eles plan to make it work when you can."
-  },
-  {
-    "linha": 87,
-    "nivel": "B1",
-    "ENG": "They don't want to take a break with pleasure.",
-    "PTBR": "Eles don't want to take a break with pleasure."
-  },
-  {
-    "linha": 88,
-    "nivel": "B1",
-    "ENG": "You hope to move on for the weekend.",
-    "PTBR": "Você hope to move on for the weekend."
-  },
-  {
-    "linha": 89,
-    "nivel": "A2",
-    "ENG": "The company forgot to make it work .",
-    "PTBR": "The company forgot to make it work ."
-  },
-  {
-    "linha": 90,
-    "nivel": "A1",
-    "ENG": "My friend have late.",
-    "PTBR": "My friend have late."
-  },
-  {
-    "linha": 91,
-    "nivel": "B1",
-    "ENG": "My friend hope to figure this out with pleasure.",
-    "PTBR": "My friend hope to figure this out with pleasure."
-  },
-  {
-    "linha": 92,
-    "nivel": "A2",
-    "ENG": "Everyone feel like stay focused by tomorrow.",
-    "PTBR": "Everyone feel like stay focused by tomorrow."
-  },
-  {
-    "linha": 93,
-    "nivel": "A1",
-    "ENG": "They was late.",
-    "PTBR": "Eles was late."
-  },
-  {
-    "linha": 94,
-    "nivel": "B1",
-    "ENG": "People decided to move on when you can.",
-    "PTBR": "People decided to move on when you can."
-  },
-  {
-    "linha": 95,
-    "nivel": "A1",
-    "ENG": "We am busy.",
-    "PTBR": "Nós am busy."
-  },
-  {
-    "linha": 96,
-    "nivel": "A1",
-    "ENG": "Everyone was tired.",
-    "PTBR": "Everyone was tired."
-  },
-  {
-    "linha": 97,
-    "nivel": "A2",
-    "ENG": "We was on a trip.",
-    "PTBR": "Nós was on a trip."
-  },
-  {
-    "linha": 98,
-    "nivel": "B1",
-    "ENG": "My friend have to stay focused for the weekend.",
-    "PTBR": "My friend have to stay focused for the weekend."
-  },
-  {
-    "linha": 99,
-    "nivel": "A2",
-    "ENG": "Someone want pay the bill .",
-    "PTBR": "Someone want pay the bill ."
-  },
-  {
-    "linha": 100,
-    "nivel": "A1",
-    "ENG": "I have late.",
-    "PTBR": "Eu have late."
-  },
-  {
-    "linha": 101,
-    "nivel": "A2",
-    "ENG": "Someone managed to finish the report .",
-    "PTBR": "Someone managed to finish the report ."
-  },
-  {
-    "linha": 102,
-    "nivel": "B1",
-    "ENG": "They have been in a rush.",
-    "PTBR": "Eles have been in a rush."
-  },
-  {
-    "linha": 103,
-    "nivel": "A2",
-    "ENG": "You expect to take a break .",
-    "PTBR": "Você expect to take a break ."
-  },
-  {
-    "linha": 104,
-    "nivel": "A1",
-    "ENG": "The team was late.",
-    "PTBR": "The team was late."
-  },
-  {
-    "linha": 105,
-    "nivel": "B1",
-    "ENG": "My friend have been late.",
-    "PTBR": "My friend have been late."
-  },
-  {
-    "linha": 106,
-    "nivel": "B1",
-    "ENG": "We have been late.",
-    "PTBR": "Nós have been late."
-  },
-  {
-    "linha": 107,
-    "nivel": "B1",
-    "ENG": "He want finish the report for a while.",
-    "PTBR": "Ele want finish the report for a while."
-  },
-  {
-    "linha": 108,
-    "nivel": "A2",
-    "ENG": "She hope to figure this out .",
-    "PTBR": "Ela hope to figure this out ."
-  },
-  {
-    "linha": 109,
-    "nivel": "A1",
-    "ENG": "Someone am tired.",
-    "PTBR": "Someone am tired."
-  },
-  {
-    "linha": 110,
-    "nivel": "A1",
-    "ENG": "They am tired.",
-    "PTBR": "Eles am tired."
-  },
-  {
-    "linha": 111,
-    "nivel": "B1",
-    "ENG": "My friend don't want to get things done before the meeting.",
-    "PTBR": "My friend don't want to get things done before the meeting."
-  },
-  {
-    "linha": 112,
-    "nivel": "B1",
-    "ENG": "Someone have to book the flight right now.",
-    "PTBR": "Someone have to book the flight right now."
-  },
-  {
-    "linha": 113,
-    "nivel": "B1",
-    "ENG": "Someone don't want to book the flight if possible.",
-    "PTBR": "Someone don't want to book the flight if possible."
-  },
-  {
-    "linha": 114,
-    "nivel": "A1",
-    "ENG": "The company am busy.",
-    "PTBR": "The company am busy."
-  },
-  {
-    "linha": 115,
-    "nivel": "A1",
-    "ENG": "Everyone have busy.",
-    "PTBR": "Everyone have busy."
-  },
-  {
-    "linha": 116,
-    "nivel": "B1",
-    "ENG": "They don't want to stay focused when you can.",
-    "PTBR": "Eles don't want to stay focused when you can."
-  },
-  {
-    "linha": 117,
-    "nivel": "A1",
-    "ENG": "People am tired.",
-    "PTBR": "People am tired."
-  },
-  {
-    "linha": 118,
-    "nivel": "B1",
-    "ENG": "I prefer to slow down for the weekend.",
-    "PTBR": "Eu prefer to slow down for the weekend."
-  },
-  {
-    "linha": 119,
-    "nivel": "B1",
-    "ENG": "We prefer to book the flight as soon as possible.",
-    "PTBR": "Nós prefer to book the flight as soon as possible."
-  },
-  {
-    "linha": 120,
-    "nivel": "B1",
-    "ENG": "Everyone have been in a rush.",
-    "PTBR": "Everyone have been in a rush."
-  },
-  {
-    "linha": 121,
-    "nivel": "A1",
-    "ENG": "The company have late.",
-    "PTBR": "The company have late."
-  },
-  {
-    "linha": 122,
-    "nivel": "A2",
-    "ENG": "People try to book the flight .",
-    "PTBR": "People try to book the flight ."
-  },
-  {
-    "linha": 123,
-    "nivel": "A2",
-    "ENG": "We want pay the bill .",
-    "PTBR": "Nós want pay the bill ."
-  },
-  {
-    "linha": 124,
-    "nivel": "A2",
-    "ENG": "They keep find a solution .",
-    "PTBR": "Eles keep find a solution ."
-  },
-  {
-    "linha": 125,
-    "nivel": "B1",
-    "ENG": "I decided to stay focused for a while.",
-    "PTBR": "Eu decided to stay focused for a while."
-  },
-  {
-    "linha": 126,
-    "nivel": "A1",
-    "ENG": "The team was tired.",
-    "PTBR": "The team was tired."
-  },
-  {
-    "linha": 127,
-    "nivel": "A2",
-    "ENG": "Someone want finish the report with pleasure.",
-    "PTBR": "Someone want finish the report with pleasure."
-  },
-  {
-    "linha": 128,
-    "nivel": "B1",
-    "ENG": "She plan to stay focused before the meeting.",
-    "PTBR": "Ela plan to stay focused before the meeting."
-  },
-  {
-    "linha": 129,
-    "nivel": "A2",
-    "ENG": "You have on a trip.",
-    "PTBR": "Você have on a trip."
-  },
-  {
-    "linha": 130,
-    "nivel": "A1",
-    "ENG": "They have busy.",
-    "PTBR": "Eles have busy."
-  },
-  {
-    "linha": 131,
-    "nivel": "A2",
-    "ENG": "I am in a rush.",
-    "PTBR": "Eu am in a rush."
-  },
-  {
-    "linha": 132,
-    "nivel": "B1",
-    "ENG": "People decided to finish the report by tomorrow.",
-    "PTBR": "People decided to finish the report by tomorrow."
-  },
-  {
-    "linha": 133,
-    "nivel": "A1",
-    "ENG": "Someone was late.",
-    "PTBR": "Someone was late."
-  },
-  {
-    "linha": 134,
-    "nivel": "A1",
-    "ENG": "Someone am busy.",
-    "PTBR": "Someone am busy."
-  },
-  {
-    "linha": 135,
-    "nivel": "A2",
-    "ENG": "We plan to pay the bill .",
-    "PTBR": "Nós plan to pay the bill ."
-  },
-  {
-    "linha": 136,
-    "nivel": "B1",
-    "ENG": "She have been busy.",
-    "PTBR": "Ela have been busy."
-  },
-  {
-    "linha": 137,
-    "nivel": "B1",
-    "ENG": "Everyone have to slow down for a while.",
-    "PTBR": "Everyone have to slow down for a while."
-  },
-  {
-    "linha": 138,
-    "nivel": "A2",
-    "ENG": "Someone was in a rush.",
-    "PTBR": "Someone was in a rush."
-  },
-  {
-    "linha": 139,
-    "nivel": "B1",
-    "ENG": "The company expect to take a break for the weekend.",
-    "PTBR": "The company expect to take a break for the weekend."
-  },
-  {
-    "linha": 140,
-    "nivel": "A2",
-    "ENG": "My friend forgot to book the flight .",
-    "PTBR": "My friend forgot to book the flight ."
-  },
-  {
-    "linha": 141,
-    "nivel": "B1",
-    "ENG": "My friend need take a break by tomorrow.",
-    "PTBR": "My friend need take a break by tomorrow."
-  },
-  {
-    "linha": 142,
-    "nivel": "B1",
-    "ENG": "The team have been late.",
-    "PTBR": "The team have been late."
-  },
-  {
-    "linha": 143,
-    "nivel": "A2",
-    "ENG": "Someone keep find a solution .",
-    "PTBR": "Someone keep find a solution ."
-  },
-  {
-    "linha": 144,
-    "nivel": "A2",
-    "ENG": "We prefer to make it work .",
-    "PTBR": "Nós prefer to make it work ."
-  },
-  {
-    "linha": 145,
-    "nivel": "A2",
-    "ENG": "Everyone feel like move on .",
-    "PTBR": "Everyone feel like move on ."
-  },
-  {
-    "linha": 146,
-    "nivel": "A1",
-    "ENG": "You am tired.",
-    "PTBR": "Você am tired."
-  },
-  {
-    "linha": 147,
-    "nivel": "A2",
-    "ENG": "Everyone was in a rush.",
-    "PTBR": "Everyone was in a rush."
-  },
-  {
-    "linha": 148,
-    "nivel": "A1",
-    "ENG": "She have busy.",
-    "PTBR": "Ela have busy."
-  },
-  {
-    "linha": 149,
-    "nivel": "B1",
-    "ENG": "The team have been busy.",
-    "PTBR": "The team have been busy."
-  },
-  {
-    "linha": 150,
-    "nivel": "A2",
-    "ENG": "Everyone am on a trip.",
-    "PTBR": "Everyone am on a trip."
-  },
-  {
-    "linha": 151,
-    "nivel": "B1",
-    "ENG": "The team plan to find a solution when you can.",
-    "PTBR": "The team plan to find a solution when you can."
-  },
-  {
-    "linha": 152,
-    "nivel": "A2",
-    "ENG": "The team hope to figure this out .",
-    "PTBR": "The team hope to figure this out ."
-  },
-  {
-    "linha": 153,
-    "nivel": "A2",
-    "ENG": "They try to slow down .",
-    "PTBR": "Eles try to slow down ."
-  },
-  {
-    "linha": 154,
-    "nivel": "A2",
-    "ENG": "Someone need slow down when you can.",
-    "PTBR": "Someone need slow down when you can."
-  },
-  {
-    "linha": 155,
-    "nivel": "A1",
-    "ENG": "People have busy.",
-    "PTBR": "People have busy."
-  },
-  {
-    "linha": 156,
-    "nivel": "A2",
-    "ENG": "You have in a rush.",
-    "PTBR": "Você have in a rush."
-  },
-  {
-    "linha": 157,
-    "nivel": "A2",
-    "ENG": "You hope to slow down .",
-    "PTBR": "Você hope to slow down ."
-  },
-  {
-    "linha": 158,
-    "nivel": "B1",
-    "ENG": "They don't want to take a break before the meeting.",
-    "PTBR": "Eles don't want to take a break before the meeting."
-  },
-  {
-    "linha": 159,
-    "nivel": "A1",
-    "ENG": "She have late.",
-    "PTBR": "Ela have late."
-  },
-  {
-    "linha": 160,
-    "nivel": "A2",
-    "ENG": "Everyone don't want to stay focused .",
-    "PTBR": "Everyone don't want to stay focused ."
-  },
-  {
-    "linha": 161,
-    "nivel": "A1",
-    "ENG": "My friend have busy.",
-    "PTBR": "My friend have busy."
-  },
-  {
-    "linha": 162,
-    "nivel": "A2",
-    "ENG": "They have to take a break .",
-    "PTBR": "Eles have to take a break ."
-  },
-  {
-    "linha": 163,
-    "nivel": "A1",
-    "ENG": "You was busy.",
-    "PTBR": "Você was busy."
-  },
-  {
-    "linha": 164,
-    "nivel": "A2",
-    "ENG": "The team decided to make it work .",
-    "PTBR": "The team decided to make it work ."
-  },
-  {
-    "linha": 165,
-    "nivel": "A2",
-    "ENG": "He want call her back without delay.",
-    "PTBR": "Ele want call her back without delay."
-  },
-  {
-    "linha": 166,
-    "nivel": "B1",
-    "ENG": "The company have been tired.",
-    "PTBR": "The company have been tired."
-  },
-  {
-    "linha": 167,
-    "nivel": "A2",
-    "ENG": "She plan to get things done .",
-    "PTBR": "Ela plan to get things done ."
-  },
-  {
-    "linha": 168,
-    "nivel": "A2",
-    "ENG": "I expect to call her back .",
-    "PTBR": "Eu expect to call her back ."
-  },
-  {
-    "linha": 169,
-    "nivel": "A1",
-    "ENG": "She am tired.",
-    "PTBR": "Ela am tired."
-  },
-  {
-    "linha": 170,
-    "nivel": "A2",
-    "ENG": "We keep stay focused without delay.",
-    "PTBR": "Nós keep stay focused without delay."
-  },
-  {
-    "linha": 171,
-    "nivel": "A2",
-    "ENG": "People managed to move on right now.",
-    "PTBR": "People managed to move on right now."
-  },
-  {
-    "linha": 172,
-    "nivel": "A2",
-    "ENG": "Someone expect to figure this out .",
-    "PTBR": "Someone expect to figure this out ."
-  },
-  {
-    "linha": 173,
-    "nivel": "A2",
-    "ENG": "People was in a rush.",
-    "PTBR": "People was in a rush."
-  },
-  {
-    "linha": 174,
-    "nivel": "A2",
-    "ENG": "You need pay the bill without delay.",
-    "PTBR": "Você need pay the bill without delay."
-  },
-  {
-    "linha": 175,
-    "nivel": "B1",
-    "ENG": "We try to take a break for a while.",
-    "PTBR": "Nós try to take a break for a while."
-  },
-  {
-    "linha": 176,
-    "nivel": "A2",
-    "ENG": "He am on a trip.",
-    "PTBR": "Ele am on a trip."
-  },
-  {
-    "linha": 177,
-    "nivel": "A1",
-    "ENG": "The company was busy.",
-    "PTBR": "The company was busy."
-  },
-  {
-    "linha": 178,
-    "nivel": "A2",
-    "ENG": "She need move on for a while.",
-    "PTBR": "Ela need move on for a while."
-  },
-  {
-    "linha": 179,
-    "nivel": "A2",
-    "ENG": "She want get things done after lunch.",
-    "PTBR": "Ela want get things done after lunch."
-  },
-  {
-    "linha": 180,
-    "nivel": "B1",
-    "ENG": "She need make it work before the meeting.",
-    "PTBR": "Ela need make it work before the meeting."
-  },
-  {
-    "linha": 181,
-    "nivel": "A1",
-    "ENG": "We was busy.",
-    "PTBR": "Nós was busy."
-  },
-  {
-    "linha": 182,
-    "nivel": "A2",
-    "ENG": "People can't take a break without delay.",
-    "PTBR": "People can't take a break without delay."
-  },
-  {
-    "linha": 183,
-    "nivel": "B1",
-    "ENG": "He have been tired.",
-    "PTBR": "Ele have been tired."
-  },
-  {
-    "linha": 184,
-    "nivel": "A2",
-    "ENG": "People prefer to figure this out .",
-    "PTBR": "People prefer to figure this out ."
-  },
-  {
-    "linha": 185,
-    "nivel": "A2",
-    "ENG": "Everyone feel like figure this out .",
-    "PTBR": "Everyone feel like figure this out ."
-  },
-  {
-    "linha": 186,
-    "nivel": "B1",
-    "ENG": "The team don't want to take a break for the weekend.",
-    "PTBR": "The team don't want to take a break for the weekend."
-  },
-  {
-    "linha": 187,
-    "nivel": "A2",
-    "ENG": "She managed to stay focused by tomorrow.",
-    "PTBR": "Ela managed to stay focused by tomorrow."
-  },
-  {
-    "linha": 188,
-    "nivel": "B1",
-    "ENG": "The team forgot to call her back if possible.",
-    "PTBR": "The team forgot to call her back if possible."
-  },
-  {
-    "linha": 189,
-    "nivel": "A2",
-    "ENG": "We have to find a solution .",
-    "PTBR": "Nós have to find a solution ."
-  },
-  {
-    "linha": 190,
-    "nivel": "A1",
-    "ENG": "The company am tired.",
-    "PTBR": "The company am tired."
-  },
-  {
-    "linha": 191,
-    "nivel": "A2",
-    "ENG": "I have to pay the bill .",
-    "PTBR": "Eu have to pay the bill ."
-  },
-  {
-    "linha": 192,
-    "nivel": "A2",
-    "ENG": "The company feel like call her back .",
-    "PTBR": "The company feel like call her back ."
-  },
-  {
-    "linha": 193,
-    "nivel": "A2",
-    "ENG": "Someone have on a trip.",
-    "PTBR": "Someone have on a trip."
-  },
-  {
-    "linha": 194,
-    "nivel": "B1",
-    "ENG": "He decided to make it work for a while.",
-    "PTBR": "Ele decided to make it work for a while."
-  },
-  {
-    "linha": 195,
-    "nivel": "A2",
-    "ENG": "Everyone need figure this out .",
-    "PTBR": "Everyone need figure this out ."
-  },
-  {
-    "linha": 196,
-    "nivel": "A1",
-    "ENG": "People need stay focused .",
-    "PTBR": "People need stay focused ."
-  },
-  {
-    "linha": 197,
-    "nivel": "A2",
-    "ENG": "They forgot to move on after lunch.",
-    "PTBR": "Eles forgot to move on after lunch."
-  },
-  {
-    "linha": 198,
-    "nivel": "A2",
-    "ENG": "People can't get things done with pleasure.",
-    "PTBR": "People can't get things done with pleasure."
-  },
-  {
-    "linha": 199,
-    "nivel": "B1",
-    "ENG": "Everyone have to figure this out by tomorrow.",
-    "PTBR": "Everyone have to figure this out by tomorrow."
-  },
-  {
-    "linha": 200,
-    "nivel": "B1",
-    "ENG": "The company expect to call her back for the weekend.",
-    "PTBR": "The company expect to call her back for the weekend."
-  },
-  {
-    "linha": 201,
-    "nivel": "B1",
-    "ENG": "I have been busy.",
-    "PTBR": "Eu have been busy."
-  },
-  {
-    "linha": 202,
-    "nivel": "A2",
-    "ENG": "She try to move on .",
-    "PTBR": "Ela try to move on ."
-  },
-  {
-    "linha": 203,
-    "nivel": "A2",
-    "ENG": "I feel like make it work .",
-    "PTBR": "Eu feel like make it work ."
-  },
-  {
-    "linha": 204,
-    "nivel": "B1",
-    "ENG": "The team forgot to figure this out after lunch.",
-    "PTBR": "The team forgot to figure this out after lunch."
-  },
-  {
-    "linha": 205,
-    "nivel": "A2",
-    "ENG": "The company decided to take a break .",
-    "PTBR": "The company decided to take a break ."
-  },
-  {
-    "linha": 206,
-    "nivel": "A2",
-    "ENG": "They plan to find a solution .",
-    "PTBR": "Eles plan to find a solution ."
-  },
-  {
-    "linha": 207,
-    "nivel": "A2",
-    "ENG": "The company keep make it work .",
-    "PTBR": "The company keep make it work ."
-  },
-  {
-    "linha": 208,
-    "nivel": "A2",
-    "ENG": "They keep move on by tomorrow.",
-    "PTBR": "Eles keep move on by tomorrow."
-  },
-  {
-    "linha": 209,
-    "nivel": "A2",
-    "ENG": "Everyone decided to take a break .",
-    "PTBR": "Everyone decided to take a break ."
-  },
-  {
-    "linha": 210,
-    "nivel": "A2",
-    "ENG": "People can't stay focused with pleasure.",
-    "PTBR": "People can't stay focused with pleasure."
-  },
-  {
-    "linha": 211,
-    "nivel": "A2",
-    "ENG": "My friend plan to take a break .",
-    "PTBR": "My friend plan to take a break ."
-  },
-  {
-    "linha": 212,
-    "nivel": "A2",
-    "ENG": "People expect to make it work .",
-    "PTBR": "People expect to make it work ."
-  },
-  {
-    "linha": 213,
-    "nivel": "A2",
-    "ENG": "She can't meet the deadline .",
-    "PTBR": "Ela can't meet the deadline ."
-  },
-  {
-    "linha": 214,
-    "nivel": "B1",
-    "ENG": "I managed to meet the deadline for a while.",
-    "PTBR": "Eu managed to meet the deadline for a while."
-  },
-  {
-    "linha": 215,
-    "nivel": "A2",
-    "ENG": "The team am in a rush.",
-    "PTBR": "The team am in a rush."
-  },
-  {
-    "linha": 216,
-    "nivel": "B1",
-    "ENG": "You can't make it work when you can.",
-    "PTBR": "Você can't make it work when you can."
-  },
-  {
-    "linha": 217,
-    "nivel": "B1",
-    "ENG": "The team hope to slow down with pleasure.",
-    "PTBR": "The team hope to slow down with pleasure."
-  },
-  {
-    "linha": 218,
-    "nivel": "A2",
-    "ENG": "They have in a rush.",
-    "PTBR": "Eles have in a rush."
-  },
-  {
-    "linha": 219,
-    "nivel": "B1",
-    "ENG": "I keep meet the deadline as soon as possible.",
-    "PTBR": "Eu keep meet the deadline as soon as possible."
-  },
-  {
-    "linha": 220,
-    "nivel": "A2",
-    "ENG": "She try to find a solution .",
-    "PTBR": "Ela try to find a solution ."
-  },
-  {
-    "linha": 221,
-    "nivel": "A1",
-    "ENG": "He am tired.",
-    "PTBR": "Ele am tired."
-  },
-  {
-    "linha": 222,
-    "nivel": "A1",
-    "ENG": "You can't slow down .",
-    "PTBR": "Você can't slow down ."
-  },
-  {
-    "linha": 223,
-    "nivel": "B1",
-    "ENG": "We have been busy.",
-    "PTBR": "Nós have been busy."
-  },
-  {
-    "linha": 224,
-    "nivel": "B1",
-    "ENG": "We can't find a solution for a while.",
-    "PTBR": "Nós can't find a solution for a while."
-  },
-  {
-    "linha": 225,
-    "nivel": "A1",
-    "ENG": "Everyone have late.",
-    "PTBR": "Everyone have late."
-  },
-  {
-    "linha": 226,
-    "nivel": "B1",
-    "ENG": "You have been tired.",
-    "PTBR": "Você have been tired."
-  },
-  {
-    "linha": 227,
-    "nivel": "A1",
-    "ENG": "We have busy.",
-    "PTBR": "Nós have busy."
-  },
-  {
-    "linha": 228,
-    "nivel": "A2",
-    "ENG": "I want find a solution by tomorrow.",
-    "PTBR": "Eu want find a solution by tomorrow."
-  },
-  {
-    "linha": 229,
-    "nivel": "A1",
-    "ENG": "The team am busy.",
-    "PTBR": "The team am busy."
-  },
-  {
-    "linha": 230,
-    "nivel": "A1",
-    "ENG": "Someone was busy.",
-    "PTBR": "Someone was busy."
-  },
-  {
-    "linha": 231,
-    "nivel": "A2",
-    "ENG": "I hope to figure this out .",
-    "PTBR": "Eu hope to figure this out ."
-  },
-  {
-    "linha": 232,
-    "nivel": "A2",
-    "ENG": "You need stay focused after lunch.",
-    "PTBR": "Você need stay focused after lunch."
-  },
-  {
-    "linha": 233,
-    "nivel": "B1",
-    "ENG": "They keep pay the bill as soon as possible.",
-    "PTBR": "Eles keep pay the bill as soon as possible."
-  },
-  {
-    "linha": 234,
-    "nivel": "B1",
-    "ENG": "They have been on a trip.",
-    "PTBR": "Eles have been on a trip."
-  },
-  {
-    "linha": 235,
-    "nivel": "A1",
-    "ENG": "I am tired.",
-    "PTBR": "Eu am tired."
-  },
-  {
-    "linha": 236,
-    "nivel": "A2",
-    "ENG": "We feel like slow down right now.",
-    "PTBR": "Nós feel like slow down right now."
-  },
-  {
-    "linha": 237,
-    "nivel": "A2",
-    "ENG": "My friend am on a trip.",
-    "PTBR": "My friend am on a trip."
-  },
-  {
-    "linha": 238,
-    "nivel": "B1",
-    "ENG": "She expect to get things done by tomorrow.",
-    "PTBR": "Ela expect to get things done by tomorrow."
-  },
-  {
-    "linha": 239,
-    "nivel": "A2",
-    "ENG": "He try to get things done .",
-    "PTBR": "Ele try to get things done ."
-  },
-  {
-    "linha": 240,
-    "nivel": "A1",
-    "ENG": "Everyone am late.",
-    "PTBR": "Everyone am late."
-  },
-  {
-    "linha": 241,
-    "nivel": "B1",
-    "ENG": "My friend don't want to figure this out after lunch.",
-    "PTBR": "My friend don't want to figure this out after lunch."
-  },
-  {
-    "linha": 242,
-    "nivel": "A1",
-    "ENG": "You have tired.",
-    "PTBR": "Você have tired."
-  },
-  {
-    "linha": 243,
-    "nivel": "A2",
-    "ENG": "People decided to find a solution .",
-    "PTBR": "People decided to find a solution ."
-  },
-  {
-    "linha": 244,
-    "nivel": "B1",
-    "ENG": "You decided to slow down for the weekend.",
-    "PTBR": "Você decided to slow down for the weekend."
-  },
-  {
-    "linha": 245,
-    "nivel": "B1",
-    "ENG": "People hope to stay focused for the weekend.",
-    "PTBR": "People hope to stay focused for the weekend."
-  },
-  {
-    "linha": 246,
-    "nivel": "B1",
-    "ENG": "The team need make it work after lunch.",
-    "PTBR": "The team need make it work after lunch."
-  },
-  {
-    "linha": 247,
-    "nivel": "A2",
-    "ENG": "We forgot to stay focused .",
-    "PTBR": "Nós forgot to stay focused ."
-  },
-  {
-    "linha": 248,
-    "nivel": "A2",
-    "ENG": "They need figure this out with pleasure.",
-    "PTBR": "Eles need figure this out with pleasure."
-  },
-  {
-    "linha": 249,
-    "nivel": "A2",
-    "ENG": "The company forgot to slow down .",
-    "PTBR": "The company forgot to slow down ."
-  },
-  {
-    "linha": 250,
-    "nivel": "A1",
-    "ENG": "Someone have tired.",
-    "PTBR": "Someone have tired."
-  },
-  {
-    "linha": 251,
-    "nivel": "A2",
-    "ENG": "Someone decided to meet the deadline .",
-    "PTBR": "Someone decided to meet the deadline ."
-  },
-  {
-    "linha": 252,
-    "nivel": "A2",
-    "ENG": "I prefer to take a break .",
-    "PTBR": "Eu prefer to take a break ."
-  },
-  {
-    "linha": 253,
-    "nivel": "A2",
-    "ENG": "Everyone expect to call her back .",
-    "PTBR": "Everyone expect to call her back ."
-  },
-  {
-    "linha": 254,
-    "nivel": "B1",
-    "ENG": "People can't take a break if possible.",
-    "PTBR": "People can't take a break if possible."
-  },
-  {
-    "linha": 255,
-    "nivel": "A2",
-    "ENG": "Someone try to figure this out .",
-    "PTBR": "Someone try to figure this out ."
-  },
-  {
-    "linha": 256,
-    "nivel": "A2",
-    "ENG": "People try to stay focused .",
-    "PTBR": "People try to stay focused ."
-  },
-  {
-    "linha": 257,
-    "nivel": "B1",
-    "ENG": "My friend decided to move on as soon as possible.",
-    "PTBR": "My friend decided to move on as soon as possible."
-  },
-  {
-    "linha": 258,
-    "nivel": "B1",
-    "ENG": "I need finish the report for a while.",
-    "PTBR": "Eu need finish the report for a while."
-  },
-  {
-    "linha": 259,
-    "nivel": "B1",
-    "ENG": "My friend have been on a trip.",
-    "PTBR": "My friend have been on a trip."
-  },
-  {
-    "linha": 260,
-    "nivel": "A1",
-    "ENG": "I have busy.",
-    "PTBR": "Eu have busy."
-  },
-  {
-    "linha": 261,
-    "nivel": "B1",
-    "ENG": "The team prefer to book the flight before the meeting.",
-    "PTBR": "The team prefer to book the flight before the meeting."
-  },
-  {
-    "linha": 262,
-    "nivel": "A2",
-    "ENG": "He expect to get things done .",
-    "PTBR": "Ele expect to get things done ."
-  },
-  {
-    "linha": 263,
-    "nivel": "B1",
-    "ENG": "The team forgot to finish the report when you can.",
-    "PTBR": "The team forgot to finish the report when you can."
-  },
-  {
-    "linha": 264,
-    "nivel": "A2",
-    "ENG": "The team am on a trip.",
-    "PTBR": "The team am on a trip."
-  },
-  {
-    "linha": 265,
-    "nivel": "A2",
-    "ENG": "I expect to get things done .",
-    "PTBR": "Eu expect to get things done ."
-  },
-  {
-    "linha": 266,
-    "nivel": "A2",
-    "ENG": "We keep finish the report .",
-    "PTBR": "Nós keep finish the report ."
-  },
-  {
-    "linha": 267,
-    "nivel": "B1",
-    "ENG": "The team need call her back without delay.",
-    "PTBR": "The team need call her back without delay."
-  },
-  {
-    "linha": 268,
-    "nivel": "A1",
-    "ENG": "She was late.",
-    "PTBR": "Ela was late."
-  },
-  {
-    "linha": 269,
-    "nivel": "A2",
-    "ENG": "Everyone prefer to stay focused .",
-    "PTBR": "Everyone prefer to stay focused ."
-  },
-  {
-    "linha": 270,
-    "nivel": "A1",
-    "ENG": "The team am late.",
-    "PTBR": "The team am late."
-  },
-  {
-    "linha": 271,
-    "nivel": "B1",
-    "ENG": "He prefer to finish the report as soon as possible.",
-    "PTBR": "Ele prefer to finish the report as soon as possible."
-  },
-  {
-    "linha": 272,
-    "nivel": "B1",
-    "ENG": "The company forgot to finish the report if possible.",
-    "PTBR": "The company forgot to finish the report if possible."
-  },
-  {
-    "linha": 273,
-    "nivel": "B1",
-    "ENG": "Everyone keep meet the deadline for a while.",
-    "PTBR": "Everyone keep meet the deadline for a while."
-  },
-  {
-    "linha": 274,
-    "nivel": "A2",
-    "ENG": "The team prefer to make it work .",
-    "PTBR": "The team prefer to make it work ."
-  },
-  {
-    "linha": 275,
-    "nivel": "A2",
-    "ENG": "They was on a trip.",
-    "PTBR": "Eles was on a trip."
-  },
-  {
-    "linha": 276,
-    "nivel": "A2",
-    "ENG": "They try to make it work .",
-    "PTBR": "Eles try to make it work ."
-  },
-  {
-    "linha": 277,
-    "nivel": "A2",
-    "ENG": "The company was on a trip.",
-    "PTBR": "The company was on a trip."
-  },
-  {
-    "linha": 278,
-    "nivel": "B1",
-    "ENG": "She managed to meet the deadline after lunch.",
-    "PTBR": "Ela managed to meet the deadline after lunch."
-  },
-  {
-    "linha": 279,
-    "nivel": "A2",
-    "ENG": "You keep take a break .",
-    "PTBR": "Você keep take a break ."
-  },
-  {
-    "linha": 280,
-    "nivel": "A2",
-    "ENG": "You hope to take a break .",
-    "PTBR": "Você hope to take a break ."
-  },
-  {
-    "linha": 281,
-    "nivel": "A2",
-    "ENG": "Someone try to move on .",
-    "PTBR": "Someone try to move on ."
-  },
-  {
-    "linha": 282,
-    "nivel": "B1",
-    "ENG": "He expect to make it work by tomorrow.",
-    "PTBR": "Ele expect to make it work by tomorrow."
-  },
-  {
-    "linha": 283,
-    "nivel": "B1",
-    "ENG": "Everyone want pay the bill before the meeting.",
-    "PTBR": "Everyone want pay the bill before the meeting."
-  },
-  {
-    "linha": 284,
-    "nivel": "A2",
-    "ENG": "She am on a trip.",
-    "PTBR": "Ela am on a trip."
-  },
-  {
-    "linha": 285,
-    "nivel": "A2",
-    "ENG": "My friend expect to get things done .",
-    "PTBR": "My friend expect to get things done ."
-  },
-  {
-    "linha": 286,
-    "nivel": "B1",
-    "ENG": "I feel like pay the bill when you can.",
-    "PTBR": "Eu feel like pay the bill when you can."
-  },
-  {
-    "linha": 287,
-    "nivel": "B1",
-    "ENG": "They managed to call her back with pleasure.",
-    "PTBR": "Eles managed to call her back with pleasure."
-  },
-  {
-    "linha": 288,
-    "nivel": "A1",
-    "ENG": "People am busy.",
-    "PTBR": "People am busy."
-  },
-  {
-    "linha": 289,
-    "nivel": "A2",
-    "ENG": "People can't make it work .",
-    "PTBR": "People can't make it work ."
-  },
-  {
-    "linha": 290,
-    "nivel": "B1",
-    "ENG": "You prefer to get things done if possible.",
-    "PTBR": "Você prefer to get things done if possible."
-  },
-  {
-    "linha": 291,
-    "nivel": "B1",
-    "ENG": "People have been busy.",
-    "PTBR": "People have been busy."
-  },
-  {
-    "linha": 292,
-    "nivel": "A1",
-    "ENG": "People was tired.",
-    "PTBR": "People was tired."
-  },
-  {
-    "linha": 293,
-    "nivel": "B1",
-    "ENG": "He don't want to take a break when you can.",
-    "PTBR": "Ele don't want to take a break when you can."
-  },
-  {
-    "linha": 294,
-    "nivel": "A1",
-    "ENG": "You was tired.",
-    "PTBR": "Você was tired."
-  },
-  {
-    "linha": 295,
-    "nivel": "A2",
-    "ENG": "She managed to move on by tomorrow.",
-    "PTBR": "Ela managed to move on by tomorrow."
-  },
-  {
-    "linha": 296,
-    "nivel": "B1",
-    "ENG": "Everyone forgot to move on for the weekend.",
-    "PTBR": "Everyone forgot to move on for the weekend."
-  },
-  {
-    "linha": 297,
-    "nivel": "A2",
-    "ENG": "People want take a break .",
-    "PTBR": "People want take a break ."
-  },
-  {
-    "linha": 298,
-    "nivel": "B1",
-    "ENG": "Everyone feel like move on before the meeting.",
-    "PTBR": "Everyone feel like move on before the meeting."
-  },
-  {
-    "linha": 299,
-    "nivel": "A2",
-    "ENG": "My friend hope to get things done .",
-    "PTBR": "My friend hope to get things done ."
-  },
-  {
-    "linha": 300,
-    "nivel": "B1",
-    "ENG": "He have been late.",
-    "PTBR": "Ele have been late."
-  },
-  {
-    "linha": 301,
-    "nivel": "A2",
-    "ENG": "Everyone prefer to get things done .",
-    "PTBR": "Everyone prefer to get things done ."
-  },
-  {
-    "linha": 302,
-    "nivel": "A2",
-    "ENG": "The company try to slow down .",
-    "PTBR": "The company try to slow down ."
-  },
-  {
-    "linha": 303,
-    "nivel": "A2",
-    "ENG": "He have on a trip.",
-    "PTBR": "Ele have on a trip."
-  },
-  {
-    "linha": 304,
-    "nivel": "A2",
-    "ENG": "The company expect to meet the deadline .",
-    "PTBR": "The company expect to meet the deadline ."
-  },
-  {
-    "linha": 305,
-    "nivel": "A2",
-    "ENG": "You need move on after lunch.",
-    "PTBR": "Você need move on after lunch."
-  },
-  {
-    "linha": 306,
-    "nivel": "B1",
-    "ENG": "She expect to find a solution if possible.",
-    "PTBR": "Ela expect to find a solution if possible."
-  },
-  {
-    "linha": 307,
-    "nivel": "B1",
-    "ENG": "My friend have to find a solution for the weekend.",
-    "PTBR": "My friend have to find a solution for the weekend."
-  },
-  {
-    "linha": 308,
-    "nivel": "A2",
-    "ENG": "People need pay the bill right now.",
-    "PTBR": "People need pay the bill right now."
-  },
-  {
-    "linha": 309,
-    "nivel": "B1",
-    "ENG": "People have been on a trip.",
-    "PTBR": "People have been on a trip."
-  },
-  {
-    "linha": 310,
-    "nivel": "B1",
-    "ENG": "You managed to get things done by tomorrow.",
-    "PTBR": "Você managed to get things done by tomorrow."
-  },
-  {
-    "linha": 311,
-    "nivel": "B1",
-    "ENG": "Someone want meet the deadline as soon as possible.",
-    "PTBR": "Someone want meet the deadline as soon as possible."
-  },
-  {
-    "linha": 312,
-    "nivel": "B1",
-    "ENG": "They managed to get things done when you can.",
-    "PTBR": "Eles managed to get things done when you can."
-  },
-  {
-    "linha": 313,
-    "nivel": "A2",
-    "ENG": "The team want meet the deadline .",
-    "PTBR": "The team want meet the deadline ."
-  },
-  {
-    "linha": 314,
-    "nivel": "A1",
-    "ENG": "Someone need stay focused .",
-    "PTBR": "Someone need stay focused ."
-  },
-  {
-    "linha": 315,
-    "nivel": "B1",
-    "ENG": "He try to figure this out without delay.",
-    "PTBR": "Ele try to figure this out without delay."
-  },
-  {
-    "linha": 316,
-    "nivel": "B1",
-    "ENG": "The company have to find a solution if possible.",
-    "PTBR": "The company have to find a solution if possible."
-  },
-  {
-    "linha": 317,
-    "nivel": "A2",
-    "ENG": "I don't want to slow down .",
-    "PTBR": "Eu don't want to slow down ."
-  },
-  {
-    "linha": 318,
-    "nivel": "A1",
-    "ENG": "The team have tired.",
-    "PTBR": "The team have tired."
-  },
-  {
-    "linha": 319,
-    "nivel": "B1",
-    "ENG": "We have been on a trip.",
-    "PTBR": "Nós have been on a trip."
-  },
-  {
-    "linha": 320,
-    "nivel": "B1",
-    "ENG": "Everyone feel like book the flight as soon as possible.",
-    "PTBR": "Everyone feel like book the flight as soon as possible."
-  },
-  {
-    "linha": 321,
-    "nivel": "A2",
-    "ENG": "I hope to slow down .",
-    "PTBR": "Eu hope to slow down ."
-  },
-  {
-    "linha": 322,
-    "nivel": "B1",
-    "ENG": "They want pay the bill if possible.",
-    "PTBR": "Eles want pay the bill if possible."
-  },
-  {
-    "linha": 323,
-    "nivel": "A2",
-    "ENG": "People want book the flight .",
-    "PTBR": "People want book the flight ."
-  },
-  {
-    "linha": 324,
-    "nivel": "B1",
-    "ENG": "People decided to find a solution if possible.",
-    "PTBR": "People decided to find a solution if possible."
-  },
-  {
-    "linha": 325,
-    "nivel": "A2",
-    "ENG": "We expect to make it work .",
-    "PTBR": "Nós expect to make it work ."
-  },
-  {
-    "linha": 326,
-    "nivel": "B1",
-    "ENG": "I plan to slow down before the meeting.",
-    "PTBR": "Eu plan to slow down before the meeting."
-  },
-  {
-    "linha": 327,
-    "nivel": "B1",
-    "ENG": "I have to slow down if possible.",
-    "PTBR": "Eu have to slow down if possible."
-  },
-  {
-    "linha": 328,
-    "nivel": "A2",
-    "ENG": "Everyone expect to stay focused .",
-    "PTBR": "Everyone expect to stay focused ."
-  },
-  {
-    "linha": 329,
-    "nivel": "A1",
-    "ENG": "Everyone was busy.",
-    "PTBR": "Everyone was busy."
-  },
-  {
-    "linha": 330,
-    "nivel": "A2",
-    "ENG": "You feel like find a solution .",
-    "PTBR": "Você feel like find a solution ."
-  },
-  {
-    "linha": 331,
-    "nivel": "A2",
-    "ENG": "He expect to call her back .",
-    "PTBR": "Ele expect to call her back ."
-  },
-  {
-    "linha": 332,
-    "nivel": "A1",
-    "ENG": "I am late.",
-    "PTBR": "Eu am late."
-  },
-  {
-    "linha": 333,
-    "nivel": "A2",
-    "ENG": "Someone keep make it work .",
-    "PTBR": "Someone keep make it work ."
-  },
-  {
-    "linha": 334,
-    "nivel": "A2",
-    "ENG": "She expect to move on .",
-    "PTBR": "Ela expect to move on ."
-  },
-  {
-    "linha": 335,
-    "nivel": "B1",
-    "ENG": "You have been on a trip.",
-    "PTBR": "Você have been on a trip."
-  },
-  {
-    "linha": 336,
-    "nivel": "B1",
-    "ENG": "Someone have been in a rush.",
-    "PTBR": "Someone have been in a rush."
-  },
-  {
-    "linha": 337,
-    "nivel": "A2",
-    "ENG": "He need find a solution .",
-    "PTBR": "Ele need find a solution ."
-  },
-  {
-    "linha": 338,
-    "nivel": "B1",
-    "ENG": "She don't want to finish the report for a while.",
-    "PTBR": "Ela don't want to finish the report for a while."
-  },
-  {
-    "linha": 339,
-    "nivel": "A2",
-    "ENG": "I need meet the deadline .",
-    "PTBR": "Eu need meet the deadline ."
-  },
-  {
-    "linha": 340,
-    "nivel": "B1",
-    "ENG": "Everyone don't want to book the flight for a while.",
-    "PTBR": "Everyone don't want to book the flight for a while."
-  },
-  {
-    "linha": 341,
-    "nivel": "A2",
-    "ENG": "I have to finish the report .",
-    "PTBR": "Eu have to finish the report ."
-  },
-  {
-    "linha": 342,
-    "nivel": "A2",
-    "ENG": "People expect to get things done .",
-    "PTBR": "People expect to get things done ."
-  },
-  {
-    "linha": 343,
-    "nivel": "A2",
-    "ENG": "We keep find a solution .",
-    "PTBR": "Nós keep find a solution ."
-  },
-  {
-    "linha": 344,
-    "nivel": "B1",
-    "ENG": "My friend don't want to book the flight after lunch.",
-    "PTBR": "My friend don't want to book the flight after lunch."
-  },
-  {
-    "linha": 345,
-    "nivel": "B1",
-    "ENG": "They want make it work for a while.",
-    "PTBR": "Eles want make it work for a while."
-  },
-  {
-    "linha": 346,
-    "nivel": "A2",
-    "ENG": "He decided to call her back .",
-    "PTBR": "Ele decided to call her back ."
-  },
-  {
-    "linha": 347,
-    "nivel": "B1",
-    "ENG": "You managed to take a break as soon as possible.",
-    "PTBR": "Você managed to take a break as soon as possible."
-  },
-  {
-    "linha": 348,
-    "nivel": "A2",
-    "ENG": "People don't want to finish the report .",
-    "PTBR": "People don't want to finish the report ."
-  },
-  {
-    "linha": 349,
-    "nivel": "B1",
-    "ENG": "She want figure this out for the weekend.",
-    "PTBR": "Ela want figure this out for the weekend."
-  },
-  {
-    "linha": 350,
-    "nivel": "B1",
-    "ENG": "She managed to stay focused before the meeting.",
-    "PTBR": "Ela managed to stay focused before the meeting."
-  },
-  {
-    "linha": 351,
-    "nivel": "A2",
-    "ENG": "Everyone forgot to meet the deadline .",
-    "PTBR": "Everyone forgot to meet the deadline ."
-  },
-  {
-    "linha": 352,
-    "nivel": "A2",
-    "ENG": "He keep move on for a while.",
-    "PTBR": "Ele keep move on for a while."
-  },
-  {
-    "linha": 353,
-    "nivel": "A2",
-    "ENG": "They keep book the flight .",
-    "PTBR": "Eles keep book the flight ."
-  },
-  {
-    "linha": 354,
-    "nivel": "B1",
-    "ENG": "He keep finish the report for a while.",
-    "PTBR": "Ele keep finish the report for a while."
-  },
-  {
-    "linha": 355,
-    "nivel": "B1",
-    "ENG": "Everyone prefer to meet the deadline without delay.",
-    "PTBR": "Everyone prefer to meet the deadline without delay."
-  },
-  {
-    "linha": 356,
-    "nivel": "A2",
-    "ENG": "People keep pay the bill after lunch.",
-    "PTBR": "People keep pay the bill after lunch."
-  },
-  {
-    "linha": 357,
-    "nivel": "A2",
-    "ENG": "The team try to move on .",
-    "PTBR": "The team try to move on ."
-  },
-  {
-    "linha": 358,
-    "nivel": "B1",
-    "ENG": "Everyone have been late.",
-    "PTBR": "Everyone have been late."
-  },
-  {
-    "linha": 359,
-    "nivel": "A2",
-    "ENG": "Everyone decided to move on without delay.",
-    "PTBR": "Everyone decided to move on without delay."
-  },
-  {
-    "linha": 360,
-    "nivel": "A1",
-    "ENG": "Someone have late.",
-    "PTBR": "Someone have late."
-  },
-  {
-    "linha": 361,
-    "nivel": "A2",
-    "ENG": "They am on a trip.",
-    "PTBR": "Eles am on a trip."
-  },
-  {
-    "linha": 362,
-    "nivel": "A2",
-    "ENG": "You expect to book the flight .",
-    "PTBR": "Você expect to book the flight ."
-  },
-  {
-    "linha": 363,
-    "nivel": "B1",
-    "ENG": "People expect to pay the bill after lunch.",
-    "PTBR": "People expect to pay the bill after lunch."
-  },
-  {
-    "linha": 364,
-    "nivel": "B1",
-    "ENG": "The company don't want to meet the deadline for a while.",
-    "PTBR": "The company don't want to meet the deadline for a while."
-  },
-  {
-    "linha": 365,
-    "nivel": "B1",
-    "ENG": "We don't want to slow down before the meeting.",
-    "PTBR": "Nós don't want to slow down before the meeting."
-  },
-  {
-    "linha": 366,
-    "nivel": "B1",
-    "ENG": "We don't want to find a solution before the meeting.",
-    "PTBR": "Nós don't want to find a solution before the meeting."
-  },
-  {
-    "linha": 367,
-    "nivel": "B1",
-    "ENG": "We have been tired.",
-    "PTBR": "Nós have been tired."
-  },
-  {
-    "linha": 368,
-    "nivel": "A2",
-    "ENG": "You hope to get things done .",
-    "PTBR": "Você hope to get things done ."
-  },
-  {
-    "linha": 369,
-    "nivel": "A2",
-    "ENG": "He keep pay the bill .",
-    "PTBR": "Ele keep pay the bill ."
-  },
-  {
-    "linha": 370,
-    "nivel": "B1",
-    "ENG": "You don't want to move on right now.",
-    "PTBR": "Você don't want to move on right now."
-  },
-  {
-    "linha": 371,
-    "nivel": "B1",
-    "ENG": "The team keep figure this out with pleasure.",
-    "PTBR": "The team keep figure this out with pleasure."
-  },
-  {
-    "linha": 372,
-    "nivel": "A1",
-    "ENG": "Everyone have tired.",
-    "PTBR": "Everyone have tired."
-  },
-  {
-    "linha": 373,
-    "nivel": "A2",
-    "ENG": "I can't figure this out without delay.",
-    "PTBR": "Eu can't figure this out without delay."
-  },
-  {
-    "linha": 374,
-    "nivel": "A2",
-    "ENG": "They can't figure this out .",
-    "PTBR": "Eles can't figure this out ."
-  },
-  {
-    "linha": 375,
-    "nivel": "A1",
-    "ENG": "People have late.",
-    "PTBR": "People have late."
-  },
-  {
-    "linha": 376,
-    "nivel": "B1",
-    "ENG": "The company forgot to make it work for the weekend.",
-    "PTBR": "The company forgot to make it work for the weekend."
-  },
-  {
-    "linha": 377,
-    "nivel": "B1",
-    "ENG": "She have been on a trip.",
-    "PTBR": "Ela have been on a trip."
-  },
-  {
-    "linha": 378,
-    "nivel": "B1",
-    "ENG": "The team plan to find a solution after lunch.",
-    "PTBR": "The team plan to find a solution after lunch."
-  },
-  {
-    "linha": 379,
-    "nivel": "A1",
-    "ENG": "I was tired.",
-    "PTBR": "Eu was tired."
-  },
-  {
-    "linha": 380,
-    "nivel": "A2",
-    "ENG": "My friend have in a rush.",
-    "PTBR": "My friend have in a rush."
-  },
-  {
-    "linha": 381,
-    "nivel": "B1",
-    "ENG": "People managed to take a break without delay.",
-    "PTBR": "People managed to take a break without delay."
-  },
-  {
-    "linha": 382,
-    "nivel": "A2",
-    "ENG": "The team keep stay focused .",
-    "PTBR": "The team keep stay focused ."
-  },
-  {
-    "linha": 383,
-    "nivel": "A2",
-    "ENG": "Everyone have to stay focused .",
-    "PTBR": "Everyone have to stay focused ."
-  },
-  {
-    "linha": 384,
-    "nivel": "A2",
-    "ENG": "She keep move on for the weekend.",
-    "PTBR": "Ela keep move on for the weekend."
-  },
-  {
-    "linha": 385,
-    "nivel": "B1",
-    "ENG": "She have been in a rush.",
-    "PTBR": "Ela have been in a rush."
-  },
-  {
-    "linha": 386,
-    "nivel": "A2",
-    "ENG": "Someone forgot to book the flight .",
-    "PTBR": "Someone forgot to book the flight ."
-  },
-  {
-    "linha": 387,
-    "nivel": "B1",
-    "ENG": "My friend don't want to pay the bill .",
-    "PTBR": "My friend don't want to pay the bill ."
-  },
-  {
-    "linha": 388,
-    "nivel": "A2",
-    "ENG": "People forgot to meet the deadline .",
-    "PTBR": "People forgot to meet the deadline ."
-  },
-  {
-    "linha": 389,
-    "nivel": "B1",
-    "ENG": "The team keep call her back with pleasure.",
-    "PTBR": "The team keep call her back with pleasure."
-  },
-  {
-    "linha": 390,
-    "nivel": "A1",
-    "ENG": "You have late.",
-    "PTBR": "Você have late."
-  },
-  {
-    "linha": 391,
-    "nivel": "A1",
-    "ENG": "He was late.",
-    "PTBR": "Ele was late."
-  },
-  {
-    "linha": 392,
-    "nivel": "A2",
-    "ENG": "The company plan to call her back .",
-    "PTBR": "The company plan to call her back ."
-  },
-  {
-    "linha": 393,
-    "nivel": "A2",
-    "ENG": "Everyone prefer to pay the bill .",
-    "PTBR": "Everyone prefer to pay the bill ."
-  },
-  {
-    "linha": 394,
-    "nivel": "A2",
-    "ENG": "People forgot to find a solution .",
-    "PTBR": "People forgot to find a solution ."
-  },
-  {
-    "linha": 395,
-    "nivel": "A1",
-    "ENG": "He have late.",
-    "PTBR": "Ele have late."
-  },
-  {
-    "linha": 396,
-    "nivel": "A2",
-    "ENG": "People have to call her back .",
-    "PTBR": "People have to call her back ."
-  },
-  {
-    "linha": 397,
-    "nivel": "B1",
-    "ENG": "She feel like pay the bill as soon as possible.",
-    "PTBR": "Ela feel like pay the bill as soon as possible."
-  },
-  {
-    "linha": 398,
-    "nivel": "A1",
-    "ENG": "The company was tired.",
-    "PTBR": "The company was tired."
-  },
-  {
-    "linha": 399,
-    "nivel": "A2",
-    "ENG": "He can't get things done .",
-    "PTBR": "Ele can't get things done ."
-  },
-  {
-    "linha": 400,
-    "nivel": "A2",
-    "ENG": "The company have to book the flight .",
-    "PTBR": "The company have to book the flight ."
-  },
-  {
-    "linha": 401,
-    "nivel": "B1",
-    "ENG": "The team keep get things done right now.",
-    "PTBR": "The team keep get things done right now."
-  },
-  {
-    "linha": 402,
-    "nivel": "A2",
-    "ENG": "They was in a rush.",
-    "PTBR": "Eles was in a rush."
-  },
-  {
-    "linha": 403,
-    "nivel": "A2",
-    "ENG": "Everyone plan to stay focused .",
-    "PTBR": "Everyone plan to stay focused ."
-  },
-  {
-    "linha": 404,
-    "nivel": "B1",
-    "ENG": "They try to finish the report when you can.",
-    "PTBR": "Eles try to finish the report when you can."
-  },
-  {
-    "linha": 405,
-    "nivel": "B1",
-    "ENG": "They have to pay the bill after lunch.",
-    "PTBR": "Eles have to pay the bill after lunch."
-  },
-  {
-    "linha": 406,
-    "nivel": "A1",
-    "ENG": "You am late.",
-    "PTBR": "Você am late."
-  },
-  {
-    "linha": 407,
-    "nivel": "A2",
-    "ENG": "I was on a trip.",
-    "PTBR": "Eu was on a trip."
-  },
-  {
-    "linha": 408,
-    "nivel": "B1",
-    "ENG": "You can't figure this out for a while.",
-    "PTBR": "Você can't figure this out for a while."
-  },
-  {
-    "linha": 409,
-    "nivel": "B1",
-    "ENG": "We plan to meet the deadline if possible.",
-    "PTBR": "Nós plan to meet the deadline if possible."
-  },
-  {
-    "linha": 410,
-    "nivel": "B1",
-    "ENG": "She managed to find a solution without delay.",
-    "PTBR": "Ela managed to find a solution without delay."
-  },
-  {
-    "linha": 411,
-    "nivel": "B1",
-    "ENG": "The company have to stay focused as soon as possible.",
-    "PTBR": "The company have to stay focused as soon as possible."
-  },
-  {
-    "linha": 412,
-    "nivel": "A2",
-    "ENG": "My friend don't want to move on .",
-    "PTBR": "My friend don't want to move on ."
-  },
-  {
-    "linha": 413,
-    "nivel": "B1",
-    "ENG": "He feel like figure this out without delay.",
-    "PTBR": "Ele feel like figure this out without delay."
-  },
-  {
-    "linha": 414,
-    "nivel": "B1",
-    "ENG": "I plan to get things done if possible.",
-    "PTBR": "Eu plan to get things done if possible."
-  },
-  {
-    "linha": 415,
-    "nivel": "B1",
-    "ENG": "The team decided to move on without delay.",
-    "PTBR": "The team decided to move on without delay."
-  },
-  {
-    "linha": 416,
-    "nivel": "B1",
-    "ENG": "The company hope to pay the bill after lunch.",
-    "PTBR": "The company hope to pay the bill after lunch."
-  },
-  {
-    "linha": 417,
-    "nivel": "B1",
-    "ENG": "The company have been busy.",
-    "PTBR": "The company have been busy."
-  },
-  {
-    "linha": 418,
-    "nivel": "A2",
-    "ENG": "My friend was in a rush.",
-    "PTBR": "My friend was in a rush."
-  },
-  {
-    "linha": 419,
-    "nivel": "B1",
-    "ENG": "She feel like call her back as soon as possible.",
-    "PTBR": "Ela feel like call her back as soon as possible."
-  },
-  {
-    "linha": 420,
-    "nivel": "A1",
-    "ENG": "They have late.",
-    "PTBR": "Eles have late."
-  },
-  {
-    "linha": 421,
-    "nivel": "B1",
-    "ENG": "They don't want to move on when you can.",
-    "PTBR": "Eles don't want to move on when you can."
-  },
-  {
-    "linha": 422,
-    "nivel": "B1",
-    "ENG": "We have to move on before the meeting.",
-    "PTBR": "Nós have to move on before the meeting."
-  },
-  {
-    "linha": 423,
-    "nivel": "B1",
-    "ENG": "I expect to book the flight before the meeting.",
-    "PTBR": "Eu expect to book the flight before the meeting."
-  },
-  {
-    "linha": 424,
-    "nivel": "A2",
-    "ENG": "I try to find a solution .",
-    "PTBR": "Eu try to find a solution ."
-  },
-  {
-    "linha": 425,
-    "nivel": "B1",
-    "ENG": "The company feel like get things done without delay.",
-    "PTBR": "The company feel like get things done without delay."
-  },
-  {
-    "linha": 426,
-    "nivel": "A2",
-    "ENG": "You don't want to book the flight .",
-    "PTBR": "Você don't want to book the flight ."
-  },
-  {
-    "linha": 427,
-    "nivel": "A2",
-    "ENG": "The company want make it work .",
-    "PTBR": "The company want make it work ."
-  },
-  {
-    "linha": 428,
-    "nivel": "A2",
-    "ENG": "I am on a trip.",
-    "PTBR": "Eu am on a trip."
-  },
-  {
-    "linha": 429,
-    "nivel": "A2",
-    "ENG": "They can't take a break .",
-    "PTBR": "Eles can't take a break ."
-  },
-  {
-    "linha": 430,
-    "nivel": "B1",
-    "ENG": "Someone managed to finish the report without delay.",
-    "PTBR": "Someone managed to finish the report without delay."
-  },
-  {
-    "linha": 431,
-    "nivel": "B1",
-    "ENG": "The company feel like figure this out for the weekend.",
-    "PTBR": "The company feel like figure this out for the weekend."
-  },
-  {
-    "linha": 432,
-    "nivel": "B1",
-    "ENG": "The team feel like stay focused for the weekend.",
-    "PTBR": "The team feel like stay focused for the weekend."
-  },
-  {
-    "linha": 433,
-    "nivel": "A2",
-    "ENG": "He was on a trip.",
-    "PTBR": "Ele was on a trip."
-  },
-  {
-    "linha": 434,
-    "nivel": "B1",
-    "ENG": "I prefer to call her back with pleasure.",
-    "PTBR": "Eu prefer to call her back with pleasure."
-  },
-  {
-    "linha": 435,
-    "nivel": "A2",
-    "ENG": "He need take a break .",
-    "PTBR": "Ele need take a break ."
-  },
-  {
-    "linha": 436,
-    "nivel": "A2",
-    "ENG": "My friend have to stay focused .",
-    "PTBR": "My friend have to stay focused ."
-  },
-  {
-    "linha": 437,
-    "nivel": "A2",
-    "ENG": "I forgot to finish the report .",
-    "PTBR": "Eu forgot to finish the report ."
-  },
-  {
-    "linha": 438,
-    "nivel": "A2",
-    "ENG": "Someone hope to book the flight .",
-    "PTBR": "Someone hope to book the flight ."
-  },
-  {
-    "linha": 439,
-    "nivel": "A2",
-    "ENG": "Everyone am in a rush.",
-    "PTBR": "Everyone am in a rush."
-  },
-  {
-    "linha": 440,
-    "nivel": "A2",
-    "ENG": "We prefer to finish the report .",
-    "PTBR": "Nós prefer to finish the report ."
-  },
-  {
-    "linha": 441,
-    "nivel": "A2",
-    "ENG": "I try to move on without delay.",
-    "PTBR": "Eu try to move on without delay."
-  },
-  {
-    "linha": 442,
-    "nivel": "A2",
-    "ENG": "He expect to stay focused .",
-    "PTBR": "Ele expect to stay focused ."
-  },
-  {
-    "linha": 443,
-    "nivel": "A2",
-    "ENG": "People can't get things done .",
-    "PTBR": "People can't get things done ."
-  },
-  {
-    "linha": 444,
-    "nivel": "B1",
-    "ENG": "He decided to pay the bill by tomorrow.",
-    "PTBR": "Ele decided to pay the bill by tomorrow."
-  },
-  {
-    "linha": 445,
-    "nivel": "B1",
-    "ENG": "The team can't finish the report after lunch.",
-    "PTBR": "The team can't finish the report after lunch."
-  },
-  {
-    "linha": 446,
-    "nivel": "A1",
-    "ENG": "My friend have tired.",
-    "PTBR": "My friend have tired."
-  },
-  {
-    "linha": 447,
-    "nivel": "A2",
-    "ENG": "My friend hope to move on .",
-    "PTBR": "My friend hope to move on ."
-  },
-  {
-    "linha": 448,
-    "nivel": "B1",
-    "ENG": "We managed to slow down before the meeting.",
-    "PTBR": "Nós managed to slow down before the meeting."
-  },
-  {
-    "linha": 449,
-    "nivel": "A2",
-    "ENG": "You decided to find a solution .",
-    "PTBR": "Você decided to find a solution ."
-  },
-  {
-    "linha": 450,
-    "nivel": "A2",
-    "ENG": "I want find a solution .",
-    "PTBR": "Eu want find a solution ."
-  },
-  {
-    "linha": 451,
-    "nivel": "A2",
-    "ENG": "You need meet the deadline .",
-    "PTBR": "Você need meet the deadline ."
-  },
-  {
-    "linha": 452,
-    "nivel": "A1",
-    "ENG": "My friend was tired.",
-    "PTBR": "My friend was tired."
-  },
-  {
-    "linha": 453,
-    "nivel": "B1",
-    "ENG": "The company try to find a solution by tomorrow.",
-    "PTBR": "The company try to find a solution by tomorrow."
-  },
-  {
-    "linha": 454,
-    "nivel": "B1",
-    "ENG": "People can't meet the deadline for a while.",
-    "PTBR": "People can't meet the deadline for a while."
-  },
-  {
-    "linha": 455,
-    "nivel": "B1",
-    "ENG": "The company have to call her back for a while.",
-    "PTBR": "The company have to call her back for a while."
-  },
-  {
-    "linha": 456,
-    "nivel": "A1",
-    "ENG": "He was busy.",
-    "PTBR": "Ele was busy."
-  },
-  {
-    "linha": 457,
-    "nivel": "A2",
-    "ENG": "She want find a solution .",
-    "PTBR": "Ela want find a solution ."
-  },
-  {
-    "linha": 458,
-    "nivel": "A2",
-    "ENG": "Everyone forgot to find a solution .",
-    "PTBR": "Everyone forgot to find a solution ."
-  },
-  {
-    "linha": 459,
-    "nivel": "A2",
-    "ENG": "My friend am in a rush.",
-    "PTBR": "My friend am in a rush."
-  },
-  {
-    "linha": 460,
-    "nivel": "B1",
-    "ENG": "My friend forgot to finish the report when you can.",
-    "PTBR": "My friend forgot to finish the report when you can."
-  },
-  {
-    "linha": 461,
-    "nivel": "A1",
-    "ENG": "He was tired.",
-    "PTBR": "Ele was tired."
-  },
-  {
-    "linha": 462,
-    "nivel": "A2",
-    "ENG": "Someone expect to stay focused right now.",
-    "PTBR": "Someone expect to stay focused right now."
-  },
-  {
-    "linha": 463,
-    "nivel": "B1",
-    "ENG": "The team have to slow down for the weekend.",
-    "PTBR": "The team have to slow down for the weekend."
-  },
-  {
-    "linha": 464,
-    "nivel": "A2",
-    "ENG": "My friend feel like find a solution .",
-    "PTBR": "My friend feel like find a solution ."
-  },
-  {
-    "linha": 465,
-    "nivel": "A2",
-    "ENG": "She plan to book the flight .",
-    "PTBR": "Ela plan to book the flight ."
-  },
-  {
-    "linha": 466,
-    "nivel": "B1",
-    "ENG": "You keep slow down if possible.",
-    "PTBR": "Você keep slow down if possible."
-  },
-  {
-    "linha": 467,
-    "nivel": "A2",
-    "ENG": "They forgot to take a break .",
-    "PTBR": "Eles forgot to take a break ."
-  },
-  {
-    "linha": 468,
-    "nivel": "B1",
-    "ENG": "My friend have been busy.",
-    "PTBR": "My friend have been busy."
-  },
-  {
-    "linha": 469,
-    "nivel": "A2",
-    "ENG": "We need take a break .",
-    "PTBR": "Nós need take a break ."
-  },
-  {
-    "linha": 470,
-    "nivel": "A2",
-    "ENG": "I feel like slow down .",
-    "PTBR": "Eu feel like slow down ."
-  },
-  {
-    "linha": 471,
-    "nivel": "B1",
-    "ENG": "The team feel like pay the bill if possible.",
-    "PTBR": "The team feel like pay the bill if possible."
-  },
-  {
-    "linha": 472,
-    "nivel": "B1",
-    "ENG": "People don't want to call her back before the meeting.",
-    "PTBR": "People don't want to call her back before the meeting."
-  },
-  {
-    "linha": 473,
-    "nivel": "B1",
-    "ENG": "They have to get things done before the meeting.",
-    "PTBR": "Eles have to get things done before the meeting."
-  },
-  {
-    "linha": 474,
-    "nivel": "B1",
-    "ENG": "He have been busy.",
-    "PTBR": "Ele have been busy."
-  },
-  {
-    "linha": 475,
-    "nivel": "A2",
-    "ENG": "Everyone keep call her back .",
-    "PTBR": "Everyone keep call her back ."
-  },
-  {
-    "linha": 476,
-    "nivel": "A2",
-    "ENG": "They plan to move on .",
-    "PTBR": "Eles plan to move on ."
-  },
-  {
-    "linha": 477,
-    "nivel": "A2",
-    "ENG": "We decided to meet the deadline .",
-    "PTBR": "Nós decided to meet the deadline ."
-  },
-  {
-    "linha": 478,
-    "nivel": "B1",
-    "ENG": "The team feel like slow down right now.",
-    "PTBR": "The team feel like slow down right now."
-  },
-  {
-    "linha": 479,
-    "nivel": "A2",
-    "ENG": "People need move on right now.",
-    "PTBR": "People need move on right now."
-  },
-  {
-    "linha": 480,
-    "nivel": "A2",
-    "ENG": "We have to move on .",
-    "PTBR": "Nós have to move on ."
-  },
-  {
-    "linha": 481,
-    "nivel": "A2",
-    "ENG": "The team have in a rush.",
-    "PTBR": "The team have in a rush."
-  },
-  {
-    "linha": 482,
-    "nivel": "A2",
-    "ENG": "My friend forgot to stay focused .",
-    "PTBR": "My friend forgot to stay focused ."
-  },
-  {
-    "linha": 483,
-    "nivel": "A2",
-    "ENG": "She don't want to figure this out .",
-    "PTBR": "Ela don't want to figure this out ."
-  },
-  {
-    "linha": 484,
-    "nivel": "A2",
-    "ENG": "They need find a solution right now.",
-    "PTBR": "Eles need find a solution right now."
-  },
-  {
-    "linha": 485,
-    "nivel": "B1",
-    "ENG": "People have been late.",
-    "PTBR": "People have been late."
-  },
-  {
-    "linha": 486,
-    "nivel": "A1",
-    "ENG": "She can't move on .",
-    "PTBR": "Ela can't move on ."
-  },
-  {
-    "linha": 487,
-    "nivel": "B1",
-    "ENG": "My friend have to meet the deadline for a while.",
-    "PTBR": "My friend have to meet the deadline for a while."
-  },
-  {
-    "linha": 488,
-    "nivel": "A2",
-    "ENG": "Someone need slow down for the weekend.",
-    "PTBR": "Someone need slow down for the weekend."
-  },
-  {
-    "linha": 489,
-    "nivel": "A2",
-    "ENG": "My friend keep finish the report .",
-    "PTBR": "My friend keep finish the report ."
-  },
-  {
-    "linha": 490,
-    "nivel": "A2",
-    "ENG": "I can't finish the report by tomorrow.",
-    "PTBR": "Eu can't finish the report by tomorrow."
-  },
-  {
-    "linha": 491,
-    "nivel": "B1",
-    "ENG": "We have to make it work with pleasure.",
-    "PTBR": "Nós have to make it work with pleasure."
-  },
-  {
-    "linha": 492,
-    "nivel": "B1",
-    "ENG": "The company have been in a rush.",
-    "PTBR": "The company have been in a rush."
-  },
-  {
-    "linha": 493,
-    "nivel": "B1",
-    "ENG": "I feel like meet the deadline after lunch.",
-    "PTBR": "Eu feel like meet the deadline after lunch."
-  },
-  {
-    "linha": 494,
-    "nivel": "A2",
-    "ENG": "I expect to pay the bill .",
-    "PTBR": "Eu expect to pay the bill ."
-  },
-  {
-    "linha": 495,
-    "nivel": "B1",
-    "ENG": "My friend have been in a rush.",
-    "PTBR": "My friend have been in a rush."
-  },
-  {
-    "linha": 496,
-    "nivel": "A1",
-    "ENG": "Everyone am tired.",
-    "PTBR": "Everyone am tired."
-  },
-  {
-    "linha": 497,
-    "nivel": "A2",
-    "ENG": "They have on a trip.",
-    "PTBR": "Eles have on a trip."
-  },
-  {
-    "linha": 498,
-    "nivel": "B1",
-    "ENG": "I have to take a break for a while.",
-    "PTBR": "Eu have to take a break for a while."
-  },
-  {
-    "linha": 499,
-    "nivel": "B1",
-    "ENG": "We want take a break when you can.",
-    "PTBR": "Nós want take a break when you can."
-  },
-  {
-    "linha": 500,
-    "nivel": "A2",
-    "ENG": "She am in a rush.",
-    "PTBR": "Ela am in a rush."
-  }
-]
+  { "linha": 1, "nivel": "A2", "ENG": "I'm running out of time.", "PTBR": "Estou ficando sem tempo." },
+  { "linha": 2, "nivel": "A2", "ENG": "I'm feeling under the weather.", "PTBR": "Não estou me sentindo bem." },
+  { "linha": 3, "nivel": "A2", "ENG": "Let's call it a day.", "PTBR": "Vamos encerrar por hoje." },
+  { "linha": 4, "nivel": "A1", "ENG": "I'm not buying it.", "PTBR": "Não acredito nisso." },
+  { "linha": 5, "nivel": "A2", "ENG": "It is what it is.", "PTBR": "É o que é." },
+  { "linha": 6, "nivel": "A1", "ENG": "Don't get me wrong.", "PTBR": "Não me entenda mal." },
+  { "linha": 7, "nivel": "A1", "ENG": "Long story short.", "PTBR": "Resumindo." },
+  { "linha": 8, "nivel": "A2", "ENG": "At the end of the day.", "PTBR": "No fim das contas." },
+  { "linha": 9, "nivel": "A2", "ENG": "I'm on the same page.", "PTBR": "Estou na mesma página / concordo." },
+  { "linha": 10, "nivel": "A2", "ENG": "I'm in over my head.", "PTBR": "Estou totalmente sobrecarregado." },
+  { "linha": 11, "nivel": "A2", "ENG": "Let's play it by ear.", "PTBR": "Vamos improvisar / decidir na hora." },
+  { "linha": 12, "nivel": "A2", "ENG": "The company won't pay the bill.", "PTBR": "A empresa não vai pagar a conta." },
+  { "linha": 13, "nivel": "B1", "ENG": "I plan to find a solution without delay.", "PTBR": "Pretendo encontrar uma solução sem demora." },
+  { "linha": 14, "nivel": "A1", "ENG": "How's it going?", "PTBR": "Como vai?" },
+  { "linha": 15, "nivel": "A2", "ENG": "People keep moving on when they can.", "PTBR": "As pessoas seguem em frente quando conseguem." },
+  { "linha": 16, "nivel": "B1", "ENG": "I've been learning a lot since I started this job.", "PTBR": "Tenho aprendido muito desde que comecei este trabalho." },
+  { "linha": 17, "nivel": "B2", "ENG": "It would be great if we could talk about the budget tomorrow.", "PTBR": "Seria ótimo se pudéssemos conversar sobre o orçamento amanhã." },
+  { "linha": 18, "nivel": "A2", "ENG": "Where did you put the keys?", "PTBR": "Onde você colocou as chaves?" },
+  { "linha": 19, "nivel": "B1", "ENG": "He hopes to meet the deadline after lunch.", "PTBR": "Ele espera cumprir o prazo depois do almoço." },
+  { "linha": 20, "nivel": "A2", "ENG": "What do you think about that?", "PTBR": "O que você acha disso?" },
+  { "linha": 21, "nivel": "A2", "ENG": "The company prefers to meet the deadline.", "PTBR": "A empresa prefere cumprir o prazo." },
+  { "linha": 22, "nivel": "B1", "ENG": "If we don't act now, we'll miss the opportunity.", "PTBR": "Se não agirmos agora, perderemos a oportunidade." },
+  { "linha": 23, "nivel": "A2", "ENG": "You plan to find a solution.", "PTBR": "Você planeja encontrar uma solução." },
+  { "linha": 24, "nivel": "B1", "ENG": "You plan to finish the report as soon as possible.", "PTBR": "Você planeja terminar o relatório o mais rápido possível." },
+  { "linha": 25, "nivel": "B1", "ENG": "She explained the plan, and everyone agreed to follow it.", "PTBR": "Ela explicou o plano e todos concordaram em segui-lo." },
+  { "linha": 26, "nivel": "A1", "ENG": "We are tired.", "PTBR": "Estamos cansados." },
+  { "linha": 27, "nivel": "A2", "ENG": "Are you coming to the meeting?", "PTBR": "Você vai à reunião?" },
+  { "linha": 28, "nivel": "A2", "ENG": "The team is on a trip.", "PTBR": "A equipe está em uma viagem." },
+  { "linha": 29, "nivel": "A2", "ENG": "I need to call her back by tomorrow.", "PTBR": "Preciso retornar a ligação para ela até amanhã." },
+  { "linha": 30, "nivel": "A1", "ENG": "They were busy.", "PTBR": "Eles estavam ocupados." },
+  { "linha": 31, "nivel": "A1", "ENG": "The company is late.", "PTBR": "A empresa está atrasada." },
+  { "linha": 32, "nivel": "B1", "ENG": "The company has been late.", "PTBR": "A empresa tem estado atrasada." },
+  { "linha": 33, "nivel": "A2", "ENG": "Do you have a minute?", "PTBR": "Você tem um minuto?" },
+  { "linha": 34, "nivel": "B2", "ENG": "Even though I was tired, I finished the project on time.", "PTBR": "Mesmo estando cansado, terminei o projeto a tempo." },
+  { "linha": 35, "nivel": "A1", "ENG": "She is busy.", "PTBR": "Ela está ocupada." },
+  { "linha": 36, "nivel": "A2", "ENG": "Everyone prefers to move on.", "PTBR": "Todos preferem seguir em frente." },
+  { "linha": 37, "nivel": "B1", "ENG": "They prefer to book the flight as soon as possible.", "PTBR": "Eles preferem reservar o voo o quanto antes." },
+  { "linha": 38, "nivel": "A2", "ENG": "We need to call her back by tomorrow.", "PTBR": "Precisamos retornar a ligação para ela até amanhã." },
+  { "linha": 39, "nivel": "A2", "ENG": "They have to stay focused without delay.", "PTBR": "Eles precisam manter o foco sem demora." },
+  { "linha": 40, "nivel": "A2", "ENG": "I have to slow down.", "PTBR": "Preciso diminuir o ritmo." },
+  { "linha": 41, "nivel": "B1", "ENG": "Someone is trying to get things done by tomorrow.", "PTBR": "Alguém está tentando resolver as coisas até amanhã." },
+  { "linha": 42, "nivel": "A2", "ENG": "I'm in a rush.", "PTBR": "Estou com pressa." },
+  { "linha": 43, "nivel": "B1", "ENG": "Would you like some coffee?", "PTBR": "Você gostaria de um café?" },
+  { "linha": 44, "nivel": "B1", "ENG": "We forgot to meet the deadline before the meeting.", "PTBR": "Esquecemos de cumprir o prazo antes da reunião." },
+  { "linha": 45, "nivel": "A2", "ENG": "Everyone forgot to book the flight.", "PTBR": "Todos esqueceram de reservar o voo." },
+  { "linha": 46, "nivel": "A2", "ENG": "Everyone hopes to stay focused.", "PTBR": "Todos esperam manter o foco." },
+  { "linha": 47, "nivel": "A2", "ENG": "You forgot to finish the report.", "PTBR": "Você esqueceu de terminar o relatório." },
+  { "linha": 48, "nivel": "B1", "ENG": "He wants to slow down as soon as possible.", "PTBR": "Ele quer reduzir o ritmo o quanto antes." },
+  { "linha": 49, "nivel": "A2", "ENG": "Can you help me with this?", "PTBR": "Você pode me ajudar com isto?" },
+  { "linha": 50, "nivel": "A2", "ENG": "You expect to move on.", "PTBR": "Você espera seguir em frente." },
+  { "linha": 51, "nivel": "B1", "ENG": "The company needs to book the flight when you can.", "PTBR": "A empresa precisa reservar o voo quando você puder." },
+  { "linha": 52, "nivel": "A2", "ENG": "She's on a trip.", "PTBR": "Ela está em uma viagem." },
+  { "linha": 53, "nivel": "A2", "ENG": "I need to finish the report.", "PTBR": "Preciso terminar o relatório." },
+  { "linha": 54, "nivel": "A2", "ENG": "You try to make it work.", "PTBR": "Você tenta fazer funcionar." },
+  { "linha": 55, "nivel": "B1", "ENG": "The company has been on a trip.", "PTBR": "A empresa esteve em uma viagem." },
+  { "linha": 56, "nivel": "A2", "ENG": "My friend plans to call her back.", "PTBR": "Meu amigo(a) planeja retornar a ligação para ela." },
+  { "linha": 57, "nivel": "A2", "ENG": "We were in a rush.", "PTBR": "Estávamos com pressa." },
+  { "linha": 58, "nivel": "A2", "ENG": "Have you seen my phone?", "PTBR": "Você viu meu telefone?" },
+  { "linha": 59, "nivel": "A2", "ENG": "Someone is trying to stay focused without delay.", "PTBR": "Alguém está tentando manter o foco sem demora." },
+  { "linha": 60, "nivel": "B1", "ENG": "He prefers to pay the bill by tomorrow.", "PTBR": "Ele prefere pagar a conta até amanhã." },
+  { "linha": 61, "nivel": "A1", "ENG": "You were late.", "PTBR": "Você se atrasou." },
+  { "linha": 62, "nivel": "A2", "ENG": "You were on a trip.", "PTBR": "Você estava em uma viagem." },
+  { "linha": 63, "nivel": "B1", "ENG": "She forgot to take a break when she could.", "PTBR": "Ela esqueceu de fazer uma pausa quando podia." },
+  { "linha": 64, "nivel": "B1", "ENG": "Someone decided to take a break if possible.", "PTBR": "Alguém decidiu fazer uma pausa, se possível." },
+  { "linha": 65, "nivel": "A2", "ENG": "I decided to make it work.", "PTBR": "Decidi fazer funcionar." },
+  { "linha": 66, "nivel": "A1", "ENG": "He is late.", "PTBR": "Ele está atrasado." },
+  { "linha": 67, "nivel": "A1", "ENG": "He is tired.", "PTBR": "Ele está cansado." },
+  { "linha": 68, "nivel": "A2", "ENG": "You were in a rush.", "PTBR": "Você estava com pressa." },
+  { "linha": 69, "nivel": "A1", "ENG": "They are tired.", "PTBR": "Eles estão cansados." },
+  { "linha": 70, "nivel": "A1", "ENG": "He is busy.", "PTBR": "Ele está ocupado." },
+  { "linha": 71, "nivel": "B1", "ENG": "You have been late.", "PTBR": "Você tem se atrasado." },
+  { "linha": 72, "nivel": "B1", "ENG": "People managed to get things done successfully.", "PTBR": "As pessoas conseguiram realizar as tarefas com sucesso." },
+  { "linha": 73, "nivel": "B1", "ENG": "You plan to take a break as soon as possible.", "PTBR": "Você planeja fazer uma pausa o mais rápido possível." },
+  { "linha": 74, "nivel": "A2", "ENG": "You don't want to find a solution.", "PTBR": "Você não quer encontrar uma solução." },
+  { "linha": 75, "nivel": "A2", "ENG": "He keeps looking for a solution.", "PTBR": "Ele continua procurando uma solução." },
+  { "linha": 76, "nivel": "B1", "ENG": "We don't want to stay focused right now.", "PTBR": "Não queremos manter o foco agora." },
+  { "linha": 77, "nivel": "B1", "ENG": "People don't want to make it work right now.", "PTBR": "As pessoas não querem fazer funcionar agora." },
+  { "linha": 78, "nivel": "A2", "ENG": "My friend has to take a break.", "PTBR": "Meu amigo tem que fazer uma pausa." },
+  { "linha": 79, "nivel": "B1", "ENG": "He feels like taking a break after lunch.", "PTBR": "Ele sente vontade de fazer uma pausa depois do almoço." },
+  { "linha": 80, "nivel": "A2", "ENG": "We have to meet the deadline.", "PTBR": "Temos que cumprir o prazo." },
+  { "linha": 81, "nivel": "A2", "ENG": "My friend decided to move on.", "PTBR": "Meu amigo decidiu seguir em frente." },
+  { "linha": 82, "nivel": "A2", "ENG": "You can't take a break.", "PTBR": "Você não pode fazer uma pausa." },
+  { "linha": 83, "nivel": "A1", "ENG": "They are busy.", "PTBR": "Eles estão ocupados." },
+  { "linha": 84, "nivel": "B1", "ENG": "They hope to book the flight soon.", "PTBR": "Eles esperam reservar o voo em breve." },
+  { "linha": 85, "nivel": "A2", "ENG": "My friend keeps booking the flight.", "PTBR": "Meu amigo continua reservando o voo." },
+  { "linha": 86, "nivel": "B1", "ENG": "They plan to make it work when they can.", "PTBR": "Eles planejam fazer funcionar quando puderem." },
+  { "linha": 87, "nivel": "B1", "ENG": "They don't want to take a break now.", "PTBR": "Eles não querem fazer uma pausa agora." },
+  { "linha": 88, "nivel": "B1", "ENG": "You hope to move on over the weekend.", "PTBR": "Você espera seguir em frente durante o fim de semana." },
+  { "linha": 89, "nivel": "A2", "ENG": "The company failed to make it work.", "PTBR": "A empresa não conseguiu fazer funcionar." },
+  { "linha": 90, "nivel": "A1", "ENG": "My friend is late.", "PTBR": "Meu amigo está atrasado." }
+{
+  "linha": 101,
+  "nivel": "A2",
+  "ENG": "I didn't have time to finish everything today.",
+  "PTBR": "Eu não tive tempo de terminar tudo hoje."
+},
+{
+  "linha": 102,
+  "nivel": "A2",
+  "ENG": "She was supposed to call me yesterday.",
+  "PTBR": "Ela deveria me ligar ontem."
+},
+{
+  "linha": 103,
+  "nivel": "B1",
+  "ENG": "The meeting was postponed until next week.",
+  "PTBR": "A reunião foi adiada para a próxima semana."
+},
+{
+  "linha": 104,
+  "nivel": "A1",
+  "ENG": "I don't like to wake up early.",
+  "PTBR": "Eu não gosto de acordar cedo."
+},
+{
+  "linha": 105,
+  "nivel": "B2",
+  "ENG": "Even though it was raining, we decided to go to the beach.",
+  "PTBR": "Embora estivesse chovendo, decidimos ir à praia."
+},
+{
+  "linha": 106,
+  "nivel": "A2",
+  "ENG": "Can you please pass me the salt?",
+  "PTBR": "Você pode me passar o sal, por favor?"
+},
+{
+  "linha": 107,
+  "nivel": "A2",
+  "ENG": "I haven’t seen him since last year.",
+  "PTBR": "Eu não o vi desde o ano passado."
+},
+{
+  "linha": 108,
+  "nivel": "B1",
+  "ENG": "I’m not sure if I can attend the event this weekend.",
+  "PTBR": "Não tenho certeza se posso comparecer ao evento este fim de semana."
+},
+{
+  "linha": 109,
+  "nivel": "B1",
+  "ENG": "They've already finished their work for today.",
+  "PTBR": "Eles já terminaram o trabalho de hoje."
+},
+{
+  "linha": 110,
+  "nivel": "A1",
+  "ENG": "Where is the nearest supermarket?",
+  "PTBR": "Onde fica o supermercado mais próximo?"
+},
+{
+  "linha": 111,
+  "nivel": "A2",
+  "ENG": "I need to go to the bank this afternoon.",
+  "PTBR": "Eu preciso ir ao banco esta tarde."
+},
+{
+  "linha": 112,
+  "nivel": "A1",
+  "ENG": "How old are you?",
+  "PTBR": "Quantos anos você tem?"
+},
+{
+  "linha": 113,
+  "nivel": "B1",
+  "ENG": "I think I left my keys at home.",
+  "PTBR": "Eu acho que deixei minhas chaves em casa."
+},
+{
+  "linha": 114,
+  "nivel": "B2",
+  "ENG": "She has been working in the same company for over ten years.",
+  "PTBR": "Ela trabalha na mesma empresa há mais de dez anos."
+},
+{
+  "linha": 115,
+  "nivel": "A1",
+  "ENG": "My brother is taller than me.",
+  "PTBR": "Meu irmão é mais alto que eu."
+},
+{
+  "linha": 116,
+  "nivel": "A2",
+  "ENG": "I can't find my phone anywhere.",
+  "PTBR": "Não consigo encontrar meu telefone em lugar nenhum."
+},
+{
+  "linha": 117,
+  "nivel": "B1",
+  "ENG": "I’ve been feeling a bit tired lately.",
+  "PTBR": "Eu tenho me sentido um pouco cansado ultimamente."
+},
+{
+  "linha": 118,
+  "nivel": "A1",
+  "ENG": "She is very friendly.",
+  "PTBR": "Ela é muito amigável."
+},
+{
+  "linha": 119,
+  "nivel": "A2",
+  "ENG": "Do you want to go for a walk later?",
+  "PTBR": "Você quer dar uma volta mais tarde?"
+},
+{
+  "linha": 120,
+  "nivel": "B1",
+  "ENG": "I’m really looking forward to the weekend.",
+  "PTBR": "Estou realmente ansioso para o fim de semana."
+},
+{
+  "linha": 121,
+  "nivel": "A2",
+  "ENG": "I’m planning to visit my grandparents next month.",
+  "PTBR": "Estou planejando visitar meus avós no próximo mês."
+},
+{
+  "linha": 122,
+  "nivel": "A1",
+  "ENG": "Can you speak English?",
+  "PTBR": "Você pode falar inglês?"
+},
+{
+  "linha": 123,
+  "nivel": "B1",
+  "ENG": "I’ve heard that the new restaurant is excellent.",
+  "PTBR": "Eu ouvi dizer que o novo restaurante é excelente."
+},
+{
+  "linha": 124,
+  "nivel": "A2",
+  "ENG": "We need to buy some groceries.",
+  "PTBR": "Precisamos comprar alguns mantimentos."
+},
+{
+  "linha": 125,
+  "nivel": "A1",
+  "ENG": "I like to read books in my free time.",
+  "PTBR": "Eu gosto de ler livros no meu tempo livre."
+},
+{
+  "linha": 126,
+  "nivel": "B2",
+  "ENG": "I’ve been thinking about changing my job for a while now.",
+  "PTBR": "Eu venho pensando em mudar de emprego há algum tempo."
+},
+{
+  "linha": 127,
+  "nivel": "B1",
+  "ENG": "We’ve got a lot of things to do this weekend.",
+  "PTBR": "Temos muitas coisas para fazer neste fim de semana."
+},
+{
+  "linha": 128,
+  "nivel": "A2",
+  "ENG": "I’m afraid I don’t understand.",
+  "PTBR": "Receio que eu não entenda."
+},
+{
+  "linha": 129,
+  "nivel": "A1",
+  "ENG": "Where do you live?",
+  "PTBR": "Onde você mora?"
+},
+{
+  "linha": 130,
+  "nivel": "B1",
+  "ENG": "I need to study more for the exam next week.",
+  "PTBR": "Eu preciso estudar mais para o exame na próxima semana."
+},
+{
+  "linha": 131,
+  "nivel": "A2",
+  "ENG": "Can you help me with this task?",
+  "PTBR": "Você pode me ajudar com esta tarefa?"
+},
+{
+  "linha": 132,
+  "nivel": "A2",
+  "ENG": "It’s really cold outside today.",
+  "PTBR": "Está muito frio lá fora hoje."
+},
+{
+  "linha": 133,
+  "nivel": "B1",
+  "ENG": "I forgot to bring my lunch today.",
+  "PTBR": "Esqueci de trazer meu almoço hoje."
+},
+{
+  "linha": 134,
+  "nivel": "A1",
+  "ENG": "It’s nice to meet you.",
+  "PTBR": "É um prazer conhecê-lo."
+},
+{
+  "linha": 135,
+  "nivel": "A2",
+  "ENG": "I don’t have any plans for the weekend.",
+  "PTBR": "Eu não tenho planos para o fim de semana."
+},
+{
+  "linha": 136,
+  "nivel": "B1",
+  "ENG": "The flight was delayed because of the weather.",
+  "PTBR": "O voo foi atrasado por causa do tempo."
+},
+{
+  "linha": 137,
+  "nivel": "A2",
+  "ENG": "I think I left my wallet in the car.",
+  "PTBR": "Acho que deixei minha carteira no carro."
+},
+{
+  "linha": 138,
+  "nivel": "B2",
+  "ENG": "I need to finish this report by the end of the day.",
+  "PTBR": "Eu preciso terminar este relatório até o final do dia."
+},
+{
+  "linha": 139,
+  "nivel": "A1",
+  "ENG": "Do you want a cup of coffee?",
+  "PTBR": "Você quer uma xícara de café?"
+},
+{
+  "linha": 140,
+  "nivel": "B1",
+  "ENG": "She doesn’t like to talk about her personal life.",
+  "PTBR": "Ela não gosta de falar sobre sua vida pessoal."
+},
+{
+  "linha": 141,
+  "nivel": "A2",
+  "ENG": "It’s my favorite time of the year.",
+  "PTBR": "É a minha época favorita do ano."
+},
+{
+  "linha": 142,
+  "nivel": "A1",
+  "ENG": "I am not feeling well today.",
+  "PTBR": "Eu não estou me sentindo bem hoje."
+},
+{
+  "linha": 143,
+  "nivel": "B1",
+  "ENG": "I haven’t seen him in a while.",
+  "PTBR": "Eu não o vejo há um tempo."
+},
+{
+  "linha": 144,
+  "nivel": "A2",
+  "ENG": "I’ll call you back in five minutes.",
+  "PTBR": "Eu te ligo de volta em cinco minutos."
+},
+{
+  "linha": 145,
+  "nivel": "A1",
+  "ENG": "Can you give me a ride to the airport?",
+  "PTBR": "Você pode me dar uma carona até o aeroporto?"
+},
+{
+  "linha": 146,
+  "nivel": "B1",
+  "ENG": "She’s been working on this project for three months.",
+  "PTBR": "Ela está trabalhando neste projeto há três meses."
+},
+{
+  "linha": 147,
+  "nivel": "A2",
+  "ENG": "I need to get some sleep.",
+  "PTBR": "Eu preciso dormir um pouco."
+},
+{
+  "linha": 148,
+  "nivel": "A2",
+  "ENG": "It’s a beautiful day outside.",
+  "PTBR": "Está um dia bonito lá fora."
+},
+{
+  "linha": 149,
+  "nivel": "B1",
+  "ENG": "I’m going to take a break and come back later.",
+  "PTBR": "Eu vou fazer uma pausa e volto depois."
+},
+{
+  "linha": 150,
+  "nivel": "A1",
+  "ENG": "I have two brothers and one sister.",
+  "PTBR": "Eu tenho dois irmãos e uma irmã."
+}
+{
+  "linha": 151,
+  "nivel": "A2",
+  "ENG": "I didn’t expect to see you here today.",
+  "PTBR": "Eu não esperava te ver aqui hoje."
+},
+{
+  "linha": 152,
+  "nivel": "B1",
+  "ENG": "She’s been trying to improve her English.",
+  "PTBR": "Ela tem tentado melhorar o inglês."
+},
+{
+  "linha": 153,
+  "nivel": "A1",
+  "ENG": "I’m hungry. Let’s eat something.",
+  "PTBR": "Estou com fome. Vamos comer algo."
+},
+{
+  "linha": 154,
+  "nivel": "A2",
+  "ENG": "I didn’t hear what you said.",
+  "PTBR": "Eu não ouvi o que você disse."
+},
+{
+  "linha": 155,
+  "nivel": "B1",
+  "ENG": "I’ve been waiting for your message all day.",
+  "PTBR": "Eu estive esperando sua mensagem o dia todo."
+},
+{
+  "linha": 156,
+  "nivel": "A2",
+  "ENG": "Can you turn off the lights, please?",
+  "PTBR": "Você pode apagar as luzes, por favor?"
+},
+{
+  "linha": 157,
+  "nivel": "A1",
+  "ENG": "He works at a hospital.",
+  "PTBR": "Ele trabalha em um hospital."
+},
+{
+  "linha": 158,
+  "nivel": "B2",
+  "ENG": "I completely forgot we had an appointment.",
+  "PTBR": "Eu esqueci completamente que tínhamos um compromisso."
+},
+{
+  "linha": 159,
+  "nivel": "A2",
+  "ENG": "Let me know if you need anything.",
+  "PTBR": "Me avise se você precisar de algo."
+},
+{
+  "linha": 160,
+  "nivel": "B1",
+  "ENG": "They’ve already left for the airport.",
+  "PTBR": "Eles já foram para o aeroporto."
+},
+{
+  "linha": 161,
+  "nivel": "A2",
+  "ENG": "Is there something wrong?",
+  "PTBR": "Há algo errado?"
+},
+{
+  "linha": 162,
+  "nivel": "A1",
+  "ENG": "I like your new haircut.",
+  "PTBR": "Eu gostei do seu novo corte de cabelo."
+},
+{
+  "linha": 163,
+  "nivel": "B1",
+  "ENG": "We ended up staying longer than we planned.",
+  "PTBR": "Acabamos ficando mais tempo do que planejamos."
+},
+{
+  "linha": 164,
+  "nivel": "A2",
+  "ENG": "I hope everything goes well.",
+  "PTBR": "Espero que tudo dê certo."
+},
+{
+  "linha": 165,
+  "nivel": "B2",
+  "ENG": "If you need help, don’t hesitate to ask.",
+  "PTBR": "Se você precisar de ajuda, não hesite em pedir."
+},
+{
+  "linha": 166,
+  "nivel": "A1",
+  "ENG": "I have no idea.",
+  "PTBR": "Eu não faço ideia."
+},
+{
+  "linha": 167,
+  "nivel": "A2",
+  "ENG": "What time does the movie start?",
+  "PTBR": "A que horas o filme começa?"
+},
+{
+  "linha": 168,
+  "nivel": "B1",
+  "ENG": "I can’t decide what to eat.",
+  "PTBR": "Não consigo decidir o que comer."
+},
+{
+  "linha": 169,
+  "nivel": "B2",
+  "ENG": "She handled the situation very well.",
+  "PTBR": "Ela lidou muito bem com a situação."
+},
+{
+  "linha": 170,
+  "nivel": "A2",
+  "ENG": "Do you mind if I sit here?",
+  "PTBR": "Você se importa se eu sentar aqui?"
+},
+{
+  "linha": 171,
+  "nivel": "A1",
+  "ENG": "I need a glass of water.",
+  "PTBR": "Eu preciso de um copo de água."
+},
+{
+  "linha": 172,
+  "nivel": "A2",
+  "ENG": "I’m still thinking about it.",
+  "PTBR": "Ainda estou pensando sobre isso."
+},
+{
+  "linha": 173,
+  "nivel": "B1",
+  "ENG": "He promised to call me back later.",
+  "PTBR": "Ele prometeu me ligar de volta mais tarde."
+},
+{
+  "linha": 174,
+  "nivel": "B2",
+  "ENG": "They weren’t expecting such a big crowd.",
+  "PTBR": "Eles não estavam esperando uma multidão tão grande."
+},
+{
+  "linha": 175,
+  "nivel": "A1",
+  "ENG": "This is my favorite song.",
+  "PTBR": "Essa é a minha música favorita."
+},
+{
+  "linha": 176,
+  "nivel": "A2",
+  "ENG": "I’ll be ready in five minutes.",
+  "PTBR": "Eu estarei pronto em cinco minutos."
+},
+{
+  "linha": 177,
+  "nivel": "B1",
+  "ENG": "We’ve been working on this project all week.",
+  "PTBR": "Temos trabalhado neste projeto a semana inteira."
+},
+{
+  "linha": 178,
+  "nivel": "A2",
+  "ENG": "I’m not sure how to do this.",
+  "PTBR": "Não tenho certeza de como fazer isso."
+},
+{
+  "linha": 179,
+  "nivel": "B2",
+  "ENG": "Despite the problems, everything turned out well.",
+  "PTBR": "Apesar dos problemas, tudo deu certo."
+},
+{
+  "linha": 180,
+  "nivel": "A1",
+  "ENG": "I like your idea.",
+  "PTBR": "Eu gosto da sua ideia."
+},
+{
+  "linha": 181,
+  "nivel": "A2",
+  "ENG": "Can you repeat that, please?",
+  "PTBR": "Você pode repetir isso, por favor?"
+},
+{
+  "linha": 182,
+  "nivel": "B1",
+  "ENG": "He didn’t mean to hurt your feelings.",
+  "PTBR": "Ele não quis magoar seus sentimentos."
+},
+{
+  "linha": 183,
+  "nivel": "A2",
+  "ENG": "I’d like to order something to eat.",
+  "PTBR": "Eu gostaria de pedir algo para comer."
+},
+{
+  "linha": 184,
+  "nivel": "B1",
+  "ENG": "They’ve been traveling around Europe for months.",
+  "PTBR": "Eles estão viajando pela Europa há meses."
+},
+{
+  "linha": 185,
+  "nivel": "A2",
+  "ENG": "I’ll try my best.",
+  "PTBR": "Vou fazer o meu melhor."
+},
+{
+  "linha": 186,
+  "nivel": "B2",
+  "ENG": "If everything goes according to plan, we’ll finish soon.",
+  "PTBR": "Se tudo correr conforme o planejado, terminaremos em breve."
+},
+{
+  "linha": 187,
+  "nivel": "A1",
+  "ENG": "I’m tired.",
+  "PTBR": "Estou cansado."
+},
+{
+  "linha": 188,
+  "nivel": "A2",
+  "ENG": "That sounds good to me.",
+  "PTBR": "Isso parece bom para mim."
+},
+{
+  "linha": 189,
+  "nivel": "B1",
+  "ENG": "I’ll see what I can do.",
+  "PTBR": "Vou ver o que posso fazer."
+},
+{
+  "linha": 190,
+  "nivel": "B2",
+  "ENG": "She didn’t expect the situation to get worse.",
+  "PTBR": "Ela não esperava que a situação piorasse."
+},
+{
+  "linha": 191,
+  "nivel": "A2",
+  "ENG": "I need to charge my phone.",
+  "PTBR": "Eu preciso carregar meu telefone."
+},
+{
+  "linha": 192,
+  "nivel": "A1",
+  "ENG": "It’s too expensive.",
+  "PTBR": "É muito caro."
+},
+{
+  "linha": 193,
+  "nivel": "B1",
+  "ENG": "I didn’t realize it was so late.",
+  "PTBR": "Eu não percebi que estava tão tarde."
+},
+{
+  "linha": 194,
+  "nivel": "A2",
+  "ENG": "I think something is wrong with my car.",
+  "PTBR": "Eu acho que tem algo errado com o meu carro."
+},
+{
+  "linha": 195,
+  "nivel": "B2",
+  "ENG": "We should consider other options before deciding.",
+  "PTBR": "Devemos considerar outras opções antes de decidir."
+},
+{
+  "linha": 196,
+  "nivel": "A2",
+  "ENG": "Are you free this afternoon?",
+  "PTBR": "Você está livre esta tarde?"
+},
+{
+  "linha": 197,
+  "nivel": "A1",
+  "ENG": "I need more time.",
+  "PTBR": "Eu preciso de mais tempo."
+},
+{
+  "linha": 198,
+  "nivel": "B1",
+  "ENG": "She looks familiar, but I can't remember her name.",
+  "PTBR": "Ela parece familiar, mas não consigo lembrar o nome dela."
+},
+{
+  "linha": 199,
+  "nivel": "A2",
+  "ENG": "I’m trying to stay focused.",
+  "PTBR": "Estou tentando manter o foco."
+},
+{
+  "linha": 200,
+  "nivel": "B2",
+  "ENG": "They finally reached an agreement after hours of discussion.",
+  "PTBR": "Eles finalmente chegaram a um acordo após horas de discussão."
+}
+{
+  "linha": 201,
+  "nivel": "A2",
+  "ENG": "I didn’t sleep well last night.",
+  "PTBR": "Eu não dormi bem ontem à noite."
+},
+{
+  "linha": 202,
+  "nivel": "B1",
+  "ENG": "She tried to explain what happened.",
+  "PTBR": "Ela tentou explicar o que aconteceu."
+},
+{
+  "linha": 203,
+  "nivel": "A1",
+  "ENG": "I love spending time with my family.",
+  "PTBR": "Eu adoro passar tempo com minha família."
+},
+{
+  "linha": 204,
+  "nivel": "A2",
+  "ENG": "What are you doing this weekend?",
+  "PTBR": "O que você vai fazer neste fim de semana?"
+},
+{
+  "linha": 205,
+  "nivel": "B2",
+  "ENG": "He apologized for the inconvenience he caused.",
+  "PTBR": "Ele pediu desculpas pelo transtorno que causou."
+},
+{
+  "linha": 206,
+  "nivel": "A2",
+  "ENG": "I didn’t get your message.",
+  "PTBR": "Eu não recebi sua mensagem."
+},
+{
+  "linha": 207,
+  "nivel": "A1",
+  "ENG": "This is my first time here.",
+  "PTBR": "É minha primeira vez aqui."
+},
+{
+  "linha": 208,
+  "nivel": "B1",
+  "ENG": "She has a hard time waking up early.",
+  "PTBR": "Ela tem dificuldade para acordar cedo."
+},
+{
+  "linha": 209,
+  "nivel": "A2",
+  "ENG": "Can you send me the address?",
+  "PTBR": "Você pode me enviar o endereço?"
+},
+{
+  "linha": 210,
+  "nivel": "B1",
+  "ENG": "We need to find a better solution.",
+  "PTBR": "Precisamos encontrar uma solução melhor."
+},
+{
+  "linha": 211,
+  "nivel": "A2",
+  "ENG": "I’m not sure if that’s a good idea.",
+  "PTBR": "Não tenho certeza se essa é uma boa ideia."
+},
+{
+  "linha": 212,
+  "nivel": "A1",
+  "ENG": "I have a question.",
+  "PTBR": "Eu tenho uma pergunta."
+},
+{
+  "linha": 213,
+  "nivel": "B1",
+  "ENG": "We’ve been waiting for over an hour.",
+  "PTBR": "Estamos esperando há mais de uma hora."
+},
+{
+  "linha": 214,
+  "nivel": "A2",
+  "ENG": "I’m looking for a new apartment.",
+  "PTBR": "Estou procurando um apartamento novo."
+},
+{
+  "linha": 215,
+  "nivel": "B2",
+  "ENG": "He tends to overthink everything.",
+  "PTBR": "Ele tende a pensar demais em tudo."
+},
+{
+  "linha": 216,
+  "nivel": "A2",
+  "ENG": "Do you want to come with us?",
+  "PTBR": "Você quer vir com a gente?"
+},
+{
+  "linha": 217,
+  "nivel": "A1",
+  "ENG": "I usually eat breakfast at home.",
+  "PTBR": "Eu geralmente tomo café da manhã em casa."
+},
+{
+  "linha": 218,
+  "nivel": "B1",
+  "ENG": "We didn’t expect the meeting to last so long.",
+  "PTBR": "Não esperávamos que a reunião durasse tanto."
+},
+{
+  "linha": 219,
+  "nivel": "A2",
+  "ENG": "Let’s take a picture together.",
+  "PTBR": "Vamos tirar uma foto juntos."
+},
+{
+  "linha": 220,
+  "nivel": "B2",
+  "ENG": "She eventually realized he was right.",
+  "PTBR": "Ela acabou percebendo que ele estava certo."
+},
+{
+  "linha": 221,
+  "nivel": "A1",
+  "ENG": "I’ll be right back.",
+  "PTBR": "Já volto."
+},
+{
+  "linha": 222,
+  "nivel": "A2",
+  "ENG": "I’m not used to this weather.",
+  "PTBR": "Não estou acostumado com este clima."
+},
+{
+  "linha": 223,
+  "nivel": "B1",
+  "ENG": "She forgot her umbrella at home.",
+  "PTBR": "Ela esqueceu o guarda-chuva em casa."
+},
+{
+  "linha": 224,
+  "nivel": "B2",
+  "ENG": "We need to analyze the situation more carefully.",
+  "PTBR": "Precisamos analisar a situação com mais cuidado."
+},
+{
+  "linha": 225,
+  "nivel": "A2",
+  "ENG": "I didn’t mean to interrupt.",
+  "PTBR": "Eu não quis interromper."
+},
+{
+  "linha": 226,
+  "nivel": "A1",
+  "ENG": "He is my best friend.",
+  "PTBR": "Ele é meu melhor amigo."
+},
+{
+  "linha": 227,
+  "nivel": "B1",
+  "ENG": "We haven’t decided anything yet.",
+  "PTBR": "Ainda não decidimos nada."
+},
+{
+  "linha": 228,
+  "nivel": "A2",
+  "ENG": "I’ve been thinking a lot about this.",
+  "PTBR": "Tenho pensado muito sobre isso."
+},
+{
+  "linha": 229,
+  "nivel": "B2",
+  "ENG": "They managed to complete the project on schedule.",
+  "PTBR": "Eles conseguiram completar o projeto dentro do prazo."
+},
+{
+  "linha": 230,
+  "nivel": "A1",
+  "ENG": "It’s not far from here.",
+  "PTBR": "Não é longe daqui."
+},
+{
+  "linha": 231,
+  "nivel": "A2",
+  "ENG": "I’m trying to save money.",
+  "PTBR": "Estou tentando economizar dinheiro."
+},
+{
+  "linha": 232,
+  "nivel": "B1",
+  "ENG": "He didn’t show up for the meeting.",
+  "PTBR": "Ele não apareceu para a reunião."
+},
+{
+  "linha": 233,
+  "nivel": "B2",
+  "ENG": "She wasn't aware of the changes in the schedule.",
+  "PTBR": "Ela não estava ciente das mudanças no cronograma."
+},
+{
+  "linha": 234,
+  "nivel": "A2",
+  "ENG": "I’ll call you when I get there.",
+  "PTBR": "Eu te ligo quando eu chegar lá."
+},
+{
+  "linha": 235,
+  "nivel": "A1",
+  "ENG": "My favorite color is blue.",
+  "PTBR": "Minha cor favorita é azul."
+},
+{
+  "linha": 236,
+  "nivel": "B1",
+  "ENG": "They tried to fix the problem, but it didn’t work.",
+  "PTBR": "Eles tentaram resolver o problema, mas não funcionou."
+},
+{
+  "linha": 237,
+  "nivel": "A2",
+  "ENG": "I’ll send you the details later.",
+  "PTBR": "Vou te enviar os detalhes mais tarde."
+},
+{
+  "linha": 238,
+  "nivel": "B2",
+  "ENG": "He learned the hard way that consistency matters.",
+  "PTBR": "Ele aprendeu da maneira difícil que consistência importa."
+},
+{
+  "linha": 239,
+  "nivel": "A2",
+  "ENG": "Sorry, I didn’t catch your name.",
+  "PTBR": "Desculpa, não ouvi seu nome."
+},
+{
+  "linha": 240,
+  "nivel": "A1",
+  "ENG": "She is very smart.",
+  "PTBR": "Ela é muito inteligente."
+},
+{
+  "linha": 241,
+  "nivel": "A2",
+  "ENG": "I’m not sure what I’m doing tomorrow.",
+  "PTBR": "Não tenho certeza do que vou fazer amanhã."
+},
+{
+  "linha": 242,
+  "nivel": "B1",
+  "ENG": "We’ve been talking about this for months.",
+  "PTBR": "Estamos conversando sobre isso há meses."
+},
+{
+  "linha": 243,
+  "nivel": "B2",
+  "ENG": "She realized she needed to change her routine.",
+  "PTBR": "Ela percebeu que precisava mudar sua rotina."
+},
+{
+  "linha": 244,
+  "nivel": "A1",
+  "ENG": "I have a lot of work to do.",
+  "PTBR": "Tenho muito trabalho para fazer."
+},
+{
+  "linha": 245,
+  "nivel": "A2",
+  "ENG": "I didn’t know you were there.",
+  "PTBR": "Eu não sabia que você estava lá."
+},
+{
+  "linha": 246,
+  "nivel": "B1",
+  "ENG": "He’s been looking for a new job recently.",
+  "PTBR": "Ele tem procurado um novo emprego recentemente."
+},
+{
+  "linha": 247,
+  "nivel": "A2",
+  "ENG": "Can I try this on?",
+  "PTBR": "Eu posso experimentar isso?"
+},
+{
+  "linha": 248,
+  "nivel": "B2",
+  "ENG": "We should evaluate the risks before moving forward.",
+  "PTBR": "Devemos avaliar os riscos antes de seguir em frente."
+},
+{
+  "linha": 249,
+  "nivel": "A2",
+  "ENG": "I’m still learning.",
+  "PTBR": "Ainda estou aprendendo."
+},
+{
+  "linha": 250,
+  "nivel": "B1",
+  "ENG": "I didn’t expect things to change so quickly.",
+  "PTBR": "Eu não esperava que as coisas mudassem tão rápido."
+}
+{
+  "linha": 251,
+  "nivel": "A2",
+  "ENG": "It took me a while to understand everything.",
+  "PTBR": "Demorei um pouco para entender tudo."
+},
+{
+  "linha": 252,
+  "nivel": "B1",
+  "ENG": "She didn’t expect the news to be so surprising.",
+  "PTBR": "Ela não esperava que a notícia fosse tão surpreendente."
+},
+{
+  "linha": 253,
+  "nivel": "A1",
+  "ENG": "I need to go home now.",
+  "PTBR": "Preciso ir para casa agora."
+},
+{
+  "linha": 254,
+  "nivel": "A2",
+  "ENG": "I forgot to bring my jacket.",
+  "PTBR": "Esqueci de trazer meu casaco."
+},
+{
+  "linha": 255,
+  "nivel": "B2",
+  "ENG": "They eventually agreed that it was the best option.",
+  "PTBR": "Eles finalmente concordaram que era a melhor opção."
+},
+{
+  "linha": 256,
+  "nivel": "A2",
+  "ENG": "Can you remind me later?",
+  "PTBR": "Você pode me lembrar mais tarde?"
+},
+{
+  "linha": 257,
+  "nivel": "A1",
+  "ENG": "I’m cold.",
+  "PTBR": "Estou com frio."
+},
+{
+  "linha": 258,
+  "nivel": "B1",
+  "ENG": "We should try a different approach.",
+  "PTBR": "Devemos tentar uma abordagem diferente."
+},
+{
+  "linha": 259,
+  "nivel": "A2",
+  "ENG": "I hope you enjoy your trip.",
+  "PTBR": "Espero que você aproveite sua viagem."
+},
+{
+  "linha": 260,
+  "nivel": "B1",
+  "ENG": "They didn’t have enough time to finish everything.",
+  "PTBR": "Eles não tiveram tempo suficiente para terminar tudo."
+},
+{
+  "linha": 261,
+  "nivel": "A2",
+  "ENG": "Are you sure about that?",
+  "PTBR": "Você tem certeza disso?"
+},
+{
+  "linha": 262,
+  "nivel": "A1",
+  "ENG": "This is very important to me.",
+  "PTBR": "Isso é muito importante para mim."
+},
+{
+  "linha": 263,
+  "nivel": "B1",
+  "ENG": "We’ve been waiting for your reply.",
+  "PTBR": "Estamos esperando sua resposta."
+},
+{
+  "linha": 264,
+  "nivel": "A2",
+  "ENG": "I’m thinking about buying a new phone.",
+  "PTBR": "Estou pensando em comprar um celular novo."
+},
+{
+  "linha": 265,
+  "nivel": "B2",
+  "ENG": "Despite the challenges, they completed the task successfully.",
+  "PTBR": "Apesar dos desafios, eles concluíram a tarefa com sucesso."
+},
+{
+  "linha": 266,
+  "nivel": "A1",
+  "ENG": "I’m lost.",
+  "PTBR": "Estou perdido."
+},
+{
+  "linha": 267,
+  "nivel": "A2",
+  "ENG": "What do you usually do on weekends?",
+  "PTBR": "O que você geralmente faz nos fins de semana?"
+},
+{
+  "linha": 268,
+  "nivel": "B1",
+  "ENG": "He hasn’t replied to my message yet.",
+  "PTBR": "Ele ainda não respondeu minha mensagem."
+},
+{
+  "linha": 269,
+  "nivel": "B2",
+  "ENG": "She made a good impression during the interview.",
+  "PTBR": "Ela causou uma boa impressão durante a entrevista."
+},
+{
+  "linha": 270,
+  "nivel": "A2",
+  "ENG": "I’ll let you know when I’m done.",
+  "PTBR": "Eu te aviso quando eu terminar."
+},
+{
+  "linha": 271,
+  "nivel": "A1",
+  "ENG": "It’s too loud in here.",
+  "PTBR": "Está muito barulhento aqui."
+},
+{
+  "linha": 272,
+  "nivel": "A2",
+  "ENG": "I just need a few minutes.",
+  "PTBR": "Eu só preciso de alguns minutos."
+},
+{
+  "linha": 273,
+  "nivel": "B1",
+  "ENG": "She plans to move to another city next year.",
+  "PTBR": "Ela planeja se mudar para outra cidade no próximo ano."
+},
+{
+  "linha": 274,
+  "nivel": "B2",
+  "ENG": "They noticed that the system had several issues.",
+  "PTBR": "Eles perceberam que o sistema tinha vários problemas."
+},
+{
+  "linha": 275,
+  "nivel": "A1",
+  "ENG": "I like your shoes.",
+  "PTBR": "Eu gostei dos seus sapatos."
+},
+{
+  "linha": 276,
+  "nivel": "A2",
+  "ENG": "I didn’t know that was possible.",
+  "PTBR": "Eu não sabia que isso era possível."
+},
+{
+  "linha": 277,
+  "nivel": "B1",
+  "ENG": "We’ve been trying to solve this for days.",
+  "PTBR": "Estamos tentando resolver isso há dias."
+},
+{
+  "linha": 278,
+  "nivel": "A2",
+  "ENG": "I’ll wait for you outside.",
+  "PTBR": "Eu vou te esperar lá fora."
+},
+{
+  "linha": 279,
+  "nivel": "B2",
+  "ENG": "She eventually found a way to fix the mistake.",
+  "PTBR": "Ela acabou encontrando uma maneira de corrigir o erro."
+},
+{
+  "linha": 280,
+  "nivel": "A1",
+  "ENG": "I don’t feel like going out today.",
+  "PTBR": "Não estou com vontade de sair hoje."
+},
+{
+  "linha": 281,
+  "nivel": "A2",
+  "ENG": "Could you speak a little slower?",
+  "PTBR": "Você poderia falar um pouco mais devagar?"
+},
+{
+  "linha": 282,
+  "nivel": "B1",
+  "ENG": "He’s trying to save enough money to travel abroad.",
+  "PTBR": "Ele está tentando economizar dinheiro suficiente para viajar ao exterior."
+},
+{
+  "linha": 283,
+  "nivel": "A2",
+  "ENG": "I didn’t see you there.",
+  "PTBR": "Eu não te vi ali."
+},
+{
+  "linha": 284,
+  "nivel": "B2",
+  "ENG": "We need to figure out what went wrong.",
+  "PTBR": "Precisamos descobrir o que deu errado."
+},
+{
+  "linha": 285,
+  "nivel": "A1",
+  "ENG": "I’m thirsty.",
+  "PTBR": "Estou com sede."
+},
+{
+  "linha": 286,
+  "nivel": "A2",
+  "ENG": "How long will it take?",
+  "PTBR": "Quanto tempo isso vai levar?"
+},
+{
+  "linha": 287,
+  "nivel": "B1",
+  "ENG": "They haven’t decided where to go on vacation.",
+  "PTBR": "Eles ainda não decidiram para onde vão nas férias."
+},
+{
+  "linha": 288,
+  "nivel": "B2",
+  "ENG": "She suggested an alternative solution to the problem.",
+  "PTBR": "Ela sugeriu uma solução alternativa para o problema."
+},
+{
+  "linha": 289,
+  "nivel": "A2",
+  "ENG": "I’m still waiting for the answer.",
+  "PTBR": "Ainda estou esperando a resposta."
+},
+{
+  "linha": 290,
+  "nivel": "A1",
+  "ENG": "It’s hot in here.",
+  "PTBR": "Está quente aqui."
+},
+{
+  "linha": 291,
+  "nivel": "B1",
+  "ENG": "He finally managed to fix the computer.",
+  "PTBR": "Ele finalmente conseguiu consertar o computador."
+},
+{
+  "linha": 292,
+  "nivel": "A2",
+  "ENG": "I need to take a break.",
+  "PTBR": "Preciso fazer uma pausa."
+},
+{
+  "linha": 293,
+  "nivel": "B2",
+  "ENG": "The results were better than we expected.",
+  "PTBR": "Os resultados foram melhores do que esperávamos."
+},
+{
+  "linha": 294,
+  "nivel": "A2",
+  "ENG": "I haven't decided yet.",
+  "PTBR": "Ainda não decidi."
+},
+{
+  "linha": 295,
+  "nivel": "A1",
+  "ENG": "Where is the bathroom?",
+  "PTBR": "Onde fica o banheiro?"
+},
+{
+  "linha": 296,
+  "nivel": "B1",
+  "ENG": "I completely forgot about the meeting.",
+  "PTBR": "Eu esqueci completamente da reunião."
+},
+{
+  "linha": 297,
+  "nivel": "A2",
+  "ENG": "I’d like a cup of tea, please.",
+  "PTBR": "Eu gostaria de uma xícara de chá, por favor."
+},
+{
+  "linha": 298,
+  "nivel": "B2",
+  "ENG": "We were unable to contact them yesterday.",
+  "PTBR": "Não conseguimos entrar em contato com eles ontem."
+},
+{
+  "linha": 299,
+  "nivel": "A2",
+  "ENG": "I think it’s going to rain.",
+  "PTBR": "Eu acho que vai chover."
+},
+{
+  "linha": 300,
+  "nivel": "B1",
+  "ENG": "They have been trying to reach an agreement for weeks.",
+  "PTBR": "Eles estão tentando chegar a um acordo há semanas."
+}
+{
+  "linha": 301,
+  "nivel": "A2",
+  "ENG": "I didn’t expect you to arrive so early.",
+  "PTBR": "Eu não esperava que você chegasse tão cedo."
+},
+{
+  "linha": 302,
+  "nivel": "A1",
+  "ENG": "I need to buy some milk.",
+  "PTBR": "Preciso comprar leite."
+},
+{
+  "linha": 303,
+  "nivel": "B1",
+  "ENG": "She said she would think about it.",
+  "PTBR": "Ela disse que iria pensar sobre isso."
+},
+{
+  "linha": 304,
+  "nivel": "B2",
+  "ENG": "They were surprised by how quickly things changed.",
+  "PTBR": "Eles ficaram surpresos com a rapidez com que as coisas mudaram."
+},
+{
+  "linha": 305,
+  "nivel": "A2",
+  "ENG": "I’ll send you the link in a minute.",
+  "PTBR": "Vou te enviar o link em um minuto."
+},
+{
+  "linha": 306,
+  "nivel": "A1",
+  "ENG": "The weather is nice today.",
+  "PTBR": "O clima está agradável hoje."
+},
+{
+  "linha": 307,
+  "nivel": "B1",
+  "ENG": "They haven't finished the project yet.",
+  "PTBR": "Eles ainda não terminaram o projeto."
+},
+{
+  "linha": 308,
+  "nivel": "A2",
+  "ENG": "I’m trying to understand the instructions.",
+  "PTBR": "Estou tentando entender as instruções."
+},
+{
+  "linha": 309,
+  "nivel": "B2",
+  "ENG": "She was disappointed with the final result.",
+  "PTBR": "Ela ficou decepcionada com o resultado final."
+},
+{
+  "linha": 310,
+  "nivel": "A1",
+  "ENG": "I’m happy to be here.",
+  "PTBR": "Estou feliz por estar aqui."
+},
+{
+  "linha": 311,
+  "nivel": "A2",
+  "ENG": "Do you want to watch a movie tonight?",
+  "PTBR": "Você quer assistir a um filme hoje à noite?"
+},
+{
+  "linha": 312,
+  "nivel": "B1",
+  "ENG": "He hasn’t made a decision yet.",
+  "PTBR": "Ele ainda não tomou uma decisão."
+},
+{
+  "linha": 313,
+  "nivel": "B2",
+  "ENG": "They took the opportunity to improve the system.",
+  "PTBR": "Eles aproveitaram a oportunidade para melhorar o sistema."
+},
+{
+  "linha": 314,
+  "nivel": "A2",
+  "ENG": "I forgot what I was going to say.",
+  "PTBR": "Esqueci o que eu ia dizer."
+},
+{
+  "linha": 315,
+  "nivel": "A1",
+  "ENG": "She is always very kind.",
+  "PTBR": "Ela é sempre muito gentil."
+},
+{
+  "linha": 316,
+  "nivel": "B1",
+  "ENG": "We might need more time to finish this.",
+  "PTBR": "Podemos precisar de mais tempo para terminar isso."
+},
+{
+  "linha": 317,
+  "nivel": "A2",
+  "ENG": "I’m trying to get in shape.",
+  "PTBR": "Estou tentando entrar em forma."
+},
+{
+  "linha": 318,
+  "nivel": "B2",
+  "ENG": "She explained everything in a very clear way.",
+  "PTBR": "Ela explicou tudo de maneira muito clara."
+},
+{
+  "linha": 319,
+  "nivel": "A1",
+  "ENG": "I don’t know what to do.",
+  "PTBR": "Eu não sei o que fazer."
+},
+{
+  "linha": 320,
+  "nivel": "A2",
+  "ENG": "I didn’t mean to bother you.",
+  "PTBR": "Eu não quis te incomodar."
+},
+{
+  "linha": 321,
+  "nivel": "B1",
+  "ENG": "He promised to help us tomorrow.",
+  "PTBR": "Ele prometeu nos ajudar amanhã."
+},
+{
+  "linha": 322,
+  "nivel": "B2",
+  "ENG": "Despite his efforts, nothing changed.",
+  "PTBR": "Apesar dos esforços dele, nada mudou."
+},
+{
+  "linha": 323,
+  "nivel": "A2",
+  "ENG": "I’ll meet you outside.",
+  "PTBR": "Te encontro lá fora."
+},
+{
+  "linha": 324,
+  "nivel": "A1",
+  "ENG": "I’m sorry for the mistake.",
+  "PTBR": "Desculpe pelo erro."
+},
+{
+  "linha": 325,
+  "nivel": "B1",
+  "ENG": "We were expecting more people to come.",
+  "PTBR": "Estávamos esperando que mais pessoas viessem."
+},
+{
+  "linha": 326,
+  "nivel": "A2",
+  "ENG": "I need to think about it a little more.",
+  "PTBR": "Preciso pensar um pouco mais sobre isso."
+},
+{
+  "linha": 327,
+  "nivel": "B2",
+  "ENG": "They managed to complete the task with limited resources.",
+  "PTBR": "Eles conseguiram completar a tarefa com recursos limitados."
+},
+{
+  "linha": 328,
+  "nivel": "A1",
+  "ENG": "I’m scared of spiders.",
+  "PTBR": "Tenho medo de aranhas."
+},
+{
+  "linha": 329,
+  "nivel": "A2",
+  "ENG": "Can we talk about this later?",
+  "PTBR": "Podemos conversar sobre isso mais tarde?"
+},
+{
+  "linha": 330,
+  "nivel": "B1",
+  "ENG": "He was impressed by her presentation.",
+  "PTBR": "Ele ficou impressionado com a apresentação dela."
+},
+{
+  "linha": 331,
+  "nivel": "A2",
+  "ENG": "I’m still getting used to this.",
+  "PTBR": "Ainda estou me acostumando com isso."
+},
+{
+  "linha": 332,
+  "nivel": "B2",
+  "ENG": "We should have considered the risks earlier.",
+  "PTBR": "Deveríamos ter considerado os riscos antes."
+},
+{
+  "linha": 333,
+  "nivel": "A1",
+  "ENG": "This is my favorite place.",
+  "PTBR": "Este é meu lugar favorito."
+},
+{
+  "linha": 334,
+  "nivel": "A2",
+  "ENG": "I don’t feel comfortable with that.",
+  "PTBR": "Não me sinto confortável com isso."
+},
+{
+  "linha": 335,
+  "nivel": "B1",
+  "ENG": "We didn’t have enough information to make a decision.",
+  "PTBR": "Não tínhamos informações suficientes para tomar uma decisão."
+},
+{
+  "linha": 336,
+  "nivel": "A2",
+  "ENG": "I’m almost ready.",
+  "PTBR": "Estou quase pronto."
+},
+{
+  "linha": 337,
+  "nivel": "B2",
+  "ENG": "She refused to participate in the project.",
+  "PTBR": "Ela se recusou a participar do projeto."
+},
+{
+  "linha": 338,
+  "nivel": "A1",
+  "ENG": "I like to listen to music.",
+  "PTBR": "Eu gosto de ouvir música."
+},
+{
+  "linha": 339,
+  "nivel": "A2",
+  "ENG": "I didn’t understand the question.",
+  "PTBR": "Eu não entendi a pergunta."
+},
+{
+  "linha": 340,
+  "nivel": "B1",
+  "ENG": "He has been studying for the exam all week.",
+  "PTBR": "Ele está estudando para o exame a semana inteira."
+},
+{
+  "linha": 341,
+  "nivel": "A2",
+  "ENG": "I’m trying to organize my schedule.",
+  "PTBR": "Estou tentando organizar minha agenda."
+},
+{
+  "linha": 342,
+  "nivel": "B2",
+  "ENG": "They managed to solve the problem in a creative way.",
+  "PTBR": "Eles conseguiram resolver o problema de uma forma criativa."
+},
+{
+  "linha": 343,
+  "nivel": "A1",
+  "ENG": "I don’t like this.",
+  "PTBR": "Eu não gosto disso."
+},
+{
+  "linha": 344,
+  "nivel": "A2",
+  "ENG": "Do you know what time it is?",
+  "PTBR": "Você sabe que horas são?"
+},
+{
+  "linha": 345,
+  "nivel": "B1",
+  "ENG": "We need more time to prepare.",
+  "PTBR": "Precisamos de mais tempo para nos preparar."
+},
+{
+  "linha": 346,
+  "nivel": "A2",
+  "ENG": "I’m looking forward to seeing you.",
+  "PTBR": "Estou ansioso para te ver."
+},
+{
+  "linha": 347,
+  "nivel": "B2",
+  "ENG": "She explained why the decision was necessary.",
+  "PTBR": "Ela explicou por que a decisão era necessária."
+},
+{
+  "linha": 348,
+  "nivel": "A1",
+  "ENG": "I need to rest.",
+  "PTBR": "Preciso descansar."
+},
+{
+  "linha": 349,
+  "nivel": "A2",
+  "ENG": "It wasn’t what I expected.",
+  "PTBR": "Não era o que eu esperava."
+},
+{
+  "linha": 350,
+  "nivel": "B1",
+  "ENG": "He has been trying to contact them since yesterday.",
+  "PTBR": "Ele está tentando entrar em contato com eles desde ontem."
+}
+{
+  "linha": 351,
+  "nivel": "A2",
+  "ENG": "I didn’t have time to reply earlier.",
+  "PTBR": "Eu não tive tempo de responder antes."
+},
+{
+  "linha": 352,
+  "nivel": "B1",
+  "ENG": "She asked me to keep her updated.",
+  "PTBR": "Ela me pediu para mantê-la informada."
+},
+{
+  "linha": 353,
+  "nivel": "A1",
+  "ENG": "I’m feeling better now.",
+  "PTBR": "Eu estou me sentindo melhor agora."
+},
+{
+  "linha": 354,
+  "nivel": "A2",
+  "ENG": "Can you send me that file again?",
+  "PTBR": "Você pode me enviar aquele arquivo de novo?"
+},
+{
+  "linha": 355,
+  "nivel": "B2",
+  "ENG": "They underestimated how challenging it would be.",
+  "PTBR": "Eles subestimaram o quão desafiador seria."
+},
+{
+  "linha": 356,
+  "nivel": "A2",
+  "ENG": "I didn’t know you needed help.",
+  "PTBR": "Eu não sabia que você precisava de ajuda."
+},
+{
+  "linha": 357,
+  "nivel": "A1",
+  "ENG": "I like your smile.",
+  "PTBR": "Eu gosto do seu sorriso."
+},
+{
+  "linha": 358,
+  "nivel": "B1",
+  "ENG": "We should try to avoid this situation next time.",
+  "PTBR": "Devemos tentar evitar essa situação da próxima vez."
+},
+{
+  "linha": 359,
+  "nivel": "A2",
+  "ENG": "Let me check my schedule first.",
+  "PTBR": "Deixe-me verificar minha agenda primeiro."
+},
+{
+  "linha": 360,
+  "nivel": "B1",
+  "ENG": "She didn’t realize how much time had passed.",
+  "PTBR": "Ela não percebeu quanto tempo havia passado."
+},
+{
+  "linha": 361,
+  "nivel": "A2",
+  "ENG": "I’m still waiting for your confirmation.",
+  "PTBR": "Ainda estou esperando sua confirmação."
+},
+{
+  "linha": 362,
+  "nivel": "A1",
+  "ENG": "I need some fresh air.",
+  "PTBR": "Eu preciso de ar fresco."
+},
+{
+  "linha": 363,
+  "nivel": "B1",
+  "ENG": "He tried to explain, but she didn’t understand.",
+  "PTBR": "Ele tentou explicar, mas ela não entendeu."
+},
+{
+  "linha": 364,
+  "nivel": "B2",
+  "ENG": "They decided to postpone the event due to the weather.",
+  "PTBR": "Eles decidiram adiar o evento por causa do clima."
+},
+{
+  "linha": 365,
+  "nivel": "A2",
+  "ENG": "I’ll check and get back to you.",
+  "PTBR": "Vou verificar e te retorno."
+},
+{
+  "linha": 366,
+  "nivel": "A1",
+  "ENG": "I’m very tired today.",
+  "PTBR": "Eu estou muito cansado hoje."
+},
+{
+  "linha": 367,
+  "nivel": "B1",
+  "ENG": "We weren’t expecting such a positive reaction.",
+  "PTBR": "Nós não estávamos esperando uma reação tão positiva."
+},
+{
+  "linha": 368,
+  "nivel": "A2",
+  "ENG": "Can you help me carry this?",
+  "PTBR": "Você pode me ajudar a carregar isso?"
+},
+{
+  "linha": 369,
+  "nivel": "B2",
+  "ENG": "She finally understood the importance of the decision.",
+  "PTBR": "Ela finalmente entendeu a importância da decisão."
+},
+{
+  "linha": 370,
+  "nivel": "A1",
+  "ENG": "I like your jacket.",
+  "PTBR": "Eu gostei da sua jaqueta."
+},
+{
+  "linha": 371,
+  "nivel": "A2",
+  "ENG": "I haven't heard from him in days.",
+  "PTBR": "Não tenho notícias dele há dias."
+},
+{
+  "linha": 372,
+  "nivel": "B1",
+  "ENG": "We need to be more careful next time.",
+  "PTBR": "Precisamos ser mais cuidadosos da próxima vez."
+},
+{
+  "linha": 373,
+  "nivel": "A2",
+  "ENG": "Let me know when you're ready.",
+  "PTBR": "Me avise quando você estiver pronto."
+},
+{
+  "linha": 374,
+  "nivel": "B2",
+  "ENG": "They took responsibility for the mistake.",
+  "PTBR": "Eles assumiram a responsabilidade pelo erro."
+},
+{
+  "linha": 375,
+  "nivel": "A1",
+  "ENG": "I don’t want to go.",
+  "PTBR": "Eu não quero ir."
+},
+{
+  "linha": 376,
+  "nivel": "A2",
+  "ENG": "I need to leave in a few minutes.",
+  "PTBR": "Eu preciso sair em alguns minutos."
+},
+{
+  "linha": 377,
+  "nivel": "B1",
+  "ENG": "He forgot to bring the documents.",
+  "PTBR": "Ele esqueceu de trazer os documentos."
+},
+{
+  "linha": 378,
+  "nivel": "B2",
+  "ENG": "She explained the situation calmly and clearly.",
+  "PTBR": "Ela explicou a situação com calma e clareza."
+},
+{
+  "linha": 379,
+  "nivel": "A2",
+  "ENG": "I’m still thinking about what you said.",
+  "PTBR": "Ainda estou pensando no que você disse."
+},
+{
+  "linha": 380,
+  "nivel": "A1",
+  "ENG": "I’m thirsty again.",
+  "PTBR": "Estou com sede de novo."
+},
+{
+  "linha": 381,
+  "nivel": "B1",
+  "ENG": "They tried to warn us, but we didn’t listen.",
+  "PTBR": "Eles tentaram nos avisar, mas nós não ouvimos."
+},
+{
+  "linha": 382,
+  "nivel": "A2",
+  "ENG": "Do you want to take a break?",
+  "PTBR": "Você quer fazer uma pausa?"
+},
+{
+  "linha": 383,
+  "nivel": "B2",
+  "ENG": "He made significant progress in a short period of time.",
+  "PTBR": "Ele fez um progresso significativo em pouco tempo."
+},
+{
+  "linha": 384,
+  "nivel": "A2",
+  "ENG": "I don’t know if I can make it.",
+  "PTBR": "Não sei se vou conseguir."
+},
+{
+  "linha": 385,
+  "nivel": "A1",
+  "ENG": "This is my brother.",
+  "PTBR": "Este é meu irmão."
+},
+{
+  "linha": 386,
+  "nivel": "B1",
+  "ENG": "We didn’t realize how late it was.",
+  "PTBR": "Nós não percebemos como estava tarde."
+},
+{
+  "linha": 387,
+  "nivel": "A2",
+  "ENG": "I’m still learning how to do this.",
+  "PTBR": "Ainda estou aprendendo a fazer isso."
+},
+{
+  "linha": 388,
+  "nivel": "B2",
+  "ENG": "Despite their efforts, the issue persisted.",
+  "PTBR": "Apesar dos esforços deles, o problema persistiu."
+},
+{
+  "linha": 389,
+  "nivel": "A1",
+  "ENG": "I don’t understand.",
+  "PTBR": "Eu não entendo."
+},
+{
+  "linha": 390,
+  "nivel": "A2",
+  "ENG": "I wasn’t expecting that reaction.",
+  "PTBR": "Eu não estava esperando aquela reação."
+},
+{
+  "linha": 391,
+  "nivel": "B1",
+  "ENG": "He has been very busy lately.",
+  "PTBR": "Ele tem estado muito ocupado ultimamente."
+},
+{
+  "linha": 392,
+  "nivel": "A2",
+  "ENG": "Can you wait for me?",
+  "PTBR": "Você pode esperar por mim?"
+},
+{
+  "linha": 393,
+  "nivel": "B2",
+  "ENG": "They completely changed their approach.",
+  "PTBR": "Eles mudaram completamente a abordagem deles."
+},
+{
+  "linha": 394,
+  "nivel": "A1",
+  "ENG": "I feel great today.",
+  "PTBR": "Eu me sinto ótimo hoje."
+},
+{
+  "linha": 395,
+  "nivel": "A2",
+  "ENG": "I’m not sure what to choose.",
+  "PTBR": "Não tenho certeza do que escolher."
+},
+{
+  "linha": 396,
+  "nivel": "B1",
+  "ENG": "She managed to finish the task before the deadline.",
+  "PTBR": "Ela conseguiu terminar a tarefa antes do prazo."
+},
+{
+  "linha": 397,
+  "nivel": "B2",
+  "ENG": "He admitted that he had made a mistake.",
+  "PTBR": "Ele admitiu que tinha cometido um erro."
+},
+{
+  "linha": 398,
+  "nivel": "A2",
+  "ENG": "Let me know what you decide.",
+  "PTBR": "Me avise o que você decidir."
+},
+{
+  "linha": 399,
+  "nivel": "A1",
+  "ENG": "I need help.",
+  "PTBR": "Eu preciso de ajuda."
+},
+{
+  "linha": 400,
+  "nivel": "B1",
+  "ENG": "We tried to fix it, but nothing worked.",
+  "PTBR": "Tentamos consertar, mas nada funcionou."
+}
+{
+  "linha": 401,
+  "nivel": "A2",
+  "ENG": "I didn’t know you were in town.",
+  "PTBR": "Eu não sabia que você estava na cidade."
+},
+{
+  "linha": 402,
+  "nivel": "B1",
+  "ENG": "We tried to reach an agreement, but it wasn’t easy.",
+  "PTBR": "Tentamos chegar a um acordo, mas não foi fácil."
+},
+{
+  "linha": 403,
+  "nivel": "A1",
+  "ENG": "I’m very happy today.",
+  "PTBR": "Estou muito feliz hoje."
+},
+{
+  "linha": 404,
+  "nivel": "A2",
+  "ENG": "Can you pick me up later?",
+  "PTBR": "Você pode me buscar mais tarde?"
+},
+{
+  "linha": 405,
+  "nivel": "B2",
+  "ENG": "They eventually realized that they needed a new plan.",
+  "PTBR": "Eles acabaram percebendo que precisavam de um novo plano."
+},
+{
+  "linha": 406,
+  "nivel": "A2",
+  "ENG": "I’m not sure where I left my keys.",
+  "PTBR": "Não tenho certeza de onde deixei minhas chaves."
+},
+{
+  "linha": 407,
+  "nivel": "A1",
+  "ENG": "He is my neighbor.",
+  "PTBR": "Ele é meu vizinho."
+},
+{
+  "linha": 408,
+  "nivel": "B1",
+  "ENG": "She didn’t expect the problem to be so complex.",
+  "PTBR": "Ela não esperava que o problema fosse tão complexo."
+},
+{
+  "linha": 409,
+  "nivel": "A2",
+  "ENG": "I’ll send you the information soon.",
+  "PTBR": "Vou te enviar as informações em breve."
+},
+{
+  "linha": 410,
+  "nivel": "B1",
+  "ENG": "We were hoping for a better result.",
+  "PTBR": "Estávamos esperando um resultado melhor."
+},
+{
+  "linha": 411,
+  "nivel": "A2",
+  "ENG": "Let me check that for you.",
+  "PTBR": "Deixe-me verificar isso para você."
+},
+{
+  "linha": 412,
+  "nivel": "A1",
+  "ENG": "I like this place.",
+  "PTBR": "Eu gosto deste lugar."
+},
+{
+  "linha": 413,
+  "nivel": "B1",
+  "ENG": "They haven’t responded to our email yet.",
+  "PTBR": "Eles ainda não responderam ao nosso e-mail."
+},
+{
+  "linha": 414,
+  "nivel": "A2",
+  "ENG": "I’m trying to be more organized.",
+  "PTBR": "Estou tentando ser mais organizado."
+},
+{
+  "linha": 415,
+  "nivel": "B2",
+  "ENG": "She managed to stay calm throughout the discussion.",
+  "PTBR": "Ela conseguiu permanecer calma durante toda a discussão."
+},
+{
+  "linha": 416,
+  "nivel": "A1",
+  "ENG": "I’m hungry again.",
+  "PTBR": "Estou com fome de novo."
+},
+{
+  "linha": 417,
+  "nivel": "A2",
+  "ENG": "I didn’t understand what he meant.",
+  "PTBR": "Não entendi o que ele quis dizer."
+},
+{
+  "linha": 418,
+  "nivel": "B1",
+  "ENG": "We should take this opportunity to learn.",
+  "PTBR": "Devemos aproveitar essa oportunidade para aprender."
+},
+{
+  "linha": 419,
+  "nivel": "A2",
+  "ENG": "I’ll call you as soon as I finish.",
+  "PTBR": "Eu te ligo assim que eu terminar."
+},
+{
+  "linha": 420,
+  "nivel": "B2",
+  "ENG": "He decided to look at the situation from a different perspective.",
+  "PTBR": "Ele decidiu olhar a situação por uma perspectiva diferente."
+},
+{
+  "linha": 421,
+  "nivel": "A1",
+  "ENG": "I like your hairstyle.",
+  "PTBR": "Eu gostei do seu penteado."
+},
+{
+  "linha": 422,
+  "nivel": "A2",
+  "ENG": "I didn’t mean to make things worse.",
+  "PTBR": "Eu não quis piorar as coisas."
+},
+{
+  "linha": 423,
+  "nivel": "B1",
+  "ENG": "They were late because of the heavy traffic.",
+  "PTBR": "Eles se atrasaram por causa do trânsito intenso."
+},
+{
+  "linha": 424,
+  "nivel": "B2",
+  "ENG": "She emphasized the importance of communication.",
+  "PTBR": "Ela enfatizou a importância da comunicação."
+},
+{
+  "linha": 425,
+  "nivel": "A2",
+  "ENG": "I didn’t see that coming.",
+  "PTBR": "Eu não esperava por isso."
+},
+{
+  "linha": 426,
+  "nivel": "A1",
+  "ENG": "I’m tired of waiting.",
+  "PTBR": "Estou cansado de esperar."
+},
+{
+  "linha": 427,
+  "nivel": "B1",
+  "ENG": "We didn’t know how to react at first.",
+  "PTBR": "Não sabíamos como reagir no começo."
+},
+{
+  "linha": 428,
+  "nivel": "A2",
+  "ENG": "I need to buy a few things.",
+  "PTBR": "Preciso comprar algumas coisas."
+},
+{
+  "linha": 429,
+  "nivel": "B2",
+  "ENG": "They finally managed to solve the misunderstanding.",
+  "PTBR": "Eles finalmente conseguiram resolver o mal-entendido."
+},
+{
+  "linha": 430,
+  "nivel": "A1",
+  "ENG": "I like your shirt.",
+  "PTBR": "Eu gostei da sua camisa."
+},
+{
+  "linha": 431,
+  "nivel": "A2",
+  "ENG": "I didn't choose this.",
+  "PTBR": "Eu não escolhi isso."
+},
+{
+  "linha": 432,
+  "nivel": "B1",
+  "ENG": "They tried to explain their point of view.",
+  "PTBR": "Eles tentaram explicar o ponto de vista deles."
+},
+{
+  "linha": 433,
+  "nivel": "B2",
+  "ENG": "She realized she needed to set clearer boundaries.",
+  "PTBR": "Ela percebeu que precisava estabelecer limites mais claros."
+},
+{
+  "linha": 434,
+  "nivel": "A2",
+  "ENG": "I’ll text you when I get home.",
+  "PTBR": "Te mando mensagem quando eu chegar em casa."
+},
+{
+  "linha": 435,
+  "nivel": "A1",
+  "ENG": "I need to clean my room.",
+  "PTBR": "Preciso arrumar meu quarto."
+},
+{
+  "linha": 436,
+  "nivel": "B1",
+  "ENG": "We expected the process to be faster.",
+  "PTBR": "Nós esperávamos que o processo fosse mais rápido."
+},
+{
+  "linha": 437,
+  "nivel": "A2",
+  "ENG": "I’m not comfortable with that idea.",
+  "PTBR": "Não estou confortável com essa ideia."
+},
+{
+  "linha": 438,
+  "nivel": "B2",
+  "ENG": "They refused to accept the conditions presented.",
+  "PTBR": "Eles se recusaram a aceitar as condições apresentadas."
+},
+{
+  "linha": 439,
+  "nivel": "A2",
+  "ENG": "Let me know if something changes.",
+  "PTBR": "Me avise se algo mudar."
+},
+{
+  "linha": 440,
+  "nivel": "A1",
+  "ENG": "I forgot my wallet.",
+  "PTBR": "Eu esqueci minha carteira."
+},
+{
+  "linha": 441,
+  "nivel": "B1",
+  "ENG": "They were hoping for better news.",
+  "PTBR": "Eles estavam esperando por notícias melhores."
+},
+{
+  "linha": 442,
+  "nivel": "A2",
+  "ENG": "Can you close the door, please?",
+  "PTBR": "Você pode fechar a porta, por favor?"
+},
+{
+  "linha": 443,
+  "nivel": "B2",
+  "ENG": "She insisted on finishing the task herself.",
+  "PTBR": "Ela insistiu em terminar a tarefa sozinha."
+},
+{
+  "linha": 444,
+  "nivel": "A2",
+  "ENG": "I’ll think about it.",
+  "PTBR": "Vou pensar sobre isso."
+},
+{
+  "linha": 445,
+  "nivel": "A1",
+  "ENG": "I like your glasses.",
+  "PTBR": "Eu gostei dos seus óculos."
+},
+{
+  "linha": 446,
+  "nivel": "B1",
+  "ENG": "We were surprised by their decision.",
+  "PTBR": "Ficamos surpresos com a decisão deles."
+},
+{
+  "linha": 447,
+  "nivel": "A2",
+  "ENG": "I’ll be busy tomorrow morning.",
+  "PTBR": "Eu estarei ocupado amanhã de manhã."
+},
+{
+  "linha": 448,
+  "nivel": "B2",
+  "ENG": "They attempted to fix the issue, but it kept happening.",
+  "PTBR": "Eles tentaram resolver o problema, mas ele continuou acontecendo."
+},
+{
+  "linha": 449,
+  "nivel": "A2",
+  "ENG": "I’m trying to make a decision.",
+  "PTBR": "Estou tentando tomar uma decisão."
+},
+{
+  "linha": 450,
+  "nivel": "B1",
+  "ENG": "She didn’t realize how important it was.",
+  "PTBR": "Ela não percebeu o quão importante era."
+}
+{
+  "linha": 451,
+  "nivel": "A2",
+  "ENG": "I didn’t expect that to happen.",
+  "PTBR": "Eu não esperava que isso acontecesse."
+},
+{
+  "linha": 452,
+  "nivel": "B1",
+  "ENG": "We need to think of a solution together.",
+  "PTBR": "Precisamos pensar em uma solução juntos."
+},
+{
+  "linha": 453,
+  "nivel": "A2",
+  "ENG": "I’m looking forward to the weekend.",
+  "PTBR": "Estou ansioso para o fim de semana."
+},
+{
+  "linha": 454,
+  "nivel": "A1",
+  "ENG": "I’m sorry for being late.",
+  "PTBR": "Desculpe pelo atraso."
+},
+{
+  "linha": 455,
+  "nivel": "B1",
+  "ENG": "They managed to finish the project on time.",
+  "PTBR": "Eles conseguiram terminar o projeto no prazo."
+},
+{
+  "linha": 456,
+  "nivel": "A2",
+  "ENG": "We should leave now.",
+  "PTBR": "Devemos sair agora."
+},
+{
+  "linha": 457,
+  "nivel": "A1",
+  "ENG": "She is my best friend.",
+  "PTBR": "Ela é minha melhor amiga."
+},
+{
+  "linha": 458,
+  "nivel": "B1",
+  "ENG": "They want to stay informed about the situation.",
+  "PTBR": "Eles querem se manter informados sobre a situação."
+},
+{
+  "linha": 459,
+  "nivel": "A2",
+  "ENG": "Can you help me with this task?",
+  "PTBR": "Você pode me ajudar com essa tarefa?"
+},
+{
+  "linha": 460,
+  "nivel": "B2",
+  "ENG": "He insisted on explaining his point of view.",
+  "PTBR": "Ele insistiu em explicar seu ponto de vista."
+},
+{
+  "linha": 461,
+  "nivel": "A1",
+  "ENG": "I’m going to bed now.",
+  "PTBR": "Vou para a cama agora."
+},
+{
+  "linha": 462,
+  "nivel": "A2",
+  "ENG": "I like to spend time with my family.",
+  "PTBR": "Eu gosto de passar tempo com minha família."
+},
+{
+  "linha": 463,
+  "nivel": "B1",
+  "ENG": "They need to work together to achieve success.",
+  "PTBR": "Eles precisam trabalhar juntos para alcançar o sucesso."
+},
+{
+  "linha": 464,
+  "nivel": "B2",
+  "ENG": "She took responsibility for the mistake.",
+  "PTBR": "Ela assumiu a responsabilidade pelo erro."
+},
+{
+  "linha": 465,
+  "nivel": "A2",
+  "ENG": "I don’t know how to solve this problem.",
+  "PTBR": "Eu não sei como resolver esse problema."
+},
+{
+  "linha": 466,
+  "nivel": "A1",
+  "ENG": "They are my cousins.",
+  "PTBR": "Eles são meus primos."
+},
+{
+  "linha": 467,
+  "nivel": "B1",
+  "ENG": "We need to reconsider our decision.",
+  "PTBR": "Precisamos reconsiderar nossa decisão."
+},
+{
+  "linha": 468,
+  "nivel": "A2",
+  "ENG": "I’m going to the store to buy some milk.",
+  "PTBR": "Eu vou à loja comprar leite."
+},
+{
+  "linha": 469,
+  "nivel": "B2",
+  "ENG": "They’ve been working on this project for weeks.",
+  "PTBR": "Eles estão trabalhando nesse projeto há semanas."
+},
+{
+  "linha": 470,
+  "nivel": "A1",
+  "ENG": "It’s raining outside.",
+  "PTBR": "Está chovendo lá fora."
+},
+{
+  "linha": 471,
+  "nivel": "A2",
+  "ENG": "We should go for a walk this afternoon.",
+  "PTBR": "Devemos fazer uma caminhada esta tarde."
+},
+{
+  "linha": 472,
+  "nivel": "B1",
+  "ENG": "They didn’t realize how difficult it would be.",
+  "PTBR": "Eles não perceberam o quão difícil seria."
+},
+{
+  "linha": 473,
+  "nivel": "A2",
+  "ENG": "I’m sorry for the misunderstanding.",
+  "PTBR": "Desculpe pelo mal-entendido."
+},
+{
+  "linha": 474,
+  "nivel": "A1",
+  "ENG": "She is very kind.",
+  "PTBR": "Ela é muito gentil."
+},
+{
+  "linha": 475,
+  "nivel": "B1",
+  "ENG": "They were really surprised by the news.",
+  "PTBR": "Eles ficaram realmente surpresos com a notícia."
+},
+{
+  "linha": 476,
+  "nivel": "A2",
+  "ENG": "I need to finish this report by tomorrow.",
+  "PTBR": "Eu preciso terminar esse relatório até amanhã."
+},
+{
+  "linha": 477,
+  "nivel": "B2",
+  "ENG": "He managed to keep his composure during the interview.",
+  "PTBR": "Ele conseguiu manter a compostura durante a entrevista."
+},
+{
+  "linha": 478,
+  "nivel": "A1",
+  "ENG": "I like your shoes.",
+  "PTBR": "Eu gostei dos seus sapatos."
+},
+{
+  "linha": 479,
+  "nivel": "A2",
+  "ENG": "I have a meeting later.",
+  "PTBR": "Tenho uma reunião mais tarde."
+},
+{
+  "linha": 480,
+  "nivel": "B1",
+  "ENG": "They’ve been preparing for the presentation all week.",
+  "PTBR": "Eles estão se preparando para a apresentação a semana toda."
+},
+{
+  "linha": 481,
+  "nivel": "A2",
+  "ENG": "I’m excited to see you again.",
+  "PTBR": "Estou animado para te ver de novo."
+},
+{
+  "linha": 482,
+  "nivel": "A1",
+  "ENG": "I don’t like that movie.",
+  "PTBR": "Eu não gosto desse filme."
+},
+{
+  "linha": 483,
+  "nivel": "B1",
+  "ENG": "They were planning to leave early.",
+  "PTBR": "Eles estavam planejando sair mais cedo."
+},
+{
+  "linha": 484,
+  "nivel": "A2",
+  "ENG": "I have to go now.",
+  "PTBR": "Eu preciso ir agora."
+},
+{
+  "linha": 485,
+  "nivel": "B2",
+  "ENG": "They have worked together for many years.",
+  "PTBR": "Eles trabalharam juntos por muitos anos."
+},
+{
+  "linha": 486,
+  "nivel": "A1",
+  "ENG": "I have a dog.",
+  "PTBR": "Eu tenho um cachorro."
+},
+{
+  "linha": 487,
+  "nivel": "A2",
+  "ENG": "I forgot to buy the milk.",
+  "PTBR": "Eu esqueci de comprar o leite."
+},
+{
+  "linha": 488,
+  "nivel": "B1",
+  "ENG": "I think we should wait a little longer.",
+  "PTBR": "Eu acho que devemos esperar um pouco mais."
+},
+{
+  "linha": 489,
+  "nivel": "A2",
+  "ENG": "I’ve been working on this for hours.",
+  "PTBR": "Estou trabalhando nisso há horas."
+},
+{
+  "linha": 490,
+  "nivel": "B2",
+  "ENG": "She was determined to succeed, no matter the obstacles.",
+  "PTBR": "Ela estava determinada a ter sucesso, não importando os obstáculos."
+},
+{
+  "linha": 491,
+  "nivel": "A1",
+  "ENG": "I don’t like vegetables.",
+  "PTBR": "Eu não gosto de vegetais."
+},
+{
+  "linha": 492,
+  "nivel": "A2",
+  "ENG": "I need to rest for a while.",
+  "PTBR": "Preciso descansar por um tempo."
+},
+{
+  "linha": 493,
+  "nivel": "B1",
+  "ENG": "They were hoping to find a better solution.",
+  "PTBR": "Eles estavam esperando encontrar uma solução melhor."
+},
+{
+  "linha": 494,
+  "nivel": "A2",
+  "ENG": "I haven’t heard from him in a while.",
+  "PTBR": "Não tenho notícias dele há um tempo."
+},
+{
+  "linha": 495,
+  "nivel": "B2",
+  "ENG": "She managed to finish the report just in time.",
+  "PTBR": "Ela conseguiu terminar o relatório justinho no prazo."
+},
+{
+  "linha": 496,
+  "nivel": "A1",
+  "ENG": "He’s my teacher.",
+  "PTBR": "Ele é meu professor."
+},
+{
+  "linha": 497,
+  "nivel": "A2",
+  "ENG": "It’s a beautiful day today.",
+  "PTBR": "Está um dia lindo hoje."
+},
+{
+  "linha": 498,
+  "nivel": "B1",
+  "ENG": "They are always ready to help.",
+  "PTBR": "Eles estão sempre prontos para ajudar."
+},
+{
+  "linha": 499,
+  "nivel": "A2",
+  "ENG": "I’m planning to go to the gym later.",
+  "PTBR": "Estou planejando ir à academia mais tarde."
+},
+{
+  "linha": 500,
+  "nivel": "B2",
+  "ENG": "They’ve been waiting for approval for days.",
+  "PTBR": "Eles estão esperando pela aprovação há dias."
+}
+
