@@ -1,72 +1,76 @@
-<!doctype html>
-<html lang="pt-BR">
+<!DOCTYPE html>
+<html lang="pt-BR" class="dark">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Treino ENG → PTBR — SRS</title>
-  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ENG → PTBR | Treino Inteligente</title>
+
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class'
+    }
+  </script>
 </head>
-<body>
-  <header class="topbar">
-    <h1>Treino ENG → PTBR</h1>
-    <div class="controls">
-      <button id="toggleTheme" aria-label="Alternar tema">🌓</button>
-      <button id="openDashboard" aria-label="Abrir painel">📊</button>
-      <a id="downloadData" href="#" download="srs_data.json" title="Exportar dados">💾</a>
+
+<body class="bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-gray-100 min-h-screen flex flex-col">
+
+<header class="p-4 flex justify-between items-center border-b dark:border-gray-700">
+  <h1 class="text-xl font-semibold">Treino ENG → PTBR</h1>
+
+  <div class="flex gap-2">
+    <button id="toggleTheme" class="px-3 py-1 rounded bg-gray-200 dark:bg-gray-700">🌗</button>
+    <button id="resetProgress" class="px-3 py-1 rounded bg-red-600 text-white">Resetar</button>
+  </div>
+</header>
+
+<main class="flex-1 p-4 max-w-3xl mx-auto w-full">
+
+  <!-- Meta -->
+  <div class="flex justify-between text-sm opacity-80 mb-2">
+    <span>Linha: <strong id="linha">—</strong></span>
+    <span>CEFR: <strong id="nivel">—</strong></span>
+  </div>
+
+  <!-- Card -->
+  <div class="bg-white dark:bg-gray-800 rounded-xl shadow p-6 space-y-4">
+
+    <p id="fraseENG" class="text-lg font-medium text-center"></p>
+
+    <button id="ouvir"
+      class="w-full py-2 rounded bg-blue-600 hover:bg-blue-700 text-white">
+      🔊 Ouvir frase
+    </button>
+
+    <textarea id="resposta"
+      class="w-full p-3 rounded bg-gray-100 dark:bg-gray-700"
+      placeholder="Digite a tradução em português..."></textarea>
+
+    <div class="flex flex-col sm:flex-row gap-2">
+      <button id="conferir"
+        class="flex-1 py-2 rounded bg-green-600 hover:bg-green-700 text-white">
+        Conferir tradução
+      </button>
+
+      <button id="proxima"
+        class="flex-1 py-2 rounded bg-gray-400 dark:bg-gray-600">
+        Próxima frase
+      </button>
     </div>
-  </header>
 
-  <main class="container">
-    <section class="card" id="card">
-      <div class="meta">
-        <span>Linha: <strong id="linha">—</strong></span>
-        <span>Due: <strong id="due">—</strong></span>
-      </div>
+    <div id="resultado" class="text-center font-medium"></div>
+  </div>
 
-      <h2 id="fraseEng">Carregando...</h2>
+  <!-- Progresso -->
+  <div class="mt-6 bg-white dark:bg-gray-800 rounded-xl p-4 shadow">
+    <h2 class="font-semibold mb-2">📈 Progresso</h2>
+    <canvas id="grafico" height="120"></canvas>
+  </div>
 
-      <div class="actions">
-        <button id="listenBtn">🔊 Ouvir</button>
-      </div>
+</main>
 
-      <label for="resposta" class="sr-only">Sua tradução</label>
-      <input id="resposta" type="text" placeholder="Digite a tradução em português (PT-BR)" autocomplete="off" />
-
-      <div class="buttons-grid">
-        <button id="checkBtn">Conferir tradução</button>
-        <button id="skipBtn">Próxima</button>
-      </div>
-
-      <div id="resultado" class="feedback" aria-live="polite"></div>
-    </section>
-
-    <aside id="historyPanel" class="panel hidden">
-      <h3>Histórico (últimas 50 interações)</h3>
-      <ul id="historyList"></ul>
-      <button id="closeHistory">Fechar</button>
-    </aside>
-
-    <section id="dashboard" class="panel hidden">
-      <h3>Painel</h3>
-      <p>Total de frases: <strong id="totalCount">0</strong></p>
-      <p>Devidas agora: <strong id="dueCount">0</strong></p>
-      <p>Acertos hoje: <strong id="todayCorrect">0</strong></p>
-      <p>Erros hoje: <strong id="todayWrong">0</strong></p>
-
-      <h4>Fila inteligente</h4>
-      <small>Frases com mais lapsos aparecem com maior probabilidade.</small>
-
-      <div class="dashboard-actions">
-        <button id="exportBtn">Exportar SRS</button>
-        <button id="resetBtn">Resetar progresso</button>
-      </div>
-    </section>
-  </main>
-
-  <footer class="footer">
-    <small>Pronúncia: americana (en-US) • Funciona offline (localStorage) • Feito para GitHub Pages</small>
-  </footer>
-
-  <script src="app.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="app.js"></script>
 </body>
 </html>
