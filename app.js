@@ -2,7 +2,7 @@
 // CONFIGURAÇÕES GERAIS
 // ==========================
 
-const DATASET_URL = "data/frases.json";
+const DATA_PATH = "data/frases.json";
 let frases = [];
 let filaInteligente = [];
 let fraseAtual = null;
