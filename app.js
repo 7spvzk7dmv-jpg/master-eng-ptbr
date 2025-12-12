@@ -1,176 +1,128 @@
-// ==========================
-// CONFIGURAÇÕES GERAIS
-// ==========================
-
-const DATA_PATH = "data/frases.json";
 let frases = [];
-let filaInteligente = [];
-let fraseAtual = null;
+let estado = JSON.parse(localStorage.getItem("estadoTreino")) || {
+  indiceAtual: 0,
+  stats: {},
+  acertos: 0,
+  erros: 0
+};
 
-// Histórico: linha → { acertos, erros }
-let historico = JSON.parse(localStorage.getItem("historico_eng")) || {};
+const fraseENG = document.getElementById("fraseENG");
+const resposta = document.getElementById("resposta");
+const resultado = document.getElementById("resultado");
+const linha = document.getElementById("linha");
+const nivel = document.getElementById("nivel");
 
-// Modo adaptativo
-let nivelAtual = "AUTO";
+fetch("data/frases.json")
+  .then(r => r.json())
+  .then(d => {
+    frases = d;
+    mostrarFrase();
+    atualizarGrafico();
+  });
 
-// SRS — Pesos
-const PESO_ACERTO = 0.8;
-const PESO_ERRO = 2.5;
-
-// Tolerância mínima de similaridade
-const SIM_MIN = 0.82;
-
-
-// ==========================
-// CARREGAR DATASET
-// ==========================
-async function carregarFrases() {
-    const resposta = await fetch(DATASET_URL);
-    frases = await resposta.json();
-    construirFilaInicial();
-    proximaFrase();
+function normalizar(txt) {
+  return txt
+    .toLowerCase()
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^\w\s]/g, "")
+    .trim();
 }
 
-
-// ==========================
-// FILA INTELIGENTE
-// ==========================
-function construirFilaInicial() {
-    filaInteligente = [];
-
-    frases.forEach(f => {
-        const hist = historico[f.linha] || { acertos: 0, erros: 0 };
-        const erros = hist.erros || 0;
-        const acertos = hist.acertos || 0;
-
-        // Score que determina prioridade
-        let score = 1 + erros * PESO_ERRO - acertos * PESO_ACERTO;
-        if (score < 1) score = 1;
-
-        filaInteligente.push({ ...f, score });
-    });
-
-    filaInteligente.sort((a, b) => b.score - a.score);
+function similar(a, b) {
+  let acertos = 0;
+  const wa = a.split(" ");
+  const wb = b.split(" ");
+  wa.forEach(w => {
+    if (wb.includes(w)) acertos++;
+  });
+  return acertos / Math.max(wa.length, wb.length);
 }
 
+function mostrarFrase() {
+  const f = frases[estado.indiceAtual];
+  fraseENG.textContent = f.ENG;
+  linha.textContent = estado.indiceAtual + 1;
+  nivel.textContent = f.CEFR;
+  resposta.value = "";
+  resultado.textContent = "";
+}
 
-// ==========================
-// ESCOLHA ADAPTATIVA
-// ==========================
-function escolherFraseAdaptativa() {
-    const distribuicao = {
-        "A1": 0.30,
-        "A2": 0.30,
-        "B1": 0.25,
-        "B2": 0.15
-    };
+document.getElementById("ouvir").onclick = () => {
+  const u = new SpeechSynthesisUtterance(fraseENG.textContent);
+  u.lang = "en-US";
+  speechSynthesis.speak(u);
+};
 
-    const r = Math.random();
-    let acumulado = 0;
+document.getElementById("conferir").onclick = () => {
+  const f = frases[estado.indiceAtual];
+  const rUser = normalizar(resposta.value);
+  const rOk = normalizar(f.PTBR);
 
-    for (const nivel of ["A1", "A2", "B1", "B2"]) {
-        acumulado += distribuicao[nivel];
-        if (r <= acumulado) {
-            const grupo = filaInteligente.filter(f => f.nivel === nivel);
-            if (grupo.length > 0) {
-                return grupo[Math.floor(Math.random() * grupo.length)];
-            }
-        }
+  const score = similar(rUser, rOk);
+
+  estado.stats[estado.indiceAtual] ??= { tentativas: 0, erros: 0 };
+  estado.stats[estado.indiceAtual].tentativas++;
+
+  if (score >= 0.6) {
+    resultado.textContent = "✅ Correto!";
+    estado.acertos++;
+  } else {
+    resultado.textContent = `❌ Correto seria: ${f.PTBR}`;
+    estado.erros++;
+    estado.stats[estado.indiceAtual].erros++;
+  }
+
+  salvar();
+  atualizarGrafico();
+};
+
+document.getElementById("proxima").onclick = () => {
+  estado.indiceAtual = escolherProxima();
+  mostrarFrase();
+};
+
+function escolherProxima() {
+  const pesos = frases.map((_, i) => {
+    const e = estado.stats[i]?.erros || 0;
+    return e + 1;
+  });
+
+  const total = pesos.reduce((a, b) => a + b, 0);
+  let r = Math.random() * total;
+
+  for (let i = 0; i < pesos.length; i++) {
+    if ((r -= pesos[i]) <= 0) return i;
+  }
+  return 0;
+}
+
+function salvar() {
+  localStorage.setItem("estadoTreino", JSON.stringify(estado));
+}
+
+document.getElementById("resetProgress").onclick = () => {
+  if (confirm("Resetar todo o progresso?")) {
+    localStorage.removeItem("estadoTreino");
+    location.reload();
+  }
+};
+
+document.getElementById("toggleTheme").onclick = () => {
+  document.documentElement.classList.toggle("dark");
+};
+
+let chart;
+function atualizarGrafico() {
+  const ctx = document.getElementById("grafico");
+  if (chart) chart.destroy();
+
+  chart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: ['Acertos', 'Erros'],
+      datasets: [{
+        data: [estado.acertos, estado.erros]
+      }]
     }
-
-    // fallback
-    return filaInteligente[Math.floor(Math.random() * filaInteligente.length)];
+  });
 }
-
-
-// ==========================
-// EXIBIR FRASE
-// ==========================
-function proximaFrase() {
-    fraseAtual = escolherFraseAdaptativa();
-
-    document.getElementById("frase-eng").innerText = fraseAtual.ENG;
-    document.getElementById("linha-info-eng").innerText = "Line " + fraseAtual.linha;
-    document.getElementById("resultado-eng").innerText = "";
-    document.getElementById("resposta-eng").value = "";
-}
-
-
-// ==========================
-// TTS — Inglês Americano
-// ==========================
-function falarFraseEng() {
-    const utter = new SpeechSynthesisUtterance(fraseAtual.ENG);
-    utter.lang = "en-US";
-    speechSynthesis.speak(utter);
-}
-
-
-// ==========================
-// FUNÇÃO DE SIMILARIDADE
-// ==========================
-function similaridade(a, b) {
-    a = a.toLowerCase().trim();
-    b = b.toLowerCase().trim();
-
-    if (a === b) return 1.0;
-
-    const arrA = a.split("");
-    const arrB = b.split("");
-    const len = Math.max(arrA.length, arrB.length);
-    let iguais = 0;
-
-    for (let i = 0; i < len; i++) {
-        if (arrA[i] === arrB[i]) iguais++;
-    }
-
-    return iguais / len;
-}
-
-
-// ==========================
-// CONFERIR TRADUÇÃO
-// ==========================
-function conferirENG() {
-    const resp = document.getElementById("resposta-eng").value.trim();
-    const correta = fraseAtual.PTBR.trim();
-
-    const sim = similaridade(resp, correta);
-    const acertou = sim >= SIM_MIN;
-
-    atualizarHistoricoEng(fraseAtual.linha, acertou);
-
-    document.getElementById("resultado-eng").innerHTML =
-        acertou
-            ? "✔ Correct! Translation: <b>" + correta + "</b>"
-            : "✖ Incorrect. Correct translation: <b>" + correta + "</b>";
-
-    construirFilaInicial();
-}
-
-
-// ==========================
-// ATUALIZA HISTÓRICO
-// ==========================
-function atualizarHistoricoEng(linha, acertou) {
-    if (!historico[linha]) historico[linha] = { acertos: 0, erros: 0 };
-
-    if (acertou) historico[linha].acertos++;
-    else historico[linha].erros++;
-
-    localStorage.setItem("historico_eng", JSON.stringify(historico));
-}
-
-
-// ==========================
-// BOTÕES
-// ==========================
-document.getElementById("btn-ouvir-eng").onclick = falarFraseEng;
-document.getElementById("btn-conferir-eng").onclick = conferirENG;
-document.getElementById("btn-proxima-eng").onclick = proximaFrase;
-
-
-// ==========================
-// START
-// ==========================
-carregarFrases();
