@@ -1,1 +1,70 @@
-<html><body><h1>Treinador pronto</h1></body></html>
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Treino ENG → PTBR — SRS</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="topbar">
+    <h1>Treino ENG → PTBR</h1>
+    <div class="controls">
+      <button id="toggleTheme" aria-label="Alternar tema">🌓</button>
+      <button id="openDashboard" aria-label="Abrir painel">📊</button>
+      <a id="downloadData" href="#" download="srs_data.json" title="Exportar dados">💾</a>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="card" id="card">
+      <div class="meta">
+        <span>Linha: <strong id="linha">—</strong></span>
+        <span>Due: <strong id="due">—</strong></span>
+      </div>
+
+      <h2 id="fraseEng">Carregando...</h2>
+
+      <div class="actions">
+        <button id="listenBtn">🔊 Ouvir</button>
+      </div>
+
+      <label for="resposta" class="sr-only">Sua tradução</label>
+      <input id="resposta" type="text" placeholder="Digite a tradução em português (PTBR)" autocomplete="off">
+
+      <div class="buttons-grid">
+        <button id="checkBtn">Conferir tradução</button>
+        <button id="skipBtn">Próxima</button>
+      </div>
+
+      <div id="feedback" class="feedback" aria-live="polite"></div>
+    </section>
+
+    <aside id="historyPanel" class="panel hidden">
+      <h3>Histórico (últimas 50 interações)</h3>
+      <ul id="historyList"></ul>
+      <button id="closeHistory">Fechar</button>
+    </aside>
+
+    <section id="dashboard" class="panel hidden">
+      <h3>Painel</h3>
+      <p>Total de frases: <strong id="totalCount">0</strong></p>
+      <p>Devidas agora: <strong id="dueCount">0</strong></p>
+      <p>Acertos hoje: <strong id="todayCorrect">0</strong></p>
+      <p>Erros hoje: <strong id="todayWrong">0</strong></p>
+      <h4>Fila inteligente</h4>
+      <small>Frases com mais lapsos aparecem com maior probabilidade.</small>
+      <div class="dashboard-actions">
+        <button id="exportBtn">Exportar SRS</button>
+        <button id="resetBtn">Resetar progresso</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <small>Pronúncia: americana (en-US) • Funciona offline (localStorage) • Feito para GitHub Pages</small>
+  </footer>
+
+<script src="app.js"></script>
+</body>
+</html>
