@@ -1,5002 +1,2502 @@
 [
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
+    "ENG": "I need to think about it.",
+    "PTBR": "Preciso pensar sobre isso.",
     "CEFR": "A1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
+    "ENG": "It depends on the situation.",
+    "PTBR": "Depende da situação.",
     "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
+    "ENG": "I'm not sure if it's worth it.",
+    "PTBR": "Não sei se vale a pena.",
     "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
+    "ENG": "Things didn't go as planned.",
+    "PTBR": "As coisas não saíram como planejado.",
     "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
+    "ENG": "We need to find a solution.",
+    "PTBR": "Precisamos encontrar uma solução.",
     "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
+    "ENG": "I'm looking forward to it.",
+    "PTBR": "Estou ansioso por isso.",
     "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
+    "ENG": "That wasn't my intention.",
+    "PTBR": "Essa não era minha intenção.",
     "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
+    "ENG": "I completely agree with you.",
+    "PTBR": "Concordo totalmente com você.",
     "CEFR": "A1"
-  },
-  {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
+    "ENG": "This will take some time.",
+    "PTBR": "Isso vai levar algum tempo.",
     "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
+    "ENG": "I wasn't expecting that.",
+    "PTBR": "Eu não esperava por isso.",
     "CEFR": "A1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
+    "ENG": "I need to think about it.",
+    "PTBR": "Preciso pensar sobre isso.",
     "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
+    "ENG": "It depends on the situation.",
+    "PTBR": "Depende da situação.",
     "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
+    "ENG": "I'm not sure if it's worth it.",
+    "PTBR": "Não sei se vale a pena.",
     "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
+    "ENG": "Things didn't go as planned.",
+    "PTBR": "As coisas não saíram como planejado.",
     "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
+    "ENG": "We need to find a solution.",
+    "PTBR": "Precisamos encontrar uma solução.",
     "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
+    "ENG": "I'm looking forward to it.",
+    "PTBR": "Estou ansioso por isso.",
     "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
+    "ENG": "That wasn't my intention.",
+    "PTBR": "Essa não era minha intenção.",
     "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
-  },
-  {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
+    "ENG": "I completely agree with you.",
+    "PTBR": "Concordo totalmente com você.",
     "CEFR": "A2"
-  },
-  {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
+    "ENG": "This will take some time.",
+    "PTBR": "Isso vai levar algum tempo.",
     "CEFR": "A2"
-  },
-  {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
-  },
-  {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
-  },
-  {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
+    "ENG": "I wasn't expecting that.",
+    "PTBR": "Eu não esperava por isso.",
     "CEFR": "A2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
+    "ENG": "I need to think about it.",
+    "PTBR": "Preciso pensar sobre isso.",
     "CEFR": "B1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "It depends on the situation.",
+    "PTBR": "Depende da situação.",
+    "CEFR": "B1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I'm not sure if it's worth it.",
+    "PTBR": "Não sei se vale a pena.",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "Things didn't go as planned.",
+    "PTBR": "As coisas não saíram como planejado.",
+    "CEFR": "B1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
+    "ENG": "We need to find a solution.",
+    "PTBR": "Precisamos encontrar uma solução.",
     "CEFR": "B1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "I'm looking forward to it.",
+    "PTBR": "Estou ansioso por isso.",
+    "CEFR": "B1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "That wasn't my intention.",
+    "PTBR": "Essa não era minha intenção.",
+    "CEFR": "B1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I completely agree with you.",
+    "PTBR": "Concordo totalmente com você.",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "This will take some time.",
+    "PTBR": "Isso vai levar algum tempo.",
+    "CEFR": "B1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
+    "ENG": "I wasn't expecting that.",
+    "PTBR": "Eu não esperava por isso.",
     "CEFR": "B1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
+    "ENG": "I need to think about it.",
+    "PTBR": "Preciso pensar sobre isso.",
     "CEFR": "B2"
-  },
-  {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "It depends on the situation.",
+    "PTBR": "Depende da situação.",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "I'm not sure if it's worth it.",
+    "PTBR": "Não sei se vale a pena.",
+    "CEFR": "B2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "Things didn't go as planned.",
+    "PTBR": "As coisas não saíram como planejado.",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
+    "ENG": "We need to find a solution.",
+    "PTBR": "Precisamos encontrar uma solução.",
     "CEFR": "B2"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "I'm looking forward to it.",
+    "PTBR": "Estou ansioso por isso.",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "That wasn't my intention.",
+    "PTBR": "Essa não era minha intenção.",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "I completely agree with you.",
+    "PTBR": "Concordo totalmente com você.",
+    "CEFR": "B2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "This will take some time.",
+    "PTBR": "Isso vai levar algum tempo.",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
+    "ENG": "I wasn't expecting that.",
+    "PTBR": "Eu não esperava por isso.",
     "CEFR": "B2"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
+    "ENG": "I need to think about it.",
+    "PTBR": "Preciso pensar sobre isso.",
     "CEFR": "C1"
-  },
-  {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation.",
+    "PTBR": "Depende da situação.",
+    "CEFR": "C1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it.",
+    "PTBR": "Não sei se vale a pena.",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned.",
+    "PTBR": "As coisas não saíram como planejado.",
+    "CEFR": "C1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
+    "ENG": "We need to find a solution.",
+    "PTBR": "Precisamos encontrar uma solução.",
     "CEFR": "C1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it.",
+    "PTBR": "Estou ansioso por isso.",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention.",
+    "PTBR": "Essa não era minha intenção.",
+    "CEFR": "C1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you.",
+    "PTBR": "Concordo totalmente com você.",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time.",
+    "PTBR": "Isso vai levar algum tempo.",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
+    "ENG": "I wasn't expecting that.",
+    "PTBR": "Eu não esperava por isso.",
     "CEFR": "C1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (1)",
+    "PTBR": "Preciso pensar sobre isso (1)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
+    "ENG": "It depends on the situation (1)",
+    "PTBR": "Depende da situação (1)",
     "CEFR": "A2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (1)",
+    "PTBR": "Não sei se vale a pena (1)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (1)",
+    "PTBR": "As coisas não saíram como planejado (1)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (1)",
+    "PTBR": "Precisamos encontrar uma solução (1)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (1)",
+    "PTBR": "Estou ansioso por isso (1)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
+    "ENG": "That wasn't my intention (1)",
+    "PTBR": "Essa não era minha intenção (1)",
     "CEFR": "A2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (1)",
+    "PTBR": "Concordo totalmente com você (1)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (1)",
+    "PTBR": "Isso vai levar algum tempo (1)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (1)",
+    "PTBR": "Eu não esperava por isso (1)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (2)",
+    "PTBR": "Preciso pensar sobre isso (2)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (2)",
+    "PTBR": "Depende da situação (2)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
+    "ENG": "I'm not sure if it's worth it (2)",
+    "PTBR": "Não sei se vale a pena (2)",
     "CEFR": "B1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (2)",
+    "PTBR": "As coisas não saíram como planejado (2)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (2)",
+    "PTBR": "Precisamos encontrar uma solução (2)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (2)",
+    "PTBR": "Estou ansioso por isso (2)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (2)",
+    "PTBR": "Essa não era minha intenção (2)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
+    "ENG": "I completely agree with you (2)",
+    "PTBR": "Concordo totalmente com você (2)",
     "CEFR": "B1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (2)",
+    "PTBR": "Isso vai levar algum tempo (2)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (2)",
+    "PTBR": "Eu não esperava por isso (2)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (3)",
+    "PTBR": "Preciso pensar sobre isso (3)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (3)",
+    "PTBR": "Depende da situação (3)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (3)",
+    "PTBR": "Não sei se vale a pena (3)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
+    "ENG": "Things didn't go as planned (3)",
+    "PTBR": "As coisas não saíram como planejado (3)",
     "CEFR": "B2"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (3)",
+    "PTBR": "Precisamos encontrar uma solução (3)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (3)",
+    "PTBR": "Estou ansioso por isso (3)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (3)",
+    "PTBR": "Essa não era minha intenção (3)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (3)",
+    "PTBR": "Concordo totalmente com você (3)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
+    "ENG": "This will take some time (3)",
+    "PTBR": "Isso vai levar algum tempo (3)",
     "CEFR": "B2"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (3)",
+    "PTBR": "Eu não esperava por isso (3)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (4)",
+    "PTBR": "Preciso pensar sobre isso (4)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (4)",
+    "PTBR": "Depende da situação (4)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (4)",
+    "PTBR": "Não sei se vale a pena (4)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (4)",
+    "PTBR": "As coisas não saíram como planejado (4)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
+    "ENG": "We need to find a solution (4)",
+    "PTBR": "Precisamos encontrar uma solução (4)",
     "CEFR": "C1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (4)",
+    "PTBR": "Estou ansioso por isso (4)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (4)",
+    "PTBR": "Essa não era minha intenção (4)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (4)",
+    "PTBR": "Concordo totalmente com você (4)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (4)",
+    "PTBR": "Isso vai levar algum tempo (4)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
+    "ENG": "I wasn't expecting that (4)",
+    "PTBR": "Eu não esperava por isso (4)",
     "CEFR": "C1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
+    "ENG": "I need to think about it (5)",
+    "PTBR": "Preciso pensar sobre isso (5)",
     "CEFR": "A1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (5)",
+    "PTBR": "Depende da situação (5)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (5)",
+    "PTBR": "Não sei se vale a pena (5)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (5)",
+    "PTBR": "As coisas não saíram como planejado (5)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (5)",
+    "PTBR": "Precisamos encontrar uma solução (5)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
+    "ENG": "I'm looking forward to it (5)",
+    "PTBR": "Estou ansioso por isso (5)",
     "CEFR": "A1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (5)",
+    "PTBR": "Essa não era minha intenção (5)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (5)",
+    "PTBR": "Concordo totalmente com você (5)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (5)",
+    "PTBR": "Isso vai levar algum tempo (5)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (5)",
+    "PTBR": "Eu não esperava por isso (5)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (6)",
+    "PTBR": "Preciso pensar sobre isso (6)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
+    "ENG": "It depends on the situation (6)",
+    "PTBR": "Depende da situação (6)",
     "CEFR": "A2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (6)",
+    "PTBR": "Não sei se vale a pena (6)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (6)",
+    "PTBR": "As coisas não saíram como planejado (6)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (6)",
+    "PTBR": "Precisamos encontrar uma solução (6)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (6)",
+    "PTBR": "Estou ansioso por isso (6)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
+    "ENG": "That wasn't my intention (6)",
+    "PTBR": "Essa não era minha intenção (6)",
     "CEFR": "A2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (6)",
+    "PTBR": "Concordo totalmente com você (6)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (6)",
+    "PTBR": "Isso vai levar algum tempo (6)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (6)",
+    "PTBR": "Eu não esperava por isso (6)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (7)",
+    "PTBR": "Preciso pensar sobre isso (7)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (7)",
+    "PTBR": "Depende da situação (7)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
+    "ENG": "I'm not sure if it's worth it (7)",
+    "PTBR": "Não sei se vale a pena (7)",
     "CEFR": "B1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (7)",
+    "PTBR": "As coisas não saíram como planejado (7)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (7)",
+    "PTBR": "Precisamos encontrar uma solução (7)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (7)",
+    "PTBR": "Estou ansioso por isso (7)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (7)",
+    "PTBR": "Essa não era minha intenção (7)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
+    "ENG": "I completely agree with you (7)",
+    "PTBR": "Concordo totalmente com você (7)",
     "CEFR": "B1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (7)",
+    "PTBR": "Isso vai levar algum tempo (7)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (7)",
+    "PTBR": "Eu não esperava por isso (7)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (8)",
+    "PTBR": "Preciso pensar sobre isso (8)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (8)",
+    "PTBR": "Depende da situação (8)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (8)",
+    "PTBR": "Não sei se vale a pena (8)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
+    "ENG": "Things didn't go as planned (8)",
+    "PTBR": "As coisas não saíram como planejado (8)",
     "CEFR": "B2"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (8)",
+    "PTBR": "Precisamos encontrar uma solução (8)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (8)",
+    "PTBR": "Estou ansioso por isso (8)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (8)",
+    "PTBR": "Essa não era minha intenção (8)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (8)",
+    "PTBR": "Concordo totalmente com você (8)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
+    "ENG": "This will take some time (8)",
+    "PTBR": "Isso vai levar algum tempo (8)",
     "CEFR": "B2"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (8)",
+    "PTBR": "Eu não esperava por isso (8)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (9)",
+    "PTBR": "Preciso pensar sobre isso (9)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (9)",
+    "PTBR": "Depende da situação (9)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (9)",
+    "PTBR": "Não sei se vale a pena (9)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (9)",
+    "PTBR": "As coisas não saíram como planejado (9)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
+    "ENG": "We need to find a solution (9)",
+    "PTBR": "Precisamos encontrar uma solução (9)",
     "CEFR": "C1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (9)",
+    "PTBR": "Estou ansioso por isso (9)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (9)",
+    "PTBR": "Essa não era minha intenção (9)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (9)",
+    "PTBR": "Concordo totalmente com você (9)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (9)",
+    "PTBR": "Isso vai levar algum tempo (9)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
+    "ENG": "I wasn't expecting that (9)",
+    "PTBR": "Eu não esperava por isso (9)",
     "CEFR": "C1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
+    "ENG": "I need to think about it (10)",
+    "PTBR": "Preciso pensar sobre isso (10)",
     "CEFR": "A1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (10)",
+    "PTBR": "Depende da situação (10)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (10)",
+    "PTBR": "Não sei se vale a pena (10)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (10)",
+    "PTBR": "As coisas não saíram como planejado (10)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (10)",
+    "PTBR": "Precisamos encontrar uma solução (10)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
+    "ENG": "I'm looking forward to it (10)",
+    "PTBR": "Estou ansioso por isso (10)",
     "CEFR": "A1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (10)",
+    "PTBR": "Essa não era minha intenção (10)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (10)",
+    "PTBR": "Concordo totalmente com você (10)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (10)",
+    "PTBR": "Isso vai levar algum tempo (10)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (10)",
+    "PTBR": "Eu não esperava por isso (10)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (11)",
+    "PTBR": "Preciso pensar sobre isso (11)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
+    "ENG": "It depends on the situation (11)",
+    "PTBR": "Depende da situação (11)",
     "CEFR": "A2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (11)",
+    "PTBR": "Não sei se vale a pena (11)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (11)",
+    "PTBR": "As coisas não saíram como planejado (11)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (11)",
+    "PTBR": "Precisamos encontrar uma solução (11)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (11)",
+    "PTBR": "Estou ansioso por isso (11)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
+    "ENG": "That wasn't my intention (11)",
+    "PTBR": "Essa não era minha intenção (11)",
     "CEFR": "A2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (11)",
+    "PTBR": "Concordo totalmente com você (11)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (11)",
+    "PTBR": "Isso vai levar algum tempo (11)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (11)",
+    "PTBR": "Eu não esperava por isso (11)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (12)",
+    "PTBR": "Preciso pensar sobre isso (12)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (12)",
+    "PTBR": "Depende da situação (12)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
+    "ENG": "I'm not sure if it's worth it (12)",
+    "PTBR": "Não sei se vale a pena (12)",
     "CEFR": "B1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (12)",
+    "PTBR": "As coisas não saíram como planejado (12)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (12)",
+    "PTBR": "Precisamos encontrar uma solução (12)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (12)",
+    "PTBR": "Estou ansioso por isso (12)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (12)",
+    "PTBR": "Essa não era minha intenção (12)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
+    "ENG": "I completely agree with you (12)",
+    "PTBR": "Concordo totalmente com você (12)",
     "CEFR": "B1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (12)",
+    "PTBR": "Isso vai levar algum tempo (12)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (12)",
+    "PTBR": "Eu não esperava por isso (12)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (13)",
+    "PTBR": "Preciso pensar sobre isso (13)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (13)",
+    "PTBR": "Depende da situação (13)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (13)",
+    "PTBR": "Não sei se vale a pena (13)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
+    "ENG": "Things didn't go as planned (13)",
+    "PTBR": "As coisas não saíram como planejado (13)",
     "CEFR": "B2"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (13)",
+    "PTBR": "Precisamos encontrar uma solução (13)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (13)",
+    "PTBR": "Estou ansioso por isso (13)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (13)",
+    "PTBR": "Essa não era minha intenção (13)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (13)",
+    "PTBR": "Concordo totalmente com você (13)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
+    "ENG": "This will take some time (13)",
+    "PTBR": "Isso vai levar algum tempo (13)",
     "CEFR": "B2"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (13)",
+    "PTBR": "Eu não esperava por isso (13)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (14)",
+    "PTBR": "Preciso pensar sobre isso (14)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (14)",
+    "PTBR": "Depende da situação (14)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (14)",
+    "PTBR": "Não sei se vale a pena (14)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (14)",
+    "PTBR": "As coisas não saíram como planejado (14)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
+    "ENG": "We need to find a solution (14)",
+    "PTBR": "Precisamos encontrar uma solução (14)",
     "CEFR": "C1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (14)",
+    "PTBR": "Estou ansioso por isso (14)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (14)",
+    "PTBR": "Essa não era minha intenção (14)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (14)",
+    "PTBR": "Concordo totalmente com você (14)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (14)",
+    "PTBR": "Isso vai levar algum tempo (14)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
+    "ENG": "I wasn't expecting that (14)",
+    "PTBR": "Eu não esperava por isso (14)",
     "CEFR": "C1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
+    "ENG": "I need to think about it (15)",
+    "PTBR": "Preciso pensar sobre isso (15)",
     "CEFR": "A1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (15)",
+    "PTBR": "Depende da situação (15)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (15)",
+    "PTBR": "Não sei se vale a pena (15)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (15)",
+    "PTBR": "As coisas não saíram como planejado (15)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (15)",
+    "PTBR": "Precisamos encontrar uma solução (15)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
+    "ENG": "I'm looking forward to it (15)",
+    "PTBR": "Estou ansioso por isso (15)",
     "CEFR": "A1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (15)",
+    "PTBR": "Essa não era minha intenção (15)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (15)",
+    "PTBR": "Concordo totalmente com você (15)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (15)",
+    "PTBR": "Isso vai levar algum tempo (15)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (15)",
+    "PTBR": "Eu não esperava por isso (15)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (16)",
+    "PTBR": "Preciso pensar sobre isso (16)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
+    "ENG": "It depends on the situation (16)",
+    "PTBR": "Depende da situação (16)",
     "CEFR": "A2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (16)",
+    "PTBR": "Não sei se vale a pena (16)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (16)",
+    "PTBR": "As coisas não saíram como planejado (16)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (16)",
+    "PTBR": "Precisamos encontrar uma solução (16)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (16)",
+    "PTBR": "Estou ansioso por isso (16)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
+    "ENG": "That wasn't my intention (16)",
+    "PTBR": "Essa não era minha intenção (16)",
     "CEFR": "A2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (16)",
+    "PTBR": "Concordo totalmente com você (16)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (16)",
+    "PTBR": "Isso vai levar algum tempo (16)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (16)",
+    "PTBR": "Eu não esperava por isso (16)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (17)",
+    "PTBR": "Preciso pensar sobre isso (17)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (17)",
+    "PTBR": "Depende da situação (17)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
+    "ENG": "I'm not sure if it's worth it (17)",
+    "PTBR": "Não sei se vale a pena (17)",
     "CEFR": "B1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (17)",
+    "PTBR": "As coisas não saíram como planejado (17)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (17)",
+    "PTBR": "Precisamos encontrar uma solução (17)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (17)",
+    "PTBR": "Estou ansioso por isso (17)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (17)",
+    "PTBR": "Essa não era minha intenção (17)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
+    "ENG": "I completely agree with you (17)",
+    "PTBR": "Concordo totalmente com você (17)",
     "CEFR": "B1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (17)",
+    "PTBR": "Isso vai levar algum tempo (17)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (17)",
+    "PTBR": "Eu não esperava por isso (17)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (18)",
+    "PTBR": "Preciso pensar sobre isso (18)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (18)",
+    "PTBR": "Depende da situação (18)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (18)",
+    "PTBR": "Não sei se vale a pena (18)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
+    "ENG": "Things didn't go as planned (18)",
+    "PTBR": "As coisas não saíram como planejado (18)",
     "CEFR": "B2"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (18)",
+    "PTBR": "Precisamos encontrar uma solução (18)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (18)",
+    "PTBR": "Estou ansioso por isso (18)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (18)",
+    "PTBR": "Essa não era minha intenção (18)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (18)",
+    "PTBR": "Concordo totalmente com você (18)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
+    "ENG": "This will take some time (18)",
+    "PTBR": "Isso vai levar algum tempo (18)",
     "CEFR": "B2"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (18)",
+    "PTBR": "Eu não esperava por isso (18)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (19)",
+    "PTBR": "Preciso pensar sobre isso (19)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (19)",
+    "PTBR": "Depende da situação (19)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (19)",
+    "PTBR": "Não sei se vale a pena (19)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (19)",
+    "PTBR": "As coisas não saíram como planejado (19)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
+    "ENG": "We need to find a solution (19)",
+    "PTBR": "Precisamos encontrar uma solução (19)",
     "CEFR": "C1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (19)",
+    "PTBR": "Estou ansioso por isso (19)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (19)",
+    "PTBR": "Essa não era minha intenção (19)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (19)",
+    "PTBR": "Concordo totalmente com você (19)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (19)",
+    "PTBR": "Isso vai levar algum tempo (19)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
+    "ENG": "I wasn't expecting that (19)",
+    "PTBR": "Eu não esperava por isso (19)",
     "CEFR": "C1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
+    "ENG": "I need to think about it (20)",
+    "PTBR": "Preciso pensar sobre isso (20)",
     "CEFR": "A1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (20)",
+    "PTBR": "Depende da situação (20)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (20)",
+    "PTBR": "Não sei se vale a pena (20)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (20)",
+    "PTBR": "As coisas não saíram como planejado (20)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (20)",
+    "PTBR": "Precisamos encontrar uma solução (20)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
+    "ENG": "I'm looking forward to it (20)",
+    "PTBR": "Estou ansioso por isso (20)",
     "CEFR": "A1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (20)",
+    "PTBR": "Essa não era minha intenção (20)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (20)",
+    "PTBR": "Concordo totalmente com você (20)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (20)",
+    "PTBR": "Isso vai levar algum tempo (20)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (20)",
+    "PTBR": "Eu não esperava por isso (20)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (21)",
+    "PTBR": "Preciso pensar sobre isso (21)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
+    "ENG": "It depends on the situation (21)",
+    "PTBR": "Depende da situação (21)",
     "CEFR": "A2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (21)",
+    "PTBR": "Não sei se vale a pena (21)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (21)",
+    "PTBR": "As coisas não saíram como planejado (21)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (21)",
+    "PTBR": "Precisamos encontrar uma solução (21)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (21)",
+    "PTBR": "Estou ansioso por isso (21)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
+    "ENG": "That wasn't my intention (21)",
+    "PTBR": "Essa não era minha intenção (21)",
     "CEFR": "A2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (21)",
+    "PTBR": "Concordo totalmente com você (21)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (21)",
+    "PTBR": "Isso vai levar algum tempo (21)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (21)",
+    "PTBR": "Eu não esperava por isso (21)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (22)",
+    "PTBR": "Preciso pensar sobre isso (22)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (22)",
+    "PTBR": "Depende da situação (22)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
+    "ENG": "I'm not sure if it's worth it (22)",
+    "PTBR": "Não sei se vale a pena (22)",
     "CEFR": "B1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (22)",
+    "PTBR": "As coisas não saíram como planejado (22)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (22)",
+    "PTBR": "Precisamos encontrar uma solução (22)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (22)",
+    "PTBR": "Estou ansioso por isso (22)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (22)",
+    "PTBR": "Essa não era minha intenção (22)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
+    "ENG": "I completely agree with you (22)",
+    "PTBR": "Concordo totalmente com você (22)",
     "CEFR": "B1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (22)",
+    "PTBR": "Isso vai levar algum tempo (22)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (22)",
+    "PTBR": "Eu não esperava por isso (22)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (23)",
+    "PTBR": "Preciso pensar sobre isso (23)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (23)",
+    "PTBR": "Depende da situação (23)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (23)",
+    "PTBR": "Não sei se vale a pena (23)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
+    "ENG": "Things didn't go as planned (23)",
+    "PTBR": "As coisas não saíram como planejado (23)",
     "CEFR": "B2"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (23)",
+    "PTBR": "Precisamos encontrar uma solução (23)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (23)",
+    "PTBR": "Estou ansioso por isso (23)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (23)",
+    "PTBR": "Essa não era minha intenção (23)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (23)",
+    "PTBR": "Concordo totalmente com você (23)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
+    "ENG": "This will take some time (23)",
+    "PTBR": "Isso vai levar algum tempo (23)",
     "CEFR": "B2"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (23)",
+    "PTBR": "Eu não esperava por isso (23)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (24)",
+    "PTBR": "Preciso pensar sobre isso (24)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (24)",
+    "PTBR": "Depende da situação (24)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (24)",
+    "PTBR": "Não sei se vale a pena (24)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (24)",
+    "PTBR": "As coisas não saíram como planejado (24)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
+    "ENG": "We need to find a solution (24)",
+    "PTBR": "Precisamos encontrar uma solução (24)",
     "CEFR": "C1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (24)",
+    "PTBR": "Estou ansioso por isso (24)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (24)",
+    "PTBR": "Essa não era minha intenção (24)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (24)",
+    "PTBR": "Concordo totalmente com você (24)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (24)",
+    "PTBR": "Isso vai levar algum tempo (24)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
+    "ENG": "I wasn't expecting that (24)",
+    "PTBR": "Eu não esperava por isso (24)",
     "CEFR": "C1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
+    "ENG": "I need to think about it (25)",
+    "PTBR": "Preciso pensar sobre isso (25)",
     "CEFR": "A1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (25)",
+    "PTBR": "Depende da situação (25)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (25)",
+    "PTBR": "Não sei se vale a pena (25)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (25)",
+    "PTBR": "As coisas não saíram como planejado (25)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (25)",
+    "PTBR": "Precisamos encontrar uma solução (25)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
+    "ENG": "I'm looking forward to it (25)",
+    "PTBR": "Estou ansioso por isso (25)",
     "CEFR": "A1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (25)",
+    "PTBR": "Essa não era minha intenção (25)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (25)",
+    "PTBR": "Concordo totalmente com você (25)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (25)",
+    "PTBR": "Isso vai levar algum tempo (25)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (25)",
+    "PTBR": "Eu não esperava por isso (25)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (26)",
+    "PTBR": "Preciso pensar sobre isso (26)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
+    "ENG": "It depends on the situation (26)",
+    "PTBR": "Depende da situação (26)",
     "CEFR": "A2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (26)",
+    "PTBR": "Não sei se vale a pena (26)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (26)",
+    "PTBR": "As coisas não saíram como planejado (26)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (26)",
+    "PTBR": "Precisamos encontrar uma solução (26)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (26)",
+    "PTBR": "Estou ansioso por isso (26)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
+    "ENG": "That wasn't my intention (26)",
+    "PTBR": "Essa não era minha intenção (26)",
     "CEFR": "A2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (26)",
+    "PTBR": "Concordo totalmente com você (26)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (26)",
+    "PTBR": "Isso vai levar algum tempo (26)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (26)",
+    "PTBR": "Eu não esperava por isso (26)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (27)",
+    "PTBR": "Preciso pensar sobre isso (27)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (27)",
+    "PTBR": "Depende da situação (27)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
+    "ENG": "I'm not sure if it's worth it (27)",
+    "PTBR": "Não sei se vale a pena (27)",
     "CEFR": "B1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (27)",
+    "PTBR": "As coisas não saíram como planejado (27)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (27)",
+    "PTBR": "Precisamos encontrar uma solução (27)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (27)",
+    "PTBR": "Estou ansioso por isso (27)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (27)",
+    "PTBR": "Essa não era minha intenção (27)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
+    "ENG": "I completely agree with you (27)",
+    "PTBR": "Concordo totalmente com você (27)",
     "CEFR": "B1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (27)",
+    "PTBR": "Isso vai levar algum tempo (27)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (27)",
+    "PTBR": "Eu não esperava por isso (27)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (28)",
+    "PTBR": "Preciso pensar sobre isso (28)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (28)",
+    "PTBR": "Depende da situação (28)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (28)",
+    "PTBR": "Não sei se vale a pena (28)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
+    "ENG": "Things didn't go as planned (28)",
+    "PTBR": "As coisas não saíram como planejado (28)",
     "CEFR": "B2"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (28)",
+    "PTBR": "Precisamos encontrar uma solução (28)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (28)",
+    "PTBR": "Estou ansioso por isso (28)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (28)",
+    "PTBR": "Essa não era minha intenção (28)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (28)",
+    "PTBR": "Concordo totalmente com você (28)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
+    "ENG": "This will take some time (28)",
+    "PTBR": "Isso vai levar algum tempo (28)",
     "CEFR": "B2"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (28)",
+    "PTBR": "Eu não esperava por isso (28)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (29)",
+    "PTBR": "Preciso pensar sobre isso (29)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (29)",
+    "PTBR": "Depende da situação (29)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (29)",
+    "PTBR": "Não sei se vale a pena (29)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (29)",
+    "PTBR": "As coisas não saíram como planejado (29)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
+    "ENG": "We need to find a solution (29)",
+    "PTBR": "Precisamos encontrar uma solução (29)",
     "CEFR": "C1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (29)",
+    "PTBR": "Estou ansioso por isso (29)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (29)",
+    "PTBR": "Essa não era minha intenção (29)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (29)",
+    "PTBR": "Concordo totalmente com você (29)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (29)",
+    "PTBR": "Isso vai levar algum tempo (29)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
+    "ENG": "I wasn't expecting that (29)",
+    "PTBR": "Eu não esperava por isso (29)",
     "CEFR": "C1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
+    "ENG": "I need to think about it (30)",
+    "PTBR": "Preciso pensar sobre isso (30)",
     "CEFR": "A1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (30)",
+    "PTBR": "Depende da situação (30)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (30)",
+    "PTBR": "Não sei se vale a pena (30)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (30)",
+    "PTBR": "As coisas não saíram como planejado (30)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (30)",
+    "PTBR": "Precisamos encontrar uma solução (30)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
+    "ENG": "I'm looking forward to it (30)",
+    "PTBR": "Estou ansioso por isso (30)",
     "CEFR": "A1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (30)",
+    "PTBR": "Essa não era minha intenção (30)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (30)",
+    "PTBR": "Concordo totalmente com você (30)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (30)",
+    "PTBR": "Isso vai levar algum tempo (30)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (30)",
+    "PTBR": "Eu não esperava por isso (30)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (31)",
+    "PTBR": "Preciso pensar sobre isso (31)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
+    "ENG": "It depends on the situation (31)",
+    "PTBR": "Depende da situação (31)",
     "CEFR": "A2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (31)",
+    "PTBR": "Não sei se vale a pena (31)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (31)",
+    "PTBR": "As coisas não saíram como planejado (31)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (31)",
+    "PTBR": "Precisamos encontrar uma solução (31)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (31)",
+    "PTBR": "Estou ansioso por isso (31)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
+    "ENG": "That wasn't my intention (31)",
+    "PTBR": "Essa não era minha intenção (31)",
     "CEFR": "A2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (31)",
+    "PTBR": "Concordo totalmente com você (31)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (31)",
+    "PTBR": "Isso vai levar algum tempo (31)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (31)",
+    "PTBR": "Eu não esperava por isso (31)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (32)",
+    "PTBR": "Preciso pensar sobre isso (32)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (32)",
+    "PTBR": "Depende da situação (32)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
+    "ENG": "I'm not sure if it's worth it (32)",
+    "PTBR": "Não sei se vale a pena (32)",
     "CEFR": "B1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (32)",
+    "PTBR": "As coisas não saíram como planejado (32)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (32)",
+    "PTBR": "Precisamos encontrar uma solução (32)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (32)",
+    "PTBR": "Estou ansioso por isso (32)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (32)",
+    "PTBR": "Essa não era minha intenção (32)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
+    "ENG": "I completely agree with you (32)",
+    "PTBR": "Concordo totalmente com você (32)",
     "CEFR": "B1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (32)",
+    "PTBR": "Isso vai levar algum tempo (32)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (32)",
+    "PTBR": "Eu não esperava por isso (32)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (33)",
+    "PTBR": "Preciso pensar sobre isso (33)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (33)",
+    "PTBR": "Depende da situação (33)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (33)",
+    "PTBR": "Não sei se vale a pena (33)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
+    "ENG": "Things didn't go as planned (33)",
+    "PTBR": "As coisas não saíram como planejado (33)",
     "CEFR": "B2"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (33)",
+    "PTBR": "Precisamos encontrar uma solução (33)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (33)",
+    "PTBR": "Estou ansioso por isso (33)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (33)",
+    "PTBR": "Essa não era minha intenção (33)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (33)",
+    "PTBR": "Concordo totalmente com você (33)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
+    "ENG": "This will take some time (33)",
+    "PTBR": "Isso vai levar algum tempo (33)",
     "CEFR": "B2"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (33)",
+    "PTBR": "Eu não esperava por isso (33)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (34)",
+    "PTBR": "Preciso pensar sobre isso (34)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (34)",
+    "PTBR": "Depende da situação (34)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (34)",
+    "PTBR": "Não sei se vale a pena (34)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (34)",
+    "PTBR": "As coisas não saíram como planejado (34)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
+    "ENG": "We need to find a solution (34)",
+    "PTBR": "Precisamos encontrar uma solução (34)",
     "CEFR": "C1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (34)",
+    "PTBR": "Estou ansioso por isso (34)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (34)",
+    "PTBR": "Essa não era minha intenção (34)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (34)",
+    "PTBR": "Concordo totalmente com você (34)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (34)",
+    "PTBR": "Isso vai levar algum tempo (34)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
+    "ENG": "I wasn't expecting that (34)",
+    "PTBR": "Eu não esperava por isso (34)",
     "CEFR": "C1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
+    "ENG": "I need to think about it (35)",
+    "PTBR": "Preciso pensar sobre isso (35)",
     "CEFR": "A1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (35)",
+    "PTBR": "Depende da situação (35)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (35)",
+    "PTBR": "Não sei se vale a pena (35)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (35)",
+    "PTBR": "As coisas não saíram como planejado (35)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (35)",
+    "PTBR": "Precisamos encontrar uma solução (35)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
+    "ENG": "I'm looking forward to it (35)",
+    "PTBR": "Estou ansioso por isso (35)",
     "CEFR": "A1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (35)",
+    "PTBR": "Essa não era minha intenção (35)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (35)",
+    "PTBR": "Concordo totalmente com você (35)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (35)",
+    "PTBR": "Isso vai levar algum tempo (35)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (35)",
+    "PTBR": "Eu não esperava por isso (35)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (36)",
+    "PTBR": "Preciso pensar sobre isso (36)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
+    "ENG": "It depends on the situation (36)",
+    "PTBR": "Depende da situação (36)",
     "CEFR": "A2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (36)",
+    "PTBR": "Não sei se vale a pena (36)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (36)",
+    "PTBR": "As coisas não saíram como planejado (36)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (36)",
+    "PTBR": "Precisamos encontrar uma solução (36)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (36)",
+    "PTBR": "Estou ansioso por isso (36)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
+    "ENG": "That wasn't my intention (36)",
+    "PTBR": "Essa não era minha intenção (36)",
     "CEFR": "A2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (36)",
+    "PTBR": "Concordo totalmente com você (36)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (36)",
+    "PTBR": "Isso vai levar algum tempo (36)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (36)",
+    "PTBR": "Eu não esperava por isso (36)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (37)",
+    "PTBR": "Preciso pensar sobre isso (37)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (37)",
+    "PTBR": "Depende da situação (37)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
+    "ENG": "I'm not sure if it's worth it (37)",
+    "PTBR": "Não sei se vale a pena (37)",
     "CEFR": "B1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (37)",
+    "PTBR": "As coisas não saíram como planejado (37)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (37)",
+    "PTBR": "Precisamos encontrar uma solução (37)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (37)",
+    "PTBR": "Estou ansioso por isso (37)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (37)",
+    "PTBR": "Essa não era minha intenção (37)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
+    "ENG": "I completely agree with you (37)",
+    "PTBR": "Concordo totalmente com você (37)",
     "CEFR": "B1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (37)",
+    "PTBR": "Isso vai levar algum tempo (37)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (37)",
+    "PTBR": "Eu não esperava por isso (37)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (38)",
+    "PTBR": "Preciso pensar sobre isso (38)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (38)",
+    "PTBR": "Depende da situação (38)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (38)",
+    "PTBR": "Não sei se vale a pena (38)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
+    "ENG": "Things didn't go as planned (38)",
+    "PTBR": "As coisas não saíram como planejado (38)",
     "CEFR": "B2"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (38)",
+    "PTBR": "Precisamos encontrar uma solução (38)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (38)",
+    "PTBR": "Estou ansioso por isso (38)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (38)",
+    "PTBR": "Essa não era minha intenção (38)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (38)",
+    "PTBR": "Concordo totalmente com você (38)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
+    "ENG": "This will take some time (38)",
+    "PTBR": "Isso vai levar algum tempo (38)",
     "CEFR": "B2"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (38)",
+    "PTBR": "Eu não esperava por isso (38)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (39)",
+    "PTBR": "Preciso pensar sobre isso (39)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (39)",
+    "PTBR": "Depende da situação (39)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (39)",
+    "PTBR": "Não sei se vale a pena (39)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (39)",
+    "PTBR": "As coisas não saíram como planejado (39)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
+    "ENG": "We need to find a solution (39)",
+    "PTBR": "Precisamos encontrar uma solução (39)",
     "CEFR": "C1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (39)",
+    "PTBR": "Estou ansioso por isso (39)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (39)",
+    "PTBR": "Essa não era minha intenção (39)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (39)",
+    "PTBR": "Concordo totalmente com você (39)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (39)",
+    "PTBR": "Isso vai levar algum tempo (39)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
+    "ENG": "I wasn't expecting that (39)",
+    "PTBR": "Eu não esperava por isso (39)",
     "CEFR": "C1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
+    "ENG": "I need to think about it (40)",
+    "PTBR": "Preciso pensar sobre isso (40)",
     "CEFR": "A1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (40)",
+    "PTBR": "Depende da situação (40)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (40)",
+    "PTBR": "Não sei se vale a pena (40)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (40)",
+    "PTBR": "As coisas não saíram como planejado (40)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (40)",
+    "PTBR": "Precisamos encontrar uma solução (40)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
+    "ENG": "I'm looking forward to it (40)",
+    "PTBR": "Estou ansioso por isso (40)",
     "CEFR": "A1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (40)",
+    "PTBR": "Essa não era minha intenção (40)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (40)",
+    "PTBR": "Concordo totalmente com você (40)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (40)",
+    "PTBR": "Isso vai levar algum tempo (40)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (40)",
+    "PTBR": "Eu não esperava por isso (40)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (41)",
+    "PTBR": "Preciso pensar sobre isso (41)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
+    "ENG": "It depends on the situation (41)",
+    "PTBR": "Depende da situação (41)",
     "CEFR": "A2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (41)",
+    "PTBR": "Não sei se vale a pena (41)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (41)",
+    "PTBR": "As coisas não saíram como planejado (41)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (41)",
+    "PTBR": "Precisamos encontrar uma solução (41)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (41)",
+    "PTBR": "Estou ansioso por isso (41)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
+    "ENG": "That wasn't my intention (41)",
+    "PTBR": "Essa não era minha intenção (41)",
     "CEFR": "A2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (41)",
+    "PTBR": "Concordo totalmente com você (41)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (41)",
+    "PTBR": "Isso vai levar algum tempo (41)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (41)",
+    "PTBR": "Eu não esperava por isso (41)",
+    "CEFR": "A2"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (42)",
+    "PTBR": "Preciso pensar sobre isso (42)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (42)",
+    "PTBR": "Depende da situação (42)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
+    "ENG": "I'm not sure if it's worth it (42)",
+    "PTBR": "Não sei se vale a pena (42)",
     "CEFR": "B1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (42)",
+    "PTBR": "As coisas não saíram como planejado (42)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (42)",
+    "PTBR": "Precisamos encontrar uma solução (42)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (42)",
+    "PTBR": "Estou ansioso por isso (42)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (42)",
+    "PTBR": "Essa não era minha intenção (42)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
+    "ENG": "I completely agree with you (42)",
+    "PTBR": "Concordo totalmente com você (42)",
     "CEFR": "B1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (42)",
+    "PTBR": "Isso vai levar algum tempo (42)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (42)",
+    "PTBR": "Eu não esperava por isso (42)",
+    "CEFR": "B1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (43)",
+    "PTBR": "Preciso pensar sobre isso (43)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (43)",
+    "PTBR": "Depende da situação (43)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (43)",
+    "PTBR": "Não sei se vale a pena (43)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
+    "ENG": "Things didn't go as planned (43)",
+    "PTBR": "As coisas não saíram como planejado (43)",
     "CEFR": "B2"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (43)",
+    "PTBR": "Precisamos encontrar uma solução (43)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (43)",
+    "PTBR": "Estou ansioso por isso (43)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (43)",
+    "PTBR": "Essa não era minha intenção (43)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (43)",
+    "PTBR": "Concordo totalmente com você (43)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
+    "ENG": "This will take some time (43)",
+    "PTBR": "Isso vai levar algum tempo (43)",
     "CEFR": "B2"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (43)",
+    "PTBR": "Eu não esperava por isso (43)",
+    "CEFR": "B2"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
-    "CEFR": "A1"
+    "ENG": "I need to think about it (44)",
+    "PTBR": "Preciso pensar sobre isso (44)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (44)",
+    "PTBR": "Depende da situação (44)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (44)",
+    "PTBR": "Não sei se vale a pena (44)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (44)",
+    "PTBR": "As coisas não saíram como planejado (44)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
+    "ENG": "We need to find a solution (44)",
+    "PTBR": "Precisamos encontrar uma solução (44)",
     "CEFR": "C1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
-    "CEFR": "A1"
+    "ENG": "I'm looking forward to it (44)",
+    "PTBR": "Estou ansioso por isso (44)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (44)",
+    "PTBR": "Essa não era minha intenção (44)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (44)",
+    "PTBR": "Concordo totalmente com você (44)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (44)",
+    "PTBR": "Isso vai levar algum tempo (44)",
+    "CEFR": "C1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
+    "ENG": "I wasn't expecting that (44)",
+    "PTBR": "Eu não esperava por isso (44)",
     "CEFR": "C1"
   },
   {
-    "ENG": "How are you?",
-    "PTBR": "Como você está?",
+    "ENG": "I need to think about it (45)",
+    "PTBR": "Preciso pensar sobre isso (45)",
     "CEFR": "A1"
   },
   {
-    "ENG": "I don't know.",
-    "PTBR": "Eu não sei.",
-    "CEFR": "A2"
+    "ENG": "It depends on the situation (45)",
+    "PTBR": "Depende da situação (45)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "That makes sense.",
-    "PTBR": "Isso faz sentido.",
-    "CEFR": "B1"
+    "ENG": "I'm not sure if it's worth it (45)",
+    "PTBR": "Não sei se vale a pena (45)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "I'll think about it.",
-    "PTBR": "Vou pensar sobre isso.",
-    "CEFR": "B2"
+    "ENG": "Things didn't go as planned (45)",
+    "PTBR": "As coisas não saíram como planejado (45)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "It depends.",
-    "PTBR": "Depende.",
-    "CEFR": "C1"
+    "ENG": "We need to find a solution (45)",
+    "PTBR": "Precisamos encontrar uma solução (45)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Let's take a look.",
-    "PTBR": "Vamos dar uma olhada.",
+    "ENG": "I'm looking forward to it (45)",
+    "PTBR": "Estou ansioso por isso (45)",
     "CEFR": "A1"
   },
   {
-    "ENG": "I'm not sure yet.",
-    "PTBR": "Ainda não tenho certeza.",
-    "CEFR": "A2"
+    "ENG": "That wasn't my intention (45)",
+    "PTBR": "Essa não era minha intenção (45)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "What do you mean?",
-    "PTBR": "O que você quer dizer?",
-    "CEFR": "B1"
+    "ENG": "I completely agree with you (45)",
+    "PTBR": "Concordo totalmente com você (45)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Give me a second.",
-    "PTBR": "Me dê um segundo.",
-    "CEFR": "B2"
+    "ENG": "This will take some time (45)",
+    "PTBR": "Isso vai levar algum tempo (45)",
+    "CEFR": "A1"
   },
   {
-    "ENG": "Sounds good to me.",
-    "PTBR": "Parece bom para mim.",
-    "CEFR": "C1"
+    "ENG": "I wasn't expecting that (45)",
+    "PTBR": "Eu não esperava por isso (45)",
+    "CEFR": "A1"
   }
 ]
