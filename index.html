@@ -30,14 +30,14 @@
       </div>
 
       <label for="resposta" class="sr-only">Sua tradução</label>
-      <input id="resposta" type="text" placeholder="Digite a tradução em português (PTBR)" autocomplete="off">
+      <input id="resposta" type="text" placeholder="Digite a tradução em português (PT-BR)" autocomplete="off" />
 
       <div class="buttons-grid">
         <button id="checkBtn">Conferir tradução</button>
         <button id="skipBtn">Próxima</button>
       </div>
 
-      <div id="feedback" class="feedback" aria-live="polite"></div>
+      <div id="resultado" class="feedback" aria-live="polite"></div>
     </section>
 
     <aside id="historyPanel" class="panel hidden">
@@ -52,8 +52,10 @@
       <p>Devidas agora: <strong id="dueCount">0</strong></p>
       <p>Acertos hoje: <strong id="todayCorrect">0</strong></p>
       <p>Erros hoje: <strong id="todayWrong">0</strong></p>
+
       <h4>Fila inteligente</h4>
       <small>Frases com mais lapsos aparecem com maior probabilidade.</small>
+
       <div class="dashboard-actions">
         <button id="exportBtn">Exportar SRS</button>
         <button id="resetBtn">Resetar progresso</button>
@@ -65,6 +67,6 @@
     <small>Pronúncia: americana (en-US) • Funciona offline (localStorage) • Feito para GitHub Pages</small>
   </footer>
 
-<script src="app.js"></script>
+  <script src="app.js"></script>
 </body>
 </html>
