@@ -20,8 +20,24 @@
   <h1 class="text-xl font-semibold">Treino ENG → PTBR</h1>
 
   <div class="flex gap-2">
-    <button id="toggleTheme" class="px-3 py-1 rounded bg-gray-200 dark:bg-gray-700">🌗</button>
-    <button id="resetProgress" class="px-3 py-1 rounded bg-red-600 text-white">Resetar</button>
+    <button
+      id="toggleDataset"
+      class="px-3 py-1 rounded bg-indigo-600 text-white hover:bg-indigo-700 text-sm"
+      title="Alternar entre frases e palavras">
+      🔁 Frases / Palavras
+    </button>
+
+    <button
+      id="toggleTheme"
+      class="px-3 py-1 rounded bg-gray-200 dark:bg-gray-700">
+      🌗
+    </button>
+
+    <button
+      id="resetProgress"
+      class="px-3 py-1 rounded bg-red-600 text-white hover:bg-red-700">
+      Resetar
+    </button>
   </div>
 </header>
 
@@ -40,22 +56,23 @@
 
     <button id="ouvir"
       class="w-full py-2 rounded bg-blue-600 hover:bg-blue-700 text-white">
-      🔊 Ouvir frase
+      🔊 Ouvir
     </button>
 
-    <textarea id="resposta"
+    <textarea
+      id="resposta"
       class="w-full p-3 rounded bg-gray-100 dark:bg-gray-700"
       placeholder="Digite a tradução em português..."></textarea>
 
     <div class="flex flex-col sm:flex-row gap-2">
       <button id="conferir"
         class="flex-1 py-2 rounded bg-green-600 hover:bg-green-700 text-white">
-        Conferir tradução
+        Conferir
       </button>
 
       <button id="proxima"
         class="flex-1 py-2 rounded bg-gray-400 dark:bg-gray-600">
-        Próxima frase
+        Próxima
       </button>
     </div>
 
