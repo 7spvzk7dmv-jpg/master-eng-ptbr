@@ -1,9 +1,11 @@
 let frases = [];
+
 let estado = JSON.parse(localStorage.getItem("estadoTreino")) || {
   indiceAtual: 0,
   stats: {},
   acertos: 0,
-  erros: 0
+  erros: 0,
+  dataset: "frases" // "frases" ou "palavras"
 };
 
 const fraseENG = document.getElementById("fraseENG");
@@ -12,13 +14,24 @@ const resultado = document.getElementById("resultado");
 const linha = document.getElementById("linha");
 const nivel = document.getElementById("nivel");
 
-fetch("data/frases.json")
-  .then(r => r.json())
-  .then(d => {
-    frases = d;
-    mostrarFrase();
-    atualizarGrafico();
-  });
+function carregarDataset() {
+  const arquivo = estado.dataset === "frases"
+    ? "data/frases.json"
+    : "data/palavras.json";
+
+  fetch(arquivo)
+    .then(r => r.json())
+    .then(d => {
+      frases = d;
+      estado.indiceAtual = 0;
+      estado.stats = {};
+      salvar();
+      mostrarFrase();
+      atualizarGrafico();
+    });
+}
+
+carregarDataset();
 
 function normalizar(txt) {
   return txt
@@ -109,6 +122,13 @@ document.getElementById("resetProgress").onclick = () => {
 
 document.getElementById("toggleTheme").onclick = () => {
   document.documentElement.classList.toggle("dark");
+};
+
+/* 🔁 BOTÃO-CHAVE: FRASES ↔ PALAVRAS */
+document.getElementById("toggleDataset").onclick = () => {
+  estado.dataset = estado.dataset === "frases" ? "palavras" : "frases";
+  salvar();
+  carregarDataset();
 };
 
 let chart;
