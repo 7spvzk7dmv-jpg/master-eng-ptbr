@@ -75,10 +75,9 @@
   { "ENG": "feasibility", "PTBR": "viabilidade", "CEFR": "C1" },
   { "ENG": "benchmark", "PTBR": "referência comparativa", "CEFR": "C1" },
   { "ENG": "mitigation", "PTBR": "mitigação", "CEFR": "C1" },
-  { "ENG": "procurement", "PTBR": "contratação pública", "CEFR": "C1" }
-]
+  { "ENG": "procurement", "PTBR": "contratação pública", "CEFR": "C1" },
 
-[
+
   { "ENG": "table", "PTBR": "mesa", "CEFR": "A1" },
   { "ENG": "chair", "PTBR": "cadeira", "CEFR": "A1" },
   { "ENG": "window", "PTBR": "janela", "CEFR": "A1" },
@@ -143,9 +142,9 @@
   { "ENG": "traceability", "PTBR": "rastreabilidade", "CEFR": "C1" },
   { "ENG": "institutional", "PTBR": "institucional", "CEFR": "C1" },
   { "ENG": "auditability", "PTBR": "auditabilidade", "CEFR": "C1" },
-  { "ENG": "standardization", "PTBR": "padronização", "CEFR": "C1" }
-]
-[
+  { "ENG": "standardization", "PTBR": "padronização", "CEFR": "C1" },
+
+
   { "ENG": "pen", "PTBR": "caneta", "CEFR": "A1" },
   { "ENG": "paper", "PTBR": "papel", "CEFR": "A1" },
   { "ENG": "bag", "PTBR": "bolsa", "CEFR": "A1" },
@@ -210,9 +209,9 @@
   { "ENG": "subsidiarity", "PTBR": "subsidiariedade", "CEFR": "C1" },
   { "ENG": "legitimacy", "PTBR": "legitimidade", "CEFR": "C1" },
   { "ENG": "predictability", "PTBR": "previsibilidade", "CEFR": "C1" },
-  { "ENG": "enforceability", "PTBR": "exequibilidade", "CEFR": "C1" }
-]
-[
+  { "ENG": "enforceability", "PTBR": "exequibilidade", "CEFR": "C1" },
+
+
   { "ENG": "apple", "PTBR": "maçã", "CEFR": "A1" },
   { "ENG": "banana", "PTBR": "banana", "CEFR": "A1" },
   { "ENG": "bread", "PTBR": "pão", "CEFR": "A1" },
@@ -277,9 +276,9 @@
   { "ENG": "organizational capacity", "PTBR": "capacidade organizacional", "CEFR": "C1" },
   { "ENG": "policy coherence", "PTBR": "coerência de políticas", "CEFR": "C1" },
   { "ENG": "operational resilience", "PTBR": "resiliência operacional", "CEFR": "C1" },
-  { "ENG": "strategic alignment", "PTBR": "alinhamento estratégico", "CEFR": "C1" }
-]
-[
+  { "ENG": "strategic alignment", "PTBR": "alinhamento estratégico", "CEFR": "C1" },
+
+
   { "ENG": "cityhall", "PTBR": "prefeitura", "CEFR": "A1" },
   { "ENG": "park", "PTBR": "parque", "CEFR": "A1" },
   { "ENG": "bridge", "PTBR": "ponte", "CEFR": "A1" },
@@ -344,9 +343,9 @@
   { "ENG": "risk tolerance", "PTBR": "tolerância ao risco", "CEFR": "C1" },
   { "ENG": "internal control system", "PTBR": "sistema de controle interno", "CEFR": "C1" },
   { "ENG": "performance measurement", "PTBR": "mensuração de desempenho", "CEFR": "C1" },
-  { "ENG": "evidence-based policy", "PTBR": "política baseada em evidências", "CEFR": "C1" }
-]
-[
+  { "ENG": "evidence-based policy", "PTBR": "política baseada em evidências", "CEFR": "C1" },
+
+
   { "ENG": "clock", "PTBR": "relógio", "CEFR": "A1" },
   { "ENG": "watch", "PTBR": "relógio de pulso", "CEFR": "A1" },
   { "ENG": "calendar", "PTBR": "calendário", "CEFR": "A1" },
@@ -400,9 +399,9 @@
   { "ENG": "institutional design", "PTBR": "desenho institucional", "CEFR": "C1" },
   { "ENG": "risk exposure", "PTBR": "exposição a risco", "CEFR": "C1" },
   { "ENG": "control environment", "PTBR": "ambiente de controle", "CEFR": "C1" },
-  { "ENG": "performance accountability", "PTBR": "responsabilização por desempenho", "CEFR": "C1" }
-]
-[
+  { "ENG": "performance accountability", "PTBR": "responsabilização por desempenho", "CEFR": "C1" },
+
+
   { "ENG": "lamp", "PTBR": "lâmpada", "CEFR": "A1" },
   { "ENG": "mirror", "PTBR": "espelho", "CEFR": "A1" },
   { "ENG": "curtain", "PTBR": "cortina", "CEFR": "A1" },
@@ -456,9 +455,9 @@
   { "ENG": "governance model", "PTBR": "modelo de governança", "CEFR": "C1" },
   { "ENG": "regulatory framework", "PTBR": "arcabouço regulatório", "CEFR": "C1" },
   { "ENG": "policy distortion", "PTBR": "distorção de política pública", "CEFR": "C1" },
-  { "ENG": "long-term accountability", "PTBR": "responsabilização de longo prazo", "CEFR": "C1" }
-]
-[
+  { "ENG": "long-term accountability", "PTBR": "responsabilização de longo prazo", "CEFR": "C1" },
+
+
   { "ENG": "hammer", "PTBR": "martelo", "CEFR": "A1" },
   { "ENG": "nail", "PTBR": "prego", "CEFR": "A1" },
   { "ENG": "screw", "PTBR": "parafuso", "CEFR": "A1" },
@@ -512,9 +511,9 @@
   { "ENG": "regulatory consistency", "PTBR": "consistência regulatória", "CEFR": "C1" },
   { "ENG": "policy alignment", "PTBR": "alinhamento de políticas", "CEFR": "C1" },
   { "ENG": "organizational coherence", "PTBR": "coerência organizacional", "CEFR": "C1" },
-  { "ENG": "longitudinal assessment", "PTBR": "avaliação longitudinal", "CEFR": "C1" }
-]
-[
+  { "ENG": "longitudinal assessment", "PTBR": "avaliação longitudinal", "CEFR": "C1" },
+
+
   { "ENG": "bicycle", "PTBR": "bicicleta", "CEFR": "A1" },
   { "ENG": "helmet", "PTBR": "capacete", "CEFR": "A1" },
   { "ENG": "engine", "PTBR": "motor", "CEFR": "A1" },
@@ -568,9 +567,9 @@
   { "ENG": "policy effectiveness", "PTBR": "efetividade de políticas", "CEFR": "C1" },
   { "ENG": "regulatory quality", "PTBR": "qualidade regulatória", "CEFR": "C1" },
   { "ENG": "accountability chain", "PTBR": "cadeia de responsabilização", "CEFR": "C1" },
-  { "ENG": "evidence synthesis", "PTBR": "síntese de evidências", "CEFR": "C1" }
-]
-[
+  { "ENG": "evidence synthesis", "PTBR": "síntese de evidências", "CEFR": "C1" },
+
+
   { "ENG": "key", "PTBR": "chave", "CEFR": "A1" },
   { "ENG": "lock", "PTBR": "fechadura", "CEFR": "A1" },
   { "ENG": "fence", "PTBR": "cerca", "CEFR": "A1" },
